@@ -1,5 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:1.0
+NAME:NIPS_tutorials
 BEGIN:VEVENT
 SUMMARY:Deep Reinforcement Learning Through Policy Optimization | Pieter A
  bbeel \, John Schulman

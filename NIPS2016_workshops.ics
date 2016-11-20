@@ -1,5 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:1.0
+NAME:NIPS_workshops
 BEGIN:VEVENT
 SUMMARY:Private Multi-Party Machine Learning | Borja Balle \, Aurélien Be
  llet \, David Evans \, Adrià Gascón
