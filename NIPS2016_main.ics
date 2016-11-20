@@ -1,0 +1,1915 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T103000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T110000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6849\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T163000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T170000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6848\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Remarks | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T170000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T173000
+DESCRIPTION:Break:Opening Remarks\n\nhttp://nips.cc/Conferences/2016/Sched
+ ule?showEvent=7851\n\n
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Predictive Learning | Yann LeCun
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T173000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T182000
+DESCRIPTION:Invited Talk (Posner Lecture):Predictive Learning\nYann LeCun\
+ nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6197\n\nDeep learning 
+ has been at the root of significant progress in many application areas\, s
+ uch as computer perception and natural language processing. But almost all
+  of these systems currently use supervised learning with human-curated lab
+ els. The challenge of the next several years is to let machines learn from
+  raw\, unlabeled data\, such as images\, videos and text. Intelligent syst
+ ems today do not possess "common sense"\, which humans and animals acquire
+  by observing the world\, acting in it\, and understanding the physical co
+ nstraints of it. I will argue that allowing machine to learn predictive mo
+ dels of the world is key to significant progress in artificial intelligenc
+ e\, and a necessary component of model-based planning and reinforcement le
+ arning.  The main technical difficulty is that the world is only partially
+  predictable. A general formulation of unsupervised learning that deals wi
+ th partial predictability will be presented. The formulation connects many
+  well-known approaches to unsupervised learning\, as well as new and excit
+ ing ones such as adversarial\ntraining.
+LOCATION:area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intelligent Biosphere | Drew Purves
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T090000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T095000
+DESCRIPTION:Invited Talk:Intelligent Biosphere\nDrew Purves\nhttp://nips.c
+ c/Conferences/2016/Schedule?showEvent=6193\n\nThe biosphere is a stupendou
+ sly complex and poorly understood system\, which we depend on for our surv
+ ival\, and which we are attacking on every front. Worrying. But what has t
+ hat got to do with machine learning and AI? I will explain how the complex
+ ity and stability of the entire biosphere depend on\, and select for\, the
+  intelligence of the individual organisms that comprise it\; why simulatio
+ ns of ecological tasks in naturalistic environments could be an important 
+ test bed for Artificial General Intelligence\, AGI\; how new technology an
+ d machine learning are already giving us a deeper understanding of life on
+  Earth\; and why AGI is needed to maintain the biosphere in a state that i
+ s compatible with the continued existence of human civilization.
+LOCATION:Area 1+2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Value Iteration Networks | Aviv Tamar \, Sergey Levine \, Pieter A
+ bbeel \, YI WU \, Garrett Thomas
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T095000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T101000
+DESCRIPTION:Oral:Value Iteration Networks\nAviv Tamar \, Sergey Levine \, 
+ Pieter Abbeel \, YI WU \, Garrett Thomas\nhttp://nips.cc/Conferences/2016/
+ Schedule?showEvent=7437\n\nWe introduce the value iteration network (VIN):
+  a fully differentiable neural network with a `planning module' embedded w
+ ithin. VINs can learn to plan\, and are suitable for predicting outcomes t
+ hat involve planning-based reasoning\, such as policies for reinforcement 
+ learning. Key to our approach is a novel differentiable approximation of t
+ he value-iteration algorithm\, which can be represented as a convolutional
+  neural network\, and trained end-to-end using standard backpropagation. W
+ e evaluate VIN based policies on discrete and continuous path-planning dom
+ ains\, and on a natural-language based search task. We show that by learni
+ ng an explicit planning computation\, VIN policies generalize better to ne
+ w\, unseen domains.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T101000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T104000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6851\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graphons\, mergeons\, and so on! | Justin Eldridge \, Mikhail Belk
+ in \, Yusu Wang
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T104000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T110000
+DESCRIPTION:Oral:Graphons\, mergeons\, and so on!\nJustin Eldridge \, Mikh
+ ail Belkin \, Yusu Wang\nhttp://nips.cc/Conferences/2016/Schedule?showEven
+ t=7431\n\nIn this work we develop a theory of hierarchical clustering for 
+ graphs. Our modelling assumption is that graphs are sampled from a graphon
+ \, which is a powerful and general model for generating graphs and analyzi
+ ng large networks.  Graphons are a  far richer class of graph models than 
+ stochastic blockmodels\, the primary setting for recent progress in the st
+ atistical theory of graph clustering. We define what it means for an algor
+ ithm to produce the ``correct" clustering\, give sufficient conditions in 
+ which a method is statistically consistent\, and provide an explicit algor
+ ithm satisfying these properties.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tractable Operations for Arithmetic Circuits of Probabilistic Mode
+ ls | Yujia Shen \, Arthur Choi \, Adnan Darwiche
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T104000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T110000
+DESCRIPTION:Oral:Tractable Operations for Arithmetic Circuits of Probabili
+ stic Models\nYujia Shen \, Arthur Choi \, Adnan Darwiche\nhttp://nips.cc/C
+ onferences/2016/Schedule?showEvent=7443\n\nWe consider tractable represent
+ ations of probability distributions and the polytime operations they suppo
+ rt.  In particular\, we consider a recently proposed arithmetic circuit re
+ presentation\, the Probabilistic Sentential Decision Diagram (PSDD).  We s
+ how that PSDD supports a polytime multiplication operator\, while they do 
+ not support a polytime operator for summing-out variables.  A polytime mul
+ tiplication operator make PSDDs suitable for a broader class of applicatio
+ ns compared to arithmetic circuits\, which do not in general support multi
+ plication.  As one example\, we show that PSDD multiplication leads to a v
+ ery simple but effective compilation algorithm for probabilistic graphical
+  models: represent each model factor as a PSDD\, and then multiply them.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hierarchical Clustering via Spreading Metrics | Aurko Roy \, Sebas
+ tian Pokutta
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T112000
+DESCRIPTION:Oral:Hierarchical Clustering via Spreading Metrics\nAurko Roy 
+ \, Sebastian Pokutta\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7
+ 432\n\nWe study the cost function for  hierarchical clusterings introduced
+  by [Dasgupta\, 2015]  where hierarchies are treated as first-class object
+ s rather than deriving their cost from projections into flat clusters. It 
+ was also shown in [Dasgupta\, 2015] that a top-down algorithm  returns a h
+ ierarchical clustering of cost at most (O\\left(\\alphan \\log n\\right)) 
+ times the cost of the optimal hierarchical clustering\, where (\\alphan) i
+ s the approximation ratio of the Sparsest Cut subroutine used. Thus using 
+ the best known approximation algorithm for Sparsest Cut due to Arora-Rao-V
+ azirani\,  the top down algorithm returns a hierarchical clustering of cos
+ t at most  (O\\left(\\log^{3/2} n\\right)) times the cost of the optimal s
+ olution. We improve this by giving an (O(\\log{n}))-approximation algorith
+ m for this problem. Our main technical ingredients are a combinatorial cha
+ racterization of ultrametrics induced by this cost function\, deriving an 
+ Integer Linear Programming (ILP) formulation for this family of ultrametri
+ cs\, and showing how to iteratively round an LP relaxation of this formula
+ tion by  using the idea of \\emph{sphere growing} which has been extensive
+ ly used in the context of graph  partitioning. We also prove that our algo
+ rithm returns an (O(\\log{n}))-approximate  hierarchical clustering for a 
+ generalization of this cost function also studied in [Dasgupta\, 2015]. Ex
+ periments show that the hierarchies found by using the ILP formulation as 
+ well  as our rounding algorithm often have better projections into flat cl
+ usters than the standard linkage based algorithms. We conclude with an ina
+ pproximability result for this problem\, namely that no polynomial sized L
+ P or SDP can be used to obtain a constant factor approximation for this pr
+ oblem.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testing for Differences in Gaussian Graphical Models:  Application
+ s to Brain Connectivity | Eugene Belilovsky \, Gaël Varoquaux \, Matthew 
+ B Blaschko
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T112000
+DESCRIPTION:Oral:Testing for Differences in Gaussian Graphical Models:  Ap
+ plications to Brain Connectivity\nEugene Belilovsky \, Gaël Varoquaux \, 
+ Matthew B Blaschko\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=744
+ 6\n\nFunctional brain networks are well described and estimated from data 
+ with Gaussian Graphical Models (GGMs)\, e.g.\\ using sparse inverse covari
+ ance estimators. Comparing functional connectivity of subjects in two popu
+ lations calls for comparing these estimated GGMs. Our goal is to identify 
+ differences in GGMs known to have similar structure. We characterize the u
+ ncertainty of differences with confidence intervals obtained using a param
+ etric distribution on parameters of a sparse estimator. Sparse penalties e
+ nable statistical guarantees and interpretable models even in high-dimensi
+ onal and low-sample settings. Characterizing the distributions of sparse m
+ odels is inherently challenging as the penalties produce a biased estimato
+ r. Recent work invokes the sparsity assumptions to effectively remove the 
+ bias from a sparse estimator such as the lasso.  These distributions can b
+ e used to give confidence intervals on edges in GGMs\, and by extension th
+ eir differences. However\, in the case of comparing GGMs\, these estimator
+ s do not make use of any assumed joint structure among the GGMs. Inspired 
+ by priors from brain functional connectivity we derive the distribution of
+  parameter differences under a joint penalty when parameters are known to 
+ be sparse in the difference. This leads us to introduce the debiased multi
+ -task fused lasso\, whose distribution can be characterized in an efficien
+ t manner. We then show how the debiased lasso and multi-task fused lasso c
+ an be used to obtain confidence intervals on edge differences in GGMs. We 
+ validate the techniques proposed on a set of synthetic examples as well as
+  neuro-imaging dataset created for the study of autism.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clustering with Same-Cluster Queries | Hassan Ashtiani \, Shrinu K
+ ushagra \, Shai Ben-David
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T112000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T114000
+DESCRIPTION:Oral:Clustering with Same-Cluster Queries\nHassan Ashtiani \, 
+ Shrinu Kushagra \, Shai Ben-David\nhttp://nips.cc/Conferences/2016/Schedul
+ e?showEvent=7433\n\nWe propose a framework for Semi-Supervised Active Clus
+ tering framework (SSAC)\, where the learner is allowed to interact with a 
+ domain expert\, asking whether two given instances belong to the same clus
+ ter or not. We study the query and computational complexity of clustering 
+ in this framework. We consider a setting where the expert conforms to a ce
+ nter-based clustering with a notion of margin.  We show that there is a tr
+ ade off between computational complexity and query complexity\; We prove t
+ hat for the case of $k$-means clustering (i.e.\, when the expert conforms 
+ to a solution of $k$-means)\, having access to relatively few such queries
+  allows efficient solutions to otherwise NP hard problems.  In particular\
+ , we provide a probabilistic polynomial-time (BPP) algorithm  for clusteri
+ ng in this setting that asks $O\\big(k^2\\log k + k\\log n)$ same-cluster 
+ queries and runs with time complexity $O\\big(kn\\log n)$ (where $k$ is th
+ e number of clusters and $n$ is the number of instances). The success of t
+ he algorithm is guaranteed for data satisfying the margin condition under 
+ which\, without queries\, we show that the problem is NP hard. We also pro
+ ve a lower bound on the number of queries needed to have a computationally
+  efficient clustering algorithm in this setting.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SDP Relaxation with Randomized Rounding for Energy Disaggregation 
+ | Kiarash Shaloudegi \, András György \, Csaba Szepesvari \, Wilsun Xu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T112000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T114000
+DESCRIPTION:Oral:SDP Relaxation with Randomized Rounding for Energy Disagg
+ regation\nKiarash Shaloudegi \, András György \, Csaba Szepesvari \, Wil
+ sun Xu\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7444\n\nWe deve
+ lop a scalable\, computationally efficient method for the task of energy d
+ isaggregation for home appliance monitoring. In this problem the goal is t
+ o estimate the energy consumption of each appliance based on the total ene
+ rgy-consumption signal of a household. The current state of the art models
+  the problem as inference in factorial HMMs\, and finds an approximate sol
+ ution to the resulting quadratic integer program via quadratic programming
+ . Here we take a more principled approach\, better suited to integer progr
+ amming problems\, and find an approximate optimum by combining convex semi
+ definite relaxations with randomized rounding\, as well as with a scalable
+  ADMM method that exploits the special structure of the resulting semidefi
+ nite program. Simulation results demonstrate the superiority of our method
+ s both in synthetic and real-world datasets.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unsupervised Feature Extraction by Time-Contrastive Learning and N
+ onlinear ICA | Aapo Hyvarinen \, Hiroshi Morioka
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T114000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T120000
+DESCRIPTION:Oral:Unsupervised Feature Extraction by Time-Contrastive Learn
+ ing and Nonlinear ICA\nAapo Hyvarinen \, Hiroshi Morioka\nhttp://nips.cc/C
+ onferences/2016/Schedule?showEvent=7434\n\nNonlinear independent component
+  analysis (ICA) provides an appealing framework for unsupervised feature l
+ earning\, but the models proposed so far are not identifiable. Here\, we f
+ irst propose a new intuitive principle of unsupervised deep learning from 
+ time series which uses the nonstationary structure of the data. Our learni
+ ng principle\, time-contrastive learning (TCL)\,  finds a representation w
+ hich allows optimal discrimination of time segments (windows). Surprisingl
+ y\, we show how TCL can be related to a nonlinear ICA model\, when ICA is 
+ redefined to include temporal nonstationarities. In particular\, we show t
+ hat TCL combined with linear ICA estimates the nonlinear ICA model up to p
+ oint-wise transformations of the sources\, and this solution is unique ---
+  thus providing the first identifiability result for nonlinear ICA which i
+ s rigorous\, constructive\, as well as very general.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayesian Intermittent Demand Forecasting for Large Inventories | M
+ atthias W Seeger \, David Salinas \, Valentin Flunkert
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T114000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T120000
+DESCRIPTION:Oral:Bayesian Intermittent Demand Forecasting for Large Invent
+ ories\nMatthias W Seeger \, David Salinas \, Valentin Flunkert\nhttp://nip
+ s.cc/Conferences/2016/Schedule?showEvent=7445\n\nWe present a scalable and
+  robust Bayesian method for demand forecasting in the context of a large e
+ -commerce platform\, paying special attention to intermittent and bursty t
+ arget statistics. Inference is approximated by the Newton-Raphson algorith
+ m\, reduced to linear-time Kalman smoothing\, which allows us to operate o
+ n several orders of magnitude larger problems than previous related work. 
+ In a study on large real-world sales datasets\, our method outperforms com
+ peting approaches on fast and medium moving items.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast and Provably Good Seedings for k-Means | Olivier Bachem \, Ma
+ rio Lucic \, Hamed Hassani \, Andreas Krause
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T120000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T122000
+DESCRIPTION:Oral:Fast and Provably Good Seedings for k-Means\nOlivier Bach
+ em \, Mario Lucic \, Hamed Hassani \, Andreas Krause\nhttp://nips.cc/Confe
+ rences/2016/Schedule?showEvent=7435\n\nSeeding - the task of finding initi
+ al cluster centers - is critical in obtaining high-quality clusterings for
+  k-Means. However\, k-means++ seeding\, the state of the art algorithm\, d
+ oes not scale well to massive datasets as it is inherently sequential and 
+ requires k full passes through the data. It was recently shown that Markov
+  chain Monte Carlo sampling can be used to efficiently approximate the see
+ ding step of k-means++. However\, this result requires assumptions on the 
+ data generating distribution.  We propose a simple yet fast seeding algori
+ thm that producesprovablygood clusterings evenwithout assumptionson the da
+ ta. Our analysis shows that the algorithm allows for a favourable trade-of
+ f between solution quality and computational cost\, speeding up k-means++ 
+ seeding by up to several orders of magnitude. We validate our theoretical 
+ results in extensive experiments on a variety of real-world data sets.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Synthesis of MCMC and Belief Propagation | Sung-Soo Ahn \, Michael
+  Chertkov \, Jinwoo Shin
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T120000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T122000
+DESCRIPTION:Oral:Synthesis of MCMC and Belief Propagation\nSung-Soo Ahn \,
+  Michael Chertkov \, Jinwoo Shin\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=7447\n\nMarkov Chain Monte Carlo (MCMC) and Belief Propagation 
+ (BP) are the most popular algorithms for computational inference in Graphi
+ cal Models (GM).  In principle\, MCMC is an exact probabilistic method whi
+ ch\, however\, often suffers from exponentially slow mixing. In contrast\,
+  BP  is a deterministic method\, which is typically fast\,  empirically ve
+ ry successful\, however in general lacking control of accuracy over loopy 
+ graphs.  In this paper\, we introduce MCMC algorithms correcting the appro
+ ximation error of BP\, i.e.\,  we provide a way to compensate for BP error
+ s via a consecutive BP-aware MCMC.  Our framework is based on the Loop Cal
+ culus (LC) approach  which allows to express the BP error  as a sum of wei
+ ghted generalized loops. Although the full series is computationally intra
+ ctable\,  it is known that a truncated series\, summing up all 2-regular l
+ oops\, is computable in polynomial-time for planar pair-wise binary GMs an
+ d it also provides a highly accurate approximation empirically. Motivated 
+ by this\, we\, first\, propose a polynomial-time approximation MCMC scheme
+  for the truncated series of general (non-planar) pair-wise binary models.
+   Our main idea here is to use the Worm algorithm\, known to provide fast 
+ mixing in other (related) problems\, and then  design an appropriate rejec
+ tion scheme to sample 2-regular loops. Furthermore\, we also design an eff
+ icient rejection-free MCMC scheme  for approximating the full series.  The
+  main novelty underlying our design  is in utilizing the concept of cycle 
+ basis\, which provides an efficient decomposition of the generalized loops
+ . In essence\, the proposed MCMC schemes run on transformed GM built upon 
+  the non-trivial BP solution\, and our experiments show that this synthesi
+ s of BP and MCMC  outperforms both direct MCMC and bare BP schemes.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Engineering Principles From Stable and Developing Brains | Saket N
+ avlakha
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T150000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T155000
+DESCRIPTION:Invited Talk:Engineering Principles From Stable and Developing
+  Brains\nSaket Navlakha\nhttp://nips.cc/Conferences/2016/Schedule?showEven
+ t=6192\n\nRobust\, efficient\, and low-cost networks are advantageous in b
+ oth biological and engineered systems. First\, I will describe a joint com
+ putational-experimental approach to explore how neural networks in the bra
+ in form during development. I will discuss how the brain uses a very uncom
+ mon and surprising strategy to build networks and how this idea can be use
+ d to enhance the design and function of energy-efficient distributed netwo
+ rks. Second\, I will describe how two fundamental plasticity rules (LTP an
+ d LTD) help neural networks approach desirable synaptic weight distributio
+ ns in a gradient-descent-like manner. I will derive connections between di
+ fferent experimentally-derived forms of these rules and distributed algori
+ thms commonly used to regulate traffic flow on the Internet. Our work is m
+ otivated by the study of “algorithms in nature”.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T155000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T162000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6852\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phased LSTM: Accelerating Recurrent Network Training for Long or E
+ vent-based Sequences | Daniel Neil \, Michael Pfeiffer \, Shih-Chii Liu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T162000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T164000
+DESCRIPTION:Oral:Phased LSTM: Accelerating Recurrent Network Training for 
+ Long or Event-based Sequences\nDaniel Neil \, Michael Pfeiffer \, Shih-Chi
+ i Liu\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7441\n\nRecurren
+ t Neural Networks (RNNs) have become the state-of-the-art choice for extra
+ cting patterns from temporal sequences. Current RNN models are ill suited 
+ to process irregularly sampled data triggered by events generated in conti
+ nuous time by sensors or other neurons. Such data can occur\, for example\
+ , when the input comes from novel event-driven artificial sensors which ge
+ nerate sparse\, asynchronous streams of events or from multiple convention
+ al sensors with different update intervals. In this work\, we introduce th
+ e Phased LSTM model\, which extends the LSTM unit by adding a new time gat
+ e. This gate is controlled by a parametrized oscillation with a frequency 
+ range which require updates of the memory cell only during a small percent
+ age of the cycle. Even with the sparse updates imposed by the oscillation\
+ , the Phased LSTM network achieves faster convergence than regular LSTMs o
+ n tasks which require learning of long sequences.   The model naturally in
+ tegrates inputs from sensors of arbitrary sampling rates\, thereby opening
+  new areas of investigation for processing asynchronous sensory events tha
+ t carry timing information.  It also greatly improves the performance of L
+ STMs in standard RNN applications\, and does so with an order-of-magnitude
+  fewer computes.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supervised learning through the lens of compression | Ofir David \
+ , Shay Moran \, Amir Yehudayoff
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T162000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T164000
+DESCRIPTION:Oral:Supervised learning through the lens of compression\nOfir
+  David \, Shay Moran \, Amir Yehudayoff\nhttp://nips.cc/Conferences/2016/S
+ chedule?showEvent=7449\n\nThis work continues the study of the relationshi
+ p between sample compression schemes and statistical learning\, which has 
+ been mostly investigated within the framework of binary classification. We
+  first extend the investigation to multiclass categorization: we prove tha
+ t in this case learnability is equivalent to compression of logarithmic sa
+ mple size and that the uniform convergence property implies compression of
+  constant size. We use the compressibility-learnability equivalence to sho
+ w that (i) for multiclass categorization\, PAC and agnostic PAC learnabili
+ ty are equivalent\, and (ii) to derive a compactness theorem for learnabil
+ ity. We then consider supervised learning under general loss functions: we
+  show that in this case\, in order to maintain the compressibility-learnab
+ ility equivalence\, it is necessary to consider an approximate variant of 
+ compression. We use it to show that PAC and agnostic PAC are not equivalen
+ t\, even when the loss function has only three values.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Learning for Predicting Human Strategic Behavior | Jason S Ha
+ rtford \, James R Wright \, Kevin Leyton-Brown
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T164000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T170000
+DESCRIPTION:Oral:Deep Learning for Predicting Human Strategic Behavior\nJa
+ son S Hartford \, James R Wright \, Kevin Leyton-Brown\nhttp://nips.cc/Con
+ ferences/2016/Schedule?showEvent=7438\n\nPredicting the behavior of human 
+ participants in strategic settings is an important problem in many domains
+ . Most existing work either assumes that participants are perfectly ration
+ al\, or attempts to directly model each participant's cognitive processes 
+ based on insights from cognitive psychology and experimental economics. In
+  this work\, we present an alternative\, a deep learning approach that aut
+ omatically performs cognitive modeling without relying on such expert know
+ ledge.  We introduce a novel architecture that allows a single network to 
+ generalize across different input and output dimensions by using matrix un
+ its rather than scalar units\, and show that its performance significantly
+  outperforms that of the previous state of the art\, which relies on exper
+ t-constructed features.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MetaGrad: Multiple Learning Rates in Online Learning | Tim van Erv
+ en \, Wouter M Koolen
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T164000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T170000
+DESCRIPTION:Oral:MetaGrad: Multiple Learning Rates in Online Learning\nTim
+  van Erven \, Wouter M Koolen\nhttp://nips.cc/Conferences/2016/Schedule?sh
+ owEvent=7450\n\nIn online convex optimization it is well known that certai
+ n subclasses of objective functions are much easier than arbitrary convex 
+ functions. We are interested in designing adaptive methods that can automa
+ tically get fast rates in as many such subclasses as possible\, without an
+ y manual tuning. Previous adaptive methods are able to interpolate between
+  strongly convex and general convex functions. We present a new method\, M
+ etaGrad\, that adapts to a much broader class of functions\, including exp
+ -concave and strongly convex functions\, but also various types of stochas
+ tic and non-stochastic functions without any curvature. For instance\, Met
+ aGrad can achieve logarithmic regret on the unregularized hinge loss\, eve
+ n though it has no curvature\, if the data come from a favourable probabil
+ ity distribution. MetaGrad's main feature is that it simultaneously consid
+ ers multiple learning rates. Unlike all previous methods with provable reg
+ ret guarantees\, however\, its learning rates are not monotonically decrea
+ sing over time and are not tuned based on a theoretically derived bound on
+  the regret. Instead\, they are weighted directly proportional to their em
+ pirical performance on the data using a tilted exponential weights master 
+ algorithm.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Fast Weights to Attend to the Recent Past | Jimmy Ba \, Geof
+ frey E Hinton \, Volodymyr Mnih \, Joel Z Leibo \, Catalin Ionescu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T170000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T172000
+DESCRIPTION:Oral:Using Fast Weights to Attend to the Recent Past\nJimmy Ba
+  \, Geoffrey E Hinton \, Volodymyr Mnih \, Joel Z Leibo \, Catalin Ionescu
+ \nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7439\n\nUntil recentl
+ y\, research on artificial neural networks was largely restricted to syste
+ ms with only two types of variable: Neural activities that represent the c
+ urrent or recent input and weights that learn to capture regularities amon
+ g inputs\, outputs and payoffs. There is no good reason for this restricti
+ on. Synapses have dynamics at many different time-scales and this suggests
+  that artificial neural networks might benefit from variables that change 
+ slower than activities but much faster than the standard weights.  These `
+ `fast weights'' can be used to store temporary memories of the recent past
+  and they provide a neurally plausible way of implementing the type of att
+ ention to the past that has recently proven helpful in sequence-to-sequenc
+ e models. By using fast weights we can avoid the need to store copies of n
+ eural activity patterns.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blazing the trails before beating the path: Sample-efficient Monte
+ -Carlo planning | Jean-Bastien Grill \, Michal Valko \, Remi Munos
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T170000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T172000
+DESCRIPTION:Oral:Blazing the trails before beating the path: Sample-effici
+ ent Monte-Carlo planning\nJean-Bastien Grill \, Michal Valko \, Remi Munos
+ \nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7451\n\nWe study the 
+ sampling-based planning problem in Markov decision processes (MDPs) that w
+ e can access only through a generative model\, usually referred to as Mont
+ e-Carlo planning. Our objective is to return a good estimate of the optima
+ l value function at any state while minimizing the number of calls to the 
+ generative model\, i.e. the sample complexity. We propose a new algorithm\
+ , TrailBlazer\, able to handle MDPs with a finite or an infinite number of
+  transitions from state-action to next states. TrailBlazer is an adaptive 
+ algorithm that exploits possible structures of the MDP by exploring only a
+  subset of states reachable by following near-optimal policies. We provide
+  bounds on its sample complexity that depend on a measure of the quantity 
+ of near-optimal states. The algorithm behavior can be considered as an ext
+ ension of Monte-Carlo sampling (for estimating an expectation) to problems
+  that alternate maximization (over actions) and expectation (over next sta
+ tes). Finally\, another appealing feature of TrailBlazer is that it is sim
+ ple to implement and computationally efficient.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sequential Neural Models with Stochastic Layers | Marco Fraccaro \
+ , Søren Kaae Sønderby \, Ulrich Paquet \, Ole Winther
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T172000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T174000
+DESCRIPTION:Oral:Sequential Neural Models with Stochastic Layers\nMarco Fr
+ accaro \, Søren Kaae Sønderby \, Ulrich Paquet \, Ole Winther\nhttp://ni
+ ps.cc/Conferences/2016/Schedule?showEvent=7440\n\nHow can we efficiently p
+ ropagate uncertainty in a latent state representation with recurrent neura
+ l networks?  This paper introduces stochastic recurrent neural networks wh
+ ich glue a deterministic recurrent neural network and a state space model 
+ together to form a stochastic and sequential neural generative model. The 
+ clear separation of deterministic and stochastic layers allows a structure
+ d variational inference network to track the factorization of the model’
+ s posterior distribution. By retaining both the nonlinear recursive struct
+ ure of a recurrent neural network and averaging over the uncertainty in a 
+ latent path\, like a state space model\, we improve the state of the art r
+ esults on the Blizzard and TIMIT speech modeling data sets by a large marg
+ in\, while achieving comparable performances to competing methods on polyp
+ honic music modeling.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Analysis of Expectation Maximization for Mixtures of Two Ga
+ ussians | Ji Xu \, Daniel Hsu \,
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T172000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T174000
+DESCRIPTION:Oral:Global Analysis of Expectation Maximization for Mixtures 
+ of Two Gaussians\nJi Xu \, Daniel Hsu \,\nhttp://nips.cc/Conferences/2016/
+ Schedule?showEvent=7452\n\nExpectation Maximization (EM) is among the most
+  popular algorithms for estimating parameters of statistical models.  Howe
+ ver\, EM\, which is an iterative algorithm based on the maximum likelihood
+  principle\, is generally only guaranteed to find stationary points of the
+  likelihood objective\, and these points may be far from any maximizer.  T
+ his article addresses this disconnect between the statistical principles b
+ ehind EM and its algorithmic properties.  Specifically\, it provides a glo
+ bal analysis of EM for specific models in which the observations comprise 
+ an i.i.d. sample from a mixture of two Gaussians.  This is achieved by (i)
+  studying the sequence of parameters from idealized execution of EM in the
+  infinite sample limit\, and fully characterizing the limit points of the 
+ sequence in terms of the initial parameters\; and then (ii) based on this 
+ convergence analysis\, establishing statistical consistency (or lack there
+ of) for the actual sequence of parameters produced by EM.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Reinforcement Learning for Robotics in DIANNE | Steven Bohez 
+ \, Elias De Coninck \, Sam Leroux \, Tim Verbelen
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Deep Reinforcement Learning for Robotics in DIAN
+ NE\nSteven Bohez \, Elias De Coninck \, Sam Leroux \, Tim Verbelen\nhttp:/
+ /nips.cc/Conferences/2016/Schedule?showEvent=6311\n\nWhile deep RL has exp
+ erienced major progress the last years\, especially for robotics\, integra
+ tion of learning frameworks with physical and simulated systems is not tri
+ vial. This demo will show a practical application of deep RL in robotics u
+ sing the DIANNE framework. A KUKA YouBot will be tasked to find and retrie
+ ve certain objects (e.g. soda cans) within a confined area\, relying on a 
+ combination of (high-dimensional) sensor inputs. Sensors will be attached 
+ to both the robot itself as well as fixed in the environment.\nFor efficie
+ ncy (and safety)\, initial training and exploration is performed in a simu
+ lated environment using VREP\, in which a virtual YouBot gathers experienc
+ e in order to learn and improve a deep neural network policy. Once suffici
+ ently trained\, this policy is than transferred to a physical YouBot in or
+ der to finetune it to the real setup. To assist the physical YouBot in eva
+ luating the deep policy\, it is equipped with a Nvidia Jetson TX1 embedded
+  GPU.\nUnder the hood\, this setup is automated using the DIANNE framework
+  (http://dianne.intec.ugent.be\, http://hdl.handle.net/1854/LU-8080319)\, 
+ which on the one hand facilitates designing and training deep learning mod
+ els\, and on the other hand easily integrates with e.g. ROS and VREP to se
+ t up environments for reinforcement learning. DIANNE can automatically col
+ lect experience from RL agents\, use that experience to train RL policies 
+ and models and finally update the agent to the newest policy parameters.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movidius Fathom: Deep Learning in a USB stick | Cormac Brick \, So
+ fiane Yous \, Marko Vitez \, Ian F Hunter \, Jack Dashwood
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Movidius Fathom: Deep Learning in a USB stick\nC
+ ormac Brick \, Sofiane Yous \, Marko Vitez \, Ian F Hunter \, Jack Dashwoo
+ d\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6316\n\nMovidius wil
+ l present a demonstration of  the Fathom Neural Compute Stick\, a modular 
+ deep learning accelerator in the form of a standard USB stick. Featuring a
+  full-fledged Myriad 2 Vision Processing Unit (VPU)\, the Fathom Neural Co
+ mpute Stick allows you to easily integrate your custom trained neural netw
+ orks in quickly deployable applications.Because of the efficiency and ultr
+ a-low power operation of Myriad 2 VPU\, the Fathom Neural Compute Stick do
+ es not require an external power supply\, and can run neural networks on-d
+ evice in real-time\, while only consuming a single Watt of power.Fathom ma
+ kes it easy to profile\, tune and optimize your standard Torch7\, TensorFl
+ ow or Caffe neural network. Once you find your optimal operational point\,
+  Fathom allows your network to run with accelerated performance in embedde
+ d environments such as smart cameras\, drones\, virtual reality headsets a
+ nd robots.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Content-based Related Video Recommendations | Joonseok Lee
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Content-based Related Video Recommendations\nJoo
+ nseok Lee\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6312\n\nThis
+  is a demo of related video recommendations\, seeded from random YouTube v
+ ideos\, and based purely on video content signals. Traditional recommendat
+ ion systems using collaborative filtering (CF) approaches suggest related 
+ videos for a given seed based on how many users have watched a particular 
+ candidate video right after watching the seed video. This does not take th
+ e video content into account but relies on aggregate user behavior. In thi
+ s demo\, we focus on the cold-start problem\, where either the seed and/or
+  the candidate video are freshly uploaded (or undiscovered). We model this
+  as a video content-based similarity learning problem\, and learn deep vid
+ eo embeddings trained to predict ground-truth video relationships (identif
+ ied by a CF  co-watch-based system) but using only visual content. It embe
+ ds any new video into a 1024-dimensional representation based on its conte
+ nt and pairwise video similarity is computed simply as a dot product in th
+ e embedding space. We show that the learned video embeddings generalize be
+ yond simple visual similarity and are able to capture complex semantic rel
+ ationships.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real-time interactive sequence generation with Recurrent Neural Ne
+ twork ensembles | Memo Akten
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Real-time interactive sequence generation with R
+ ecurrent Neural Network ensembles\nMemo Akten\nhttp://nips.cc/Conferences/
+ 2016/Schedule?showEvent=6320\n\nThe demonstration allows users to gestural
+ ly 'conduct' the generation of text. We propose a method of real-time cont
+ inuous control and ‘steering’ of sequence generation using an ensemble
+  of RNNs\, dynamically altering the mixture weights of the models. We demo
+ nstrate the method using character based LSTM networks and a gestural inte
+ rface allowing users to ‘conduct’ the generation of text.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Malmo - Minecraft for AI Research | Katja Hofmann \, Matth
+ ew A Johnson \, Fernando Diaz \, Alekh Agarwal \, Tim Hutton \, David Bign
+ ell \, Evelyne Viegas
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Project Malmo - Minecraft for AI Research\nKatja
+  Hofmann \, Matthew A Johnson \, Fernando Diaz \, Alekh Agarwal \, Tim Hut
+ ton \, David Bignell \, Evelyne Viegas\nhttp://nips.cc/Conferences/2016/Sc
+ hedule?showEvent=6318\n\nProject Malmo is an open source artificial intell
+ igence (AI) experimentation platform\, designed to support fundamental res
+ earch. Rapid progress in many areas of AI research requires experimentatio
+ n in interactive settings (agents interact with an environment) that are c
+ omplex\, diverse\, dynamic and open\, and that provide increasingly more d
+ ifficult challenges as technology progresses. Project Malmo achieves such 
+ flexibility by building on top of Minecraft\, a popular computer game with
+  millions of players. The game Minecraft is particularly appealing due to 
+ its open ended nature\, collaboration with other players\, and creativity 
+ in game-play.In this demo\, we show the capabilities of the Project Malmo 
+ platform and the kind of research they enable. These range from 3D navigat
+ ion tasks to interactive scenarios where agents converse\, compete or coll
+ aborate with one another or humans to achieve a goal. The platform is desi
+ gned to foster collaboration and openness. The result is a cross-platform 
+ (Windows\, MacOS\, Linux)\, cross-language (e.g.\, C/C++\, Java\, C#\, Pyt
+ hon\, Lua) experimentation environment that uses standard data formats to 
+ easily exchange tasks and recorded data. Recently\, the platform was publi
+ cly released as open source software.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Logically Complex Symbol Grounding for Interactive Robots by Seq2s
+ eq Learning with an LSTM-RNN | Tatsuro Yamada \, Shingo Murata \, Hiroaki 
+ Arie \, Tetsuya Ogata
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Logically Complex Symbol Grounding for Interacti
+ ve Robots by Seq2seq Learning with an LSTM-RNN\nTatsuro Yamada \, Shingo M
+ urata \, Hiroaki Arie \, Tetsuya Ogata\nhttp://nips.cc/Conferences/2016/Sc
+ hedule?showEvent=6313\n\nThis study applied the sequence to sequence (seq2
+ seq) learning method for recurrent neural networks (RNN) to learning for i
+ nteractive robots\, which respond to a human's linguistic instructions by 
+ generating appropriate behavior. This study extended the method by constru
+ cting target data not as unimodal language sequences\, but as multimodal s
+ equences of words\, vision\, and the robot's joint angles. By using them t
+ o train the RNN\, the robot can acquire the ability to deal with interacti
+ ve tasks online. In this scheme\, not only the relationships between instr
+ uctions and corresponding behaviors but also the task progression pattern\
+ , that is\, the repetition of instruction\, behavior\, and waiting for sub
+ sequent instructions\, can be autonomously learned from the data\, so the 
+ execution of the task is achieved by continuous forward propagation alone.
+ \nThis proposal has the following novelty: (1) We implemented a long short
+ -term memory (LSTM)-RNN model trained by the seq2seq method\, which is mai
+ nly used in the field of natural language processing\, for interactive rob
+ ots in the aforementioned extended way. (2) We dealt with the logical oper
+ ators "true\," "false\," "and\," and "or\," which have not been dealt with
+  in previous studies on integrative learning of language and robot behavio
+ r in the research field called symbol emergence in robotics.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detecting Unexpected Obstacles for Self-Driving Cars: Fusing Deep 
+ Learning and Geometric Modeling | Sebastian Ramos \, Peter Pinggera \, ste
+ fan gehrig \, Uwe Franke \, Carsten Rother
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Detecting Unexpected Obstacles for Self-Driving 
+ Cars: Fusing Deep Learning and Geometric Modeling\nSebastian Ramos \, Pete
+ r Pinggera \, stefan gehrig \, Uwe Franke \, Carsten Rother\nhttp://nips.c
+ c/Conferences/2016/Schedule?showEvent=6310\n\nOur demonstration shows a vi
+ sion-based system that addresses a challenging and rarely addressed proble
+ m for self-driving cars: the detection of generic\, small\, and unexpected
+  road hazards\, such as lost cargo.  To the best of our knowledge\, our pr
+ oposed approach to this unsolved problem is the first that leverages both\
+ , appearance and contextual cues via a deep convolutional neural network a
+ nd geometric cues from a stereo-based approach\, all combined in a Bayesia
+ n framework. Our visual detection framework achieves a very high detection
+  performance with low false positive rates and proves to be robust to illu
+ mination changes\, varying road appearance as well as 3D road profiles. Ou
+ r system is able to reliably detect critical obstacles of very low heights
+  (down to 5cm) even at large distances (up to 100m)\, operating at 22 Hz o
+ n our self-driving platform.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brain-machine interface spelling device based on reinforcement lea
+ rning | Inaki Iturrate \, Ricardo Chavarriaga
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Brain-machine interface spelling device based on
+  reinforcement learning\nInaki Iturrate \, Ricardo Chavarriaga\nhttp://nip
+ s.cc/Conferences/2016/Schedule?showEvent=6306\n\nThe current demonstration
+  will show a novel EEG-based brain-machine interface (BMI) spelling device
+ . It combines real-time decoding of brain activity signals with a reinforc
+ ement learning approach to rapidly infer the characters the user wants to 
+ write \nWe have developed a communication interface based on multimodal si
+ gnals that allows users to communicate using different input devices depen
+ ding on their condition. The proposed solution is an enhanced version of c
+ lassical matrix-based systems in which machine learning techniques are use
+ d to speed up communication and reduce the user’s workload. Importantly\
+ , the implementation of these techniques also takes into account the speed
+  at which the user can deliver the input and ensures that user’s input m
+ istakes have small impact on the communication performance. \nThe interfac
+ e is composed of a character matrix\, in which a moving cursor automatical
+ ly scans the characters. At the same time\, the user gives feedback to the
+  device about the correctness of the movements. Contrasting to conventiona
+ l systems\, the cursor does not move in a pre-defined manner\; instead it 
+ moves towards the most probable character to be written. This probability 
+ is estimated based on a language model and the feedback provided by the us
+ er.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autonomous exploration\, active learning and human guidance with o
+ pen-source Poppy humanoid robot platform and Explauto library | Sébastien
+  Forestier \, Yoan Mollard \, Pierre-Yves Oudeyer
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161206T213000
+DESCRIPTION:Demonstration:Autonomous exploration\, active learning and hum
+ an guidance with open-source Poppy humanoid robot platform and Explauto li
+ brary\nSébastien Forestier \, Yoan Mollard \, Pierre-Yves Oudeyer\nhttp:/
+ /nips.cc/Conferences/2016/Schedule?showEvent=6304\n\nOur demonstration pre
+ sents an open-source hardware and software platform which allows non-robot
+ icists researchers to conduct machine learning experiments to benchmark al
+ gorithms for autonomous exploration and active learning. \nIn particular\,
+  in addition to showing the general properties of the platform such as its
+  modularity and usability\, we will demonstrate the online functioning of 
+ a particular algorithm \nwhich allows efficient learning of multiple forwa
+ rd and inverse models and can leverage information from human guidance. \n
+ A first aspect of our demonstration is to illustrate the ease of use of th
+ e 3D printed low-cost Poppy humanoid robotic platform\, that allows non-ro
+ boticists to quickly set up and program robotic experiments.\nA second asp
+ ect is to show how the Explauto library allows systematic comparison and e
+ valuation of active learning and exploration algorithms in sensorimotor sp
+ aces\,through a Python API to select already implemented exploration algor
+ ithms. \nThe third idea is to showcase Active Model Babbling\, an efficien
+ t exploration algorithm dynamically choosing which task/goal space to expl
+ ore and particular goals to reach\, and integrating social guidance from h
+ umans in real time to drive exploration towards particular objects or acti
+ ons.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning and Likelihood-Free Inference in Particle Physics
+  | Kyle Cranmer
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T090000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T095000
+DESCRIPTION:Invited Talk:Machine Learning and Likelihood-Free Inference in
+  Particle Physics\nKyle Cranmer\nhttp://nips.cc/Conferences/2016/Schedule?
+ showEvent=6195\n\nParticle physics aims to answer profound questions about
+  the fundamental building blocks of the Universe through enormous data set
+ s collected at experiments like the Large Hadron Collider at CERN. Inferen
+ ce in this context involves two extremes. On one hand the theories of fund
+ amental particle interactions are described by quantum field theory\, whic
+ h is elegant\, highly constrained\, and highly predictive. On the other ha
+ nd\, the observations come from interactions with complex sensor arrays wi
+ th uncertain response\, which lead to intractable likelihoods. Machine lea
+ rning techniques with high-capacity models offer a promising set of tools 
+ for coping with the complexity of the data\; however\, we ultimately want 
+ to perform inference in the language of quantum field theory. I will discu
+ ss likelihood-free inference\, generative models\, adversarial training\, 
+ and other recent progress in machine learning from this point of view.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matrix Completion has No Spurious Local Minimum | Rong Ge \, Jason
+  Lee \, Tengyu Ma
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T095000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T101000
+DESCRIPTION:Oral:Matrix Completion has No Spurious Local Minimum\nRong Ge 
+ \, Jason Lee \, Tengyu Ma\nhttp://nips.cc/Conferences/2016/Schedule?showEv
+ ent=7453\n\nMatrix completion is a basic machine learning problem that has
+  wide applications\, especially in collaborative filtering and recommender
+  systems. Simple non-convex optimization algorithms are popular and effect
+ ive in practice. Despite recent progress in proving various non-convex alg
+ orithms converge from a good initial point\, it remains unclear why random
+  or arbitrary initialization suffices in practice. We prove that the commo
+ nly used non-convex objective function for matrix completion has no spurio
+ us local minima --- all local minima must also be global. Therefore\, many
+  popular optimization algorithms such as (stochastic) gradient descent can
+  provably solve matrix completion with \\textit{arbitrary} initialization 
+ in polynomial time.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T101000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T104000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6853\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Achieving the KS threshold in the general stochastic block model w
+ ith linearized acyclic belief propagation | Emmanuel Abbe \, Colin Sandon
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T104000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T110000
+DESCRIPTION:Oral:Achieving the KS threshold in the general stochastic bloc
+ k model with linearized acyclic belief propagation\nEmmanuel Abbe \, Colin
+  Sandon\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7455\n\nThe st
+ ochastic block model (SBM) has long been studied in machine learning and n
+ etwork science as a canonical model for clustering and community detection
+ . In the recent years\, new developments have demonstrated the presence of
+  threshold phenomena for this model\, which have set new challenges for al
+ gorithms. For the {\\it detection} problem in symmetric SBMs\, Decelle et 
+ al.\\ conjectured that the so-called Kesten-Stigum (KS) threshold can be a
+ chieved efficiently. This was proved for two communities\, but remained op
+ en from three communities. We prove this conjecture here\, obtaining a mor
+ e general result that applies to arbitrary SBMs with linear size communiti
+ es. The developed algorithm is a linearized acyclic belief propagation (AB
+ P) algorithm\, which mitigates the effects of cycles while provably achiev
+ ing the KS threshold in $O(n \\ln n)$ time. This extends prior methods by 
+ achieving universally the KS threshold while reducing or preserving the co
+ mputational complexity. ABP is also connected to a power iteration method 
+ on a generalized nonbacktracking operator\, formalizing the spectral-messa
+ ge passing interplay described in Krzakala et al.\, and extending results 
+ from Bordenave et al.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Large-Scale Price Optimization via Network Flow | Shinji Ito \, Ry
+ ohei Fujimaki
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T104000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T110000
+DESCRIPTION:Oral:Large-Scale Price Optimization via Network Flow\nShinji I
+ to \, Ryohei Fujimaki\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=
+ 7461\n\nThis paper deals with price optimization\, which is to find the be
+ st pricing strategy that maximizes revenue or profit\, on the basis of dem
+ and forecasting models. Though recent advances in regression technologies 
+ have made it possible to reveal price-demand relationship of a number of m
+ ultiple products\, most existing price optimization methods\, such as mixe
+ d integer programming formulation\, cannot handle tens or hundreds of prod
+ ucts because of their high computational costs. To cope with this problem\
+ , this paper proposes a novel approach based on network flow algorithms. W
+ e reveal a connection between supermodularity of the revenue and cross ela
+ sticity of demand. On the basis of this connection\, we propose an efficie
+ nt algorithm that employs network flow algorithms. The proposed algorithm 
+ can handle hundreds or thousands of products\, and returns an exact optima
+ l solution under an assumption regarding cross elasticity of demand. Even 
+ in case in which the assumption does not hold\, the proposed algorithm can
+  efficiently find approximate solutions as good as can other state-of-the-
+ art methods\, as empirical results show.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orthogonal Random Features | Felix X Yu \, Ananda Theertha Suresh 
+ \, Krzysztof M Choromanski \, Daniel N Holtmann-Rice \, Sanjiv Kumar
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T112000
+DESCRIPTION:Oral:Orthogonal Random Features\nFelix X Yu \, Ananda Theertha
+  Suresh \, Krzysztof M Choromanski \, Daniel N Holtmann-Rice \, Sanjiv Kum
+ ar\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7456\n\nWe present 
+ an intriguing discovery related to Random Fourier Features: replacing mult
+ iplication by a random Gaussian matrix with multiplication by a properly s
+ caled random orthogonal matrix significantly decreases kernel approximatio
+ n error. We call this technique Orthogonal Random Features (ORF)\, and pro
+ vide theoretical and empirical justification for its effectiveness. Motiva
+ ted by the discovery\, we further propose Structured Orthogonal Random Fea
+ tures (SORF)\, which uses a class of structured discrete orthogonal matric
+ es to speed up the computation. The method reduces the time cost from $\\m
+ athcal{O}(d^2)$ to $\\mathcal{O}(d \\log d)$\, where $d$ is the data dimen
+ sionality\, with almost no compromise in kernel approximation quality comp
+ ared to ORF. Experiments on several datasets verify the effectiveness of O
+ RF and SORF over the existing methods. We also provide discussions on usin
+ g the same type of discrete orthogonal structure for a broader range of ke
+ rnels and applications.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probabilistic Modeling of Future Frames from a Single Image | Tian
+ fan Xue \, Jiajun Wu \, Katherine Bouman \, Bill Freeman
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T112000
+DESCRIPTION:Oral:Probabilistic Modeling of Future Frames from a Single Ima
+ ge\nTianfan Xue \, Jiajun Wu \, Katherine Bouman \, Bill Freeman\nhttp://n
+ ips.cc/Conferences/2016/Schedule?showEvent=7462\n\nWe study the problem of
+  synthesizing a number of likely future frames from a single input image. 
+ In contrast to traditional methods\, which have tackled this problem in a 
+ deterministic or non-parametric way\, we propose a novel approach which mo
+ dels future frames in a probabilistic manner. Our proposed method is there
+ fore able to synthesize multiple possible next frames using the same model
+ . Solving this challenging problem involves low- and high-level image and 
+ motion understanding for successful image synthesis. Here\, we propose a n
+ ovel network structure\, namely a Cross Convolutional Network\, that encod
+ es images as feature maps and motion information as convolutional kernels 
+ to aid in synthesizing future frames. In experiments\, our model performs 
+ well on both synthetic data\, such as 2D shapes and animated game sprites\
+ , as well as on real-wold video data. We show that our model can also be a
+ pplied to tasks such as visual analogy-making\, and present analysis of th
+ e learned network representations.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poisson-Gamma dynamical systems | Aaron Schein \, Hanna Wallach \,
+  Mingyuan Zhou
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T112000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T114000
+DESCRIPTION:Oral:Poisson-Gamma dynamical systems\nAaron Schein \, Hanna Wa
+ llach \, Mingyuan Zhou\nhttp://nips.cc/Conferences/2016/Schedule?showEvent
+ =7457\n\nThis paper presents a dynamical system based on the Poisson-Gamma
+  construction for sequentially observed multivariate count data.  Inherent
+  to the model is a novel Bayesian nonparametric prior that ties and shrink
+ s parameters in a powerful way. We develop theory about the model's infini
+ te limit and its steady-state.  The model's inductive bias is demonstrated
+  on a variety of real-world datasets where it is shown to learn interpreta
+ ble structure and have superior predictive performance.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supervised Word Mover's Distance | Gao Huang \, Chuan Guo \, Matt 
+ J Kusner \, Yu Sun \, Fei Sha \, Kilian Q Weinberger
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T112000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T114000
+DESCRIPTION:Oral:Supervised Word Mover's Distance\nGao Huang \, Chuan Guo 
+ \, Matt J Kusner \, Yu Sun \, Fei Sha \, Kilian Q Weinberger\nhttp://nips.
+ cc/Conferences/2016/Schedule?showEvent=7463\n\nAccurately measuring the si
+ milarity between text documents lies at the core of many real world applic
+ ations of machine learning. These include web-search ranking\, document re
+ commendation\, multi-lingual document matching\, and article categorizatio
+ n. Recently\, a new document metric\, the word mover's distance (WMD)\, ha
+ s been proposed with unprecedented results on kNN-based document classific
+ ation. The WMD elevates high quality word embeddings to document metrics b
+ y formulating the distance between two documents as an optimal transport p
+ roblem between the embedded words. However\, the document distances are en
+ tirely unsupervised and lack a mechanism to incorporate supervision when a
+ vailable. In this paper we propose an efficient technique to learn a super
+ vised metric\, which we call the Supervised WMD (S-WMD) metric. Our algori
+ thm learns document distances that measure the underlying semantic differe
+ nces between documents by leveraging semantic differences between individu
+ al words discovered during supervised training. This is achieved with an l
+ inear transformation of the underlying word embedding space and tailored w
+ ord-specific weights\, learned to minimize the stochastic leave-one-out ne
+ arest neighbor classification error on a per-document level. We evaluate o
+ ur metric on eight real-world text classification tasks on which S-WMD con
+ sistently  outperforms almost all of our 26 competitive baselines.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Multiscale Laplacian Graph Kernel | Risi Kondor \, Horace Pan
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T114000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T120000
+DESCRIPTION:Oral:The Multiscale Laplacian Graph Kernel\nRisi Kondor \, Hor
+ ace Pan\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7458\n\nMany r
+ eal world graphs\, such as the graphs of molecules\, exhibit structure at 
+ multiple different scales\, but most existing kernels between graphs are e
+ ither purely local or purely global in character. In contrast\, by buildin
+ g a hierarchy of nested subgraphs\, the Multiscale Laplacian Graph kernels
+  (MLG kernels) that we define in this paper can account for structure at a
+  range of different scales. At the heart of the MLG construction is anothe
+ r new graph kernel\, called the Feature Space Laplacian Graph kernel (FLG 
+ kernel)\, which has the property that it can lift a base kernel defined on
+  the vertices of two graphs to a kernel between the graphs. The MLG kernel
+  applies such FLG kernels to subgraphs recursively. To make the MLG kernel
+  computationally feasible\, we also introduce a randomized projection proc
+ edure\, similar to the Nystro ̈m method\, but for RKHS operators.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beyond Exchangeability: The Chinese Voting Process | Moontae Lee \
+ , Seok Hyun Jin \, David Mimno
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T114000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T120000
+DESCRIPTION:Oral:Beyond Exchangeability: The Chinese Voting Process\nMoont
+ ae Lee \, Seok Hyun Jin \, David Mimno\nhttp://nips.cc/Conferences/2016/Sc
+ hedule?showEvent=7464\n\nMany online communities present user-contributed 
+ responses\, such as reviews of products and answers to questions. User-pro
+ vided helpfulness votes can highlight the most useful responses\, but voti
+ ng is a social process that can gain momentum based on the popularity of r
+ esponses and the polarity of existing votes. We propose the Chinese Voting
+  Process (CVP) which models the evolution of helpfulness votes as a self-r
+ einforcing process dependent on position and presentation biases. We evalu
+ ate this model on Amazon product reviews and more than 80 StackExchange fo
+ rums\, measuring the intrinsic quality of individual responses and behavio
+ ral coefficients of different communities.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stochastic Online AUC Maximization | Yiming Ying \, Longyin Wen \,
+  Siwei Lyu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T120000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T122000
+DESCRIPTION:Oral:Stochastic Online AUC Maximization\nYiming Ying \, Longyi
+ n Wen \, Siwei Lyu\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=745
+ 9\n\nArea under ROC (AUC) is a metric which is widely used for measuring t
+ he classification performance for imbalanced data. It is of theoretical an
+ d practical interest to develop online learning algorithms that maximizes 
+ AUC for large-scale data. A specific challenge in developing online AUC ma
+ ximization algorithm is that the learning objective function is usually de
+ fined over a pair of training examples of opposite classes\, and existing 
+ methods achieves on-line processing with higher space and time complexity.
+  In this work\, we propose a new stochastic online algorithm for AUC maxim
+ ization. In particular\, we show that AUC optimization can  be equivalentl
+ y formulated as a convex-concave saddle point problem. From this saddle re
+ presentation\, a stochastic online algorithm (SOLAM) is proposed which has
+  time and space complexity of one datum. We establish theoretical converge
+ nce of SOLAM with high probability and demonstrate its effectiveness and e
+ fficiency on standard benchmark datasets.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protein contact prediction from amino acid co-evolution using conv
+ olutional networks for graph-valued images | Vladimir Golkov \, Marcin J S
+ kwark \, Antonij Golkov \, Alexey Dosovitskiy \, Thomas Brox \, Jens Meile
+ r \, Daniel Cremers
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T120000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T122000
+DESCRIPTION:Oral:Protein contact prediction from amino acid co-evolution u
+ sing convolutional networks for graph-valued images\nVladimir Golkov \, Ma
+ rcin J Skwark \, Antonij Golkov \, Alexey Dosovitskiy \, Thomas Brox \, Je
+ ns Meiler \, Daniel Cremers\nhttp://nips.cc/Conferences/2016/Schedule?show
+ Event=7465\n\nProteins are the "building blocks of life"\, the most abunda
+ nt organic molecules\, and the central focus of most areas of biomedicine.
+  Protein structure is strongly related to protein function\, thus structur
+ e prediction is a crucial task on the way to solve many biological questio
+ ns. A contact map is a compact representation of the three-dimensional str
+ ucture of a protein via the pairwise contacts between the amino acid const
+ ituting the protein. We use a convolutional network to calculate protein c
+ ontact maps from inferred statistical coupling between positions in the pr
+ otein sequence. The input to the network has an image-like structure amena
+ ble to convolutions\, but every "pixel" instead of color channels contains
+  a bipartite undirected edge-weighted graph. We propose several methods fo
+ r treating such "graph-valued images" in a convolutional network. The prop
+ osed method outperforms state-of-the-art methods by a large margin. It als
+ o allows for a great flexibility with regard to the input data\, which mak
+ es it useful for studying a wide range of problems.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Demo: Detecting Unexpected Obstacles for Self-Driving Cars | 
+ Sebastian Ramos \, Peter Pinggera \, stefan gehrig \, Uwe Franke \, Carste
+ n Rother
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T123000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T150000
+DESCRIPTION:Demonstration:Live Demo: Detecting Unexpected Obstacles for Se
+ lf-Driving Cars\nSebastian Ramos \, Peter Pinggera \, stefan gehrig \, Uwe
+  Franke \, Carsten Rother\nhttp://nips.cc/Conferences/2016/Schedule?showEv
+ ent=7713\n\nOur demonstration shows a vision-based system that addresses a
+  challenging and rarely addressed problem for self-driving cars: the detec
+ tion of generic\, small\, and unexpected road hazards\, such as lost cargo
+ . To the best of our knowledge\, our proposed approach to this unsolved pr
+ oblem is the first that leverages both\, appearance and contextual cues vi
+ a a deep convolutional neural network and geometric cues from a stereo-bas
+ ed approach\, all combined in a Bayesian framework. Our visual detection f
+ ramework achieves a very high detection performance with low false positiv
+ e rates and proves to be robust to illumination changes\, varying road app
+ earance as well as 3D road profiles. Our system is able to reliably detect
+  critical obstacles of very low heights (down to 5cm) even at large distan
+ ces (up to 100m)\, operating at 22 Hz on our self-driving platform.
+LOCATION:‎Leonardo Da Vinci Square
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamic Legged Robots | Marc Raibert
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T150000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T155000
+DESCRIPTION:Invited Talk:Dynamic Legged Robots\nMarc Raibert\nhttp://nips.
+ cc/Conferences/2016/Schedule?showEvent=6194\n\nA new generation of high-pe
+ rformance robots is leaving the laboratory and entering the world.  They o
+ perate in offices\, homes and the field\, where ordinary vehicles can not 
+ go.  They use sensors to see the world around them in order to navigate\, 
+ interact and understand.  Their agility\, dexterity\, autonomy and intelli
+ gence are evolving in ways that promise to free us from the tasks that no 
+ human should have to perform.  The presentation will give a status report 
+ on the work Boston Dynamics is doing to help develop advanced mobile manip
+ ulation robots.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T155000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T162000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6854\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Learning without Poor Local Minima | Kenji Kawaguchi
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T162000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T164000
+DESCRIPTION:Oral:Deep Learning without Poor Local Minima\nKenji Kawaguchi\
+ nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7467\n\nIn this paper\
+ , we prove a conjecture published in 1989 and also partially address an op
+ en problem announced at the Conference on Learning Theory (COLT) 2015. For
+  an expected loss function of a deep nonlinear neural network\, we prove t
+ he following statements under the independence assumption adopted from rec
+ ent work: 1) the function is non-convex and non-concave\, 2) every local m
+ inimum is a global minimum\, 3) every critical point that is not a global 
+ minimum is a saddle point\, and 4) the property of saddle points differs f
+ or shallow networks (with three layers) and deeper networks (with more tha
+ n three layers). Moreover\, we prove that the same four statements hold fo
+ r deep linear neural networks with any depth\, any widths and no unrealist
+ ic assumptions. As a result\, we present an instance\, for which we can an
+ swer to the following question: how difficult to directly train a deep mod
+ el in theory? It is more difficult than the classical machine learning mod
+ els (because of the non-convexity)\, but not too difficult (because of the
+  nonexistence of poor local minima and the property of the saddle points).
+  We note that even though we have advanced the theoretical foundations of 
+ deep learning\, there is still a gap between theory and practice.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Without-Replacement Sampling for Stochastic Gradient Methods | Oha
+ d Shamir
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T162000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T164000
+DESCRIPTION:Oral:Without-Replacement Sampling for Stochastic Gradient Meth
+ ods\nOhad Shamir\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7473\
+ n\nStochastic gradient methods for machine learning and optimization probl
+ ems are usually analyzed assuming data points are sampledwithreplacement. 
+ In contrast\, samplingwithoutreplacement is far less understood\, yet in p
+ ractice it is very common\, often easier to implement\, and usually perfor
+ ms better. In this paper\, we provide competitive convergence guarantees f
+ or without-replacement sampling under several scenarios\, focusing on the 
+ natural regime of few passes over the data. Moreover\, we describe a usefu
+ l application of these results in the context of distributed optimization 
+ with randomly-partitioned data\, yielding a nearly-optimal algorithm for r
+ egularized least squares (in terms of both communication complexity and ru
+ ntime complexity) under broad parameter regimes. Our proof techniques comb
+ ine ideas from stochastic optimization\, adversarial online learning and t
+ ransductive learning theory\, and can potentially be applied to other stoc
+ hastic optimization and learning problems.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universal Correspondence Network | Christopher B Choy \, Manmohan 
+ Chandraker \, JunYoung Gwak \, Silvio Savarese
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T164000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T170000
+DESCRIPTION:Oral:Universal Correspondence Network\nChristopher B Choy \, M
+ anmohan Chandraker \, JunYoung Gwak \, Silvio Savarese\nhttp://nips.cc/Con
+ ferences/2016/Schedule?showEvent=7468\n\nWe present a deep learning framew
+ ork for accurate visual correspondences and demonstrate its effectiveness 
+ for both geometric and semantic matching\, spanning across rigid motions t
+ o intra-class shape or appearance variations. In contrast to previous CNN-
+ based approaches that optimize a surrogate patch similarity objective\, we
+  use deep metric learning to directly learn a feature space that preserves
+  either geometric or semantic similarity. Our fully convolutional architec
+ ture\, along with a novel correspondence contrastive loss allows faster tr
+ aining by effective reuse of computations\, accurate gradient computation 
+ through the use of thousands of examples per image pair and faster testing
+  with $O(n)$ feedforward passes for n keypoints\, instead of $O(n^2)$ for 
+ typical patch similarity methods. We propose a convolutional spatial trans
+ former to mimic patch normalization in traditional features like SIFT\, wh
+ ich is shown to dramatically boost accuracy for semantic correspondences a
+ cross intra-class shape variations. Extensive experiments on KITTI\, PASCA
+ L and CUB-2011 datasets demonstrate the significant advantages of our feat
+ ures over prior works that use either hand-constructed or learned features
+ .
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regularized Nonlinear Acceleration | Damien Scieur \, Alexandre d'
+ Aspremont \, Francis Bach
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T164000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T170000
+DESCRIPTION:Oral:Regularized Nonlinear Acceleration\nDamien Scieur \, Alex
+ andre d'Aspremont \, Francis Bach\nhttp://nips.cc/Conferences/2016/Schedul
+ e?showEvent=7474\n\nWe describe a convergence acceleration technique for g
+ eneric optimization problems. Our scheme computes estimates of the optimum
+  from a nonlinear average of the iterates produced by any optimization met
+ hod. The weights in this average are computed via a simple and small linea
+ r system\, whose solution can be updated online. This acceleration scheme 
+ runs in parallel to the base algorithm\, providing improved estimates of t
+ he solution on the fly\, while the original optimization method is running
+ . Numerical experiments are detailed on classical classification problems.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning to Poke by Poking: Experiential Learning of Intuitive Phy
+ sics | Pulkit Agrawal \, Ashvin V Nair \, Pieter Abbeel \, Jitendra Malik 
+ \, Sergey Levine
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T170000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T172000
+DESCRIPTION:Oral:Learning to Poke by Poking: Experiential Learning of Intu
+ itive Physics\nPulkit Agrawal \, Ashvin V Nair \, Pieter Abbeel \, Jitendr
+ a Malik \, Sergey Levine\nhttp://nips.cc/Conferences/2016/Schedule?showEve
+ nt=7469\n\nWe investigate an experiential learning paradigm for acquiring 
+ an internal model of intuitive physics. Our model is evaluated on a real-w
+ orld robotic manipulation task that requires displacing objects to target 
+ locations by poking. The robot gathered over 400 hours of experience by ex
+ ecuting more than 50K pokes on different objects. We propose a novel appro
+ ach based on deep neural networks for modeling the dynamics of robot's int
+ eractions directly from images\, by jointly estimating forward and inverse
+  models of dynamics. The inverse model objective provides supervision to c
+ onstruct informative visual features\, which the forward model can then pr
+ edict and in turn regularize the feature space for the inverse model. The 
+ interplay between these two objectives creates useful\, accurate models th
+ at can then be used for multi-step decision making. This formulation has t
+ he additional benefit that it is possible to learn forward models in an ab
+ stract feature space and thus alleviate the need of predicting pixels. Our
+  experiments show that this joint modeling approach outperforms alternativ
+ e methods. We also demonstrate that active data collection using the learn
+ ed model further improves performance.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linear-Memory and Decomposition-Invariant Linearly Convergent Cond
+ itional Gradient Algorithm for Structured Polytopes | Dan Garber \, Dan Ga
+ rber \, Ofer Meshi
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T170000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T172000
+DESCRIPTION:Oral:Linear-Memory and Decomposition-Invariant Linearly Conver
+ gent Conditional Gradient Algorithm for Structured Polytopes\nDan Garber \
+ , Dan Garber \, Ofer Meshi\nhttp://nips.cc/Conferences/2016/Schedule?showE
+ vent=7475\n\nRecently\, several works have shown that natural modification
+ s of the classical conditional gradient method (aka Frank-Wolfe algorithm)
+  for constrained convex optimization\, provably converge with a linear rat
+ e when the feasible set is a polytope\, and the objective is smooth and st
+ rongly-convex. However\, all of these results suffer from two significant 
+ shortcomings: i) large memory requirement due to the need to store an expl
+ icit convex decomposition of the current iterate\, and as a consequence\, 
+ large running-time overhead per iteration ii) the worst case convergence r
+ ate depends unfavorably on the dimension In this work we present a new con
+ ditional gradient variant and a corresponding analysis that improves on bo
+ th of the above shortcomings. In particular\, both memory and computation 
+ overheads are only linear in the dimension\, and in addition\, in case the
+  optimal solution is sparse\, the new convergence rate replaces a factor w
+ hich is at least linear in the dimension in previous works\, with a linear
+  dependence on the number of non-zeros in the optimal solution At the hear
+ t of our method\, and corresponding analysis\, is a novel way to compute d
+ ecomposition-invariant away-steps. While our theoretical guarantees do not
+  apply to any polytope\, they apply to several important structured polyto
+ pes that capture central concepts such as paths in graphs\, perfect matchi
+ ngs in bipartite graphs\, marginal distributions that arise in structured 
+ prediction tasks\, and more. Our theoretical findings are complemented by 
+ empirical evidence that shows that our method delivers state-of-the-art pe
+ rformance.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning What and Where to Draw | Scott E Reed \, Zeynep Akata \, 
+ Santosh Mohan \, Samuel Tenka \, Bernt Schiele \, Honglak Lee
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T172000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T174000
+DESCRIPTION:Oral:Learning What and Where to Draw\nScott E Reed \, Zeynep A
+ kata \, Santosh Mohan \, Samuel Tenka \, Bernt Schiele \, Honglak Lee\nhtt
+ p://nips.cc/Conferences/2016/Schedule?showEvent=7470\n\nGenerative Adversa
+ rial Networks (GANs) have recently demonstrated the capability to synthesi
+ ze compelling real-world images\, such as room interiors\, album covers\, 
+ manga\, faces\, birds\, and flowers. While existing models can synthesize 
+ images based on global constraints such as a class label or caption\, they
+  do not provide control over pose or object location. We propose a new mod
+ el\, the Generative Adversarial What-Where Network (GAWWN)\, that synthesi
+ zes images given instructions describing what content to draw in which loc
+ ation. We show high-quality 128 × 128 image synthesis on the Caltech-UCSD
+  Birds dataset\, conditioned on both informal text descriptions and also o
+ bject location. Our system exposes control over both the bounding box arou
+ nd the bird and its constituent parts. By modeling the conditional distrib
+ utions over part locations\, our system also enables conditioning on arbit
+ rary subsets of parts (e.g. only the beak and tail)\, yielding an efficien
+ t interface for picking part locations.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generalization of ERM in Stochastic Convex Optimization: The Dimen
+ sion Strikes Back | Vitaly Feldman
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T172000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T174000
+DESCRIPTION:Oral:Generalization of ERM in Stochastic Convex Optimization: 
+ The Dimension Strikes Back\nVitaly Feldman\nhttp://nips.cc/Conferences/201
+ 6/Schedule?showEvent=7476\n\nIn stochastic convex optimization the goal is
+  to minimize a convex function $F(x) \\doteq \\E{f\\sim D}[f(x)]$ over a c
+ onvex set $\\K \\subset \\R^d$ where $D$ is some unknown distribution and 
+ each $f(\\cdot)$ in the support of $D$ is convex over $\\K$. The optimizat
+ ion is based on i.i.d.~samples $f^1\,f^2\,\\ldots\,f^n$ from $D$. A common
+  approach to such problems is empirical risk minimization (ERM) that optim
+ izes $FS(x) \\doteq \\frac{1}{n}\\sum{i\\leq n} f^i(x)$. Here we consider 
+ the question of how many samples are necessary for ERM to succeed and the 
+ closely related question of uniform convergence of $FS$ to $F$ over $\\K$.
+  We demonstrate that in the standard $\\ellp/\\ellq$ setting of Lipschitz-
+ bounded functions over a $\\K$ of bounded radius\, ERM requires sample siz
+ e that scales linearly with the dimension $d$. This nearly matches standar
+ d upper bounds and improves on $\\Omega(\\log d)$ dependence proved for $\
+ \ell2/\\ell2$ setting in (Shalev-Shwartz et al.  2009). In stark contrast\
+ , these problems can be solved using dimension-independent number of sampl
+ es for $\\ell2/\\ell2$ setting and $\\log d$ dependence for $\\ell1/\\ell\
+ \infty$ setting using other approaches. We also demonstrate that for a mor
+ e general class of range-bounded (but not Lipschitz-bounded) stochastic co
+ nvex programs an even stronger gap appears already in dimension 2.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weight Normalization: A Simple Reparameterization to Accelerate Tr
+ aining of Deep Neural Networks | Tim Salimans \, Diederik P Kingma
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T174000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DESCRIPTION:Oral:Weight Normalization: A Simple Reparameterization to Acce
+ lerate Training of Deep Neural Networks\nTim Salimans \, Diederik P Kingma
+ \nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7471\n\nWe present we
+ ight normalization: a reparameterization of the weight vectors in a neural
+  network that decouples the length of those weight vectors from their dire
+ ction. By reparameterizing the weights in this way we improve the conditio
+ ning of the optimization problem and we speed up convergence of stochastic
+  gradient descent. Our reparameterization is inspired by batch normalizati
+ on but does not introduce any dependencies between the examples in a minib
+ atch. This means that our method can also be applied successfully to recur
+ rent models such as LSTMs and to noise-sensitive applications such as deep
+  reinforcement learning or generative models\, for which batch normalizati
+ on is less well suited. Although our method is much simpler\, it still pro
+ vides much of the speed-up of full batch normalization. In addition\, the 
+ computational overhead of our method is lower\, permitting more optimizati
+ on steps to be taken in the same amount of time. We demonstrate the useful
+ ness of our method on applications in supervised image recognition\, gener
+ ative modelling\, and deep reinforcement learning.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayesian Optimization with Robust Bayesian Neural Networks | Jost 
+ Tobias Springenberg \, Aaron Klein \, Stefan Falkner \, Frank Hutter
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T174000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DESCRIPTION:Oral:Bayesian Optimization with Robust Bayesian Neural Network
+ s\nJost Tobias Springenberg \, Aaron Klein \, Stefan Falkner \, Frank Hutt
+ er\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7477\n\nBayesian op
+ timization is a prominent method for optimizing expensive to evaluate blac
+ k-box functions that is prominently applied to tuning the hyperparameters 
+ of machine learning algorithms. Despite its successes\, the prototypical B
+ ayesian optimization approach - using Gaussian process models - does not s
+ cale well to either many hyperparameters or many function evaluations. Att
+ acking this lack of scalability and flexibility is thus one of the key cha
+ llenges of the field. We present a general approach for using flexible par
+ ametric models (neural networks) for Bayesian optimization\, staying as cl
+ ose to a truly Bayesian treatment as possible. We obtain scalability throu
+ gh stochastic gradient Hamiltonian Monte Carlo\, whose robustness we impro
+ ve via a scale adaptation. Experiments including multi-task Bayesian optim
+ ization with 21 tasks\, parallel optimization of deep neural networks and 
+ deep reinforcement learning show the power and flexibility of this approac
+ h.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Realistic Virtual Worlds and Human Actions for Video Understanding
+  | César R. De Souza \, Adrien Gaidon \, Antonio M López
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Realistic Virtual Worlds and Human Actions for V
+ ideo Understanding\nCésar R. De Souza \, Adrien Gaidon \, Antonio M Lópe
+ z\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6319\n\nWe present a
+  live demo to explore interactively in 3D and in Virtual Reality (VR) our 
+ new Virtu-al Human Actions Dataset (VHAD). Virtual Worlds are rapidly gain
+ ing momentum as a reliable technique for visual training data generation. 
+ This is particularly the case for video\, where manual labelling is extrem
+ ely difficult or even impossible. This scarcity of adequate labeled traini
+ ng data is widely accepted as a major bottleneck of deep learning algorith
+ ms for important video under-standing tasks like action recognition.  VHAD
+  is a tentative solution to this issue\, and consists in using modern game
+  technology (esp. realistic rendering and physics engines) to generate lar
+ ge scale\, densely labeled\, high-quality syn-thetic video data without an
+ y manual intervention. In contrast to approaches using existing video game
+ s to record limited data from human game sessions (e.g.\, [7])\, we build 
+ upon the more power-ful approach of “virtual world generation” [1\,2]\
+ , which can be seen as making a kind of serious game (dynamic virtual envi
+ ronment) to be played only by (game) AIs in order to generate training dat
+ a for other (perceptual) AI algorithms.  The objective of our demo is to i
+ ntroduce attendees to the benefits of using these realistic virtual worlds
+ \, and to allow them to identify new challenges and opportunities\, both i
+ n terms of research and applications\, in particular for action recognitio
+ n\, scene understanding\, autonomous driving\, deep learning\, domain adap
+ tation\, multi-task learning\, data generation\, and related fundamental s
+ cientific problems. Our demo lets users navigate through the dynamic virtu
+ al worlds used in VHAD using state-of-the-art VR headsets.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interactive musical improvisation with Magenta | Adam Roberts \, S
+ ageev Oore \, Curtis Hawthorne \, Douglas Eck
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Interactive musical improvisation with Magenta\n
+ Adam Roberts \, Sageev Oore \, Curtis Hawthorne \, Douglas Eck\nhttp://nip
+ s.cc/Conferences/2016/Schedule?showEvent=6307\n\nWe combine LSTM-based rec
+ urrent neural networks and Deep Q-learning for generation of musical seque
+ nces in real time.  The role of LSTM is to learn the general structure of 
+ music scores (encoded as MIDI\, not audio). Deep Q-learning is used to imp
+ rove and focus the generated sequences based on rewards such as desired ge
+ nre\, compositional correctness and ability to predict aspects of what the
+  human collaborator is playing.  This combination of RNN model-based gener
+ ation with reinforcement learning is\, to our knowledge\, novel in the dom
+ ain of music generation. This approach also yields more stable\, musically
+ -relevant sequences than LSTM alone. The networks are trained for two task
+ s: the generation of responses to short melodic inputs\, and the generatio
+ n of an accompaniment to melodic input in real time\, requiring continuous
+  prediction of future output.The addition of a novel MIDI interface on top
+  of of TensorFlow enables improvisational experiences\, allowing one to in
+ teract with the neural networks in real time.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End-to-End Web Navigation | Rodrigo Frassetto Nogueira
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:End-to-End Web Navigation\nRodrigo Frassetto Nog
+ ueira\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6309\n\nTraditio
+ nal search engines have three main processing phases: crawling\, inverted 
+ ­index construction\, and candidate documents retrieval. Our retrieval me
+ thod\, instead\, has only one: Navigation. We built a neural net based age
+ nt that navigates through a website\, such as Wikipedia\, to find a web pa
+ ge that contains the answer to the question. During training\, it learns t
+ o assign high probabilities to the hyperlinks that will lead to the correc
+ t page and it stops when it is confident that the current page contains th
+ e answer to the question.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automated simulation and replication of fMRI experiments | Leila W
+ ehbe \, Alexander G Huth \, Fatma Deniz \, Marie-Luise Kieseler \, Jack Ga
+ llant
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Automated simulation and replication of fMRI exp
+ eriments\nLeila Wehbe \, Alexander G Huth \, Fatma Deniz \, Marie-Luise Ki
+ eseler \, Jack Gallant\nhttp://nips.cc/Conferences/2016/Schedule?showEvent
+ =6303\n\nWe present a free online tool that predicts brain activity from t
+ ext\, images and videos that users supply to the system. The tool is based
+  on models that were trained using data from experiments in which subjects
+  process complex\, uncontrolled stimuli: they listen to hours of stories a
+ nd watch real movies. The models can then predict brain activity for any n
+ ew stimulus\, effectively simulating the results of an fMRI experiment tha
+ t was not performed. Our system allows users to run a variety of common an
+ alysis tools used in imaging such as computing contrasts between condition
+ s\, running statistical tests\, and interactively visualizing the obtained
+  brain maps in multiple views. This can be useful while planning a new fMR
+ I experiment\, and could be crucial for encouraging replicability of fMRI 
+ results: published results and activation maps can be easily compared agai
+ nst our predictions for the same stimuli.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biometric applications of CNNs: get a job at "Impending Technologi
+ es"! | Sergio Escalera \, Isabelle Guyon \, Baiyu Chen \, Marc P Quintana 
+ \, Umut Güçlü \, Yağmur Güçlütürk \, Xavier Baró \, Rob van Lier 
+ \, Carlos Andujar \, Marcel A. J. van Gerven \, Bernhard E Boser \, Luke W
+ ang
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Biometric applications of CNNs: get a job at "Im
+ pending Technologies"!\nSergio Escalera \, Isabelle Guyon \, Baiyu Chen \,
+  Marc P Quintana \, Umut Güçlü \, Yağmur Güçlütürk \, Xavier Baró
+  \, Rob van Lier \, Carlos Andujar \, Marcel A. J. van Gerven \, Bernhard 
+ E Boser \, Luke Wang\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6
+ 314\n\nWe show applications of convolutional neural networks to analyze hu
+ man "imprints"\, ranging from personality traits to fingerprints.You have 
+ passed all the technical pre-requisites to join "Impending Technologies"\,
+  a very successful startup\, this is your dream job. But wait\, now you ar
+ e asked to be fingerprinted and must go through personality tests to demon
+ strate "good character". You donate your fingerprint\, then you are asked 
+ by a friendly avatar to present yourself for 15 seconds in front of a came
+ ra. You wait nervously for the outcome of your background check and the an
+ alysis of your personality traits. The friendly avatar lets you know that 
+ YES\, you made it\, you have been hired! Now you want to consult your pers
+ onality trait analysis. We protect your privacy: to access it you must ide
+ ntify yourself with your fingerprint!
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventures with Deep Generator Networks | Jason Yosinski \, Anh Ng
+ uyen \, Jeff Clune \, Douglas K Bemis
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Adventures with Deep Generator Networks\nJason Y
+ osinski \, Anh Nguyen \, Jeff Clune \, Douglas K Bemis\nhttp://nips.cc/Con
+ ferences/2016/Schedule?showEvent=6302\n\nThis demonstration shows a Deep G
+ enerator Network (DGN) running live and with its output images used as inp
+ ut for (and optimized for) a few different types of networks: AlexNet / In
+ ception-v4\, a Caption convnet\, and a Visual Relationship model. Users ca
+ n investigate properties of these networks by interactively generating the
+ ir own images using combinations of a webcam to provide input images and k
+ eyboard to type captions and relationships\, as described below.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:deepGTTM-I: local grouping boundary analyzer | Masatoshi Hamanaka
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:deepGTTM-I: local grouping boundary analyzer\nMa
+ satoshi Hamanaka\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6315\
+ n\nWe present a musical analyzer for a generative theory of tonal music (G
+ TTM) that enables us to output the results obtained from analysis that are
+  the similar to those obtained by musicologists on the basis of deep learn
+ ing by learning the analysis results obtained by musicologists.Directly le
+ arning the relationship between an input score and output analysis result 
+ is impossible. Therefore\, we first constructed a deep belief network (DBN
+ ) with latent musical knowledge that could output whether each GTTM rule w
+ as applicable or not on each note transition by learning the relationship 
+ between the scores and positions of applied grouping preference rules with
+  deep learning. After learning all the grouping preference rules\, the net
+ work underwent supervised fine-tuning by back propagation using the labele
+ d datasets of local grouping boundaries.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adapting Microsoft's CNTK and ResNet-18 to Enable Strong-Scaling o
+ n Cray Systems | Mark Staveley
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Adapting Microsoft's CNTK and ResNet-18 to Enabl
+ e Strong-Scaling on Cray Systems\nMark Staveley\nhttp://nips.cc/Conference
+ s/2016/Schedule?showEvent=6301\n\nThe ability to process vast quantities o
+ f data with an ever-increasing amount of computational power has enabled D
+ eep Learning models in speech and vision to supersede human capabilities. 
+ However\, we are still limited by algorithm implementations (software) and
+  hardware capabilities (compute\, storage\, and networking) when it comes 
+ to scaling out algorithms and reducing the time to solution. In many cases
+ \, training times for Deep Learning models can take days or even weeks bef
+ ore desired accuracy rates are obtained. Members of the Cray Deep Learning
+  Group (with assistance from the Engineering Staff at the Swiss National S
+ upercomputing Centre) have been able to leverage Cray’s experience with 
+ extreme scale systems to successfully scale out Microsoft’s CNTK 1 code 
+ with the ResNet-18 2 model (from last year’s ImageNet competition) to ov
+ er 512 Cray XC30 Supercomputer nodes (each node having 1 GPU). Specificall
+ y\, we have been able to leverage tools found within Cray MPI and the Cray
+  Programming Environment to optimize the MPI communications within Microso
+ ft’s CNTK\, while still being able to preserving the algorithm.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nullhop: Flexibly efficient FPGA CNN accelerator driven by DAVIS n
+ euromorphic vision sensor | Hesham Mostafa \, Alessandro Aimar \, Enrico C
+ alabrese \, Antonio Rios-Navarro \, Ricardo Tapiador \, Iulia-Alexandra Lu
+ ngu \, Angel F. Jimenez-Fernandez \, Federico Corradi \, Alejandro Linares
+ -Barranco \, Shih-Chii Liu \, Tobi Delbruck
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Nullhop: Flexibly efficient FPGA CNN accelerator
+  driven by DAVIS neuromorphic vision sensor\nHesham Mostafa \, Alessandro 
+ Aimar \, Enrico Calabrese \, Antonio Rios-Navarro \, Ricardo Tapiador \, I
+ ulia-Alexandra Lungu \, Angel F. Jimenez-Fernandez \, Federico Corradi \, 
+ Alejandro Linares-Barranco \, Shih-Chii Liu \, Tobi Delbruck\nhttp://nips.
+ cc/Conferences/2016/Schedule?showEvent=6317\n\nCNNs like VGG19\, Resnets-5
+ 0 and GooLeNet show sparsity between 30-90% even after max pooling. During
+  the inference stage\, conventional computing architectures such as CPUs a
+ nd GPUs typically fail to make efficient use of the sparse activations to 
+ accelerate the computation. In this demo\, we show a novel convolutional n
+ eural network accelerator implemented on an FPGA that stores\, and operate
+ s on\, compressed sparse representations of the feature maps.Our implement
+ ation improves on state of the art for CNN accelerators that operate with 
+ high efficiency across varied kernel sizes and that take advantage of spar
+ sity. In contrast to [1]\, it never decompresses the features map\, so it 
+ uses zero clock cycles for zeros in the feature maps. In contrast to [2]\,
+  its flexibility is maintained across a wide range of numbers of input and
+  output feature maps in layers.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neural Puppet | Tom White
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T180000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161207T213000
+DESCRIPTION:Demonstration:Neural Puppet\nTom White\nhttp://nips.cc/Confere
+ nces/2016/Schedule?showEvent=6308\n\nOur proposed work shows NIPS attendee
+ s executing various high level manipulations of their own face images usin
+ g generative neural networks. Portrait photos are encoded into the latent 
+ space of a variational autoencoder where attribute vectors can be applied.
+  These include opening and closing the mouth\, or adding or removing a smi
+ le. Images are then decoded from the latent space and videos are created s
+ howing these effects. Additionally\, participants can define their own att
+ ribute vector by having two photos taken and using the difference between 
+ them. This new attribute vector can then be applied to provided reference 
+ images as a one-shot generalization.
+LOCATION:Area 5 + 6 + 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning About the Brain: Neuroimaging and Beyond | Irina Rish
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T090000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T095000
+DESCRIPTION:Invited Talk:Learning About the Brain: Neuroimaging and Beyond
+ \nIrina Rish\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6196\n\nQ
+ uantifying mental states and identifying "statistical biomarkers" of menta
+ l disorders from neuroimaging data is an exciting and rapidly growing rese
+ arch area at the intersection of neuroscience and machine learning. Given 
+ the focus on gaining better insights about the brain functioning\, rather 
+ than just learning accurate "black-box" predictors\, interpretability and 
+ reproducibility of learned models become particularly important in this fi
+ eld. We will discuss promises and limitations of machine learning in neuro
+ imaging\, and lessons learned from applying various approaches\, from spar
+ se models to deep neural nets\, to a wide range of neuroimaging studies in
+ volving pain perception\, schizophrenia\, cocaine addiction and other ment
+ al disorders. Moreover\, we will also go "beyond the scanner" and discuss 
+ some recent work on inferring mental states from relatively cheap and easi
+ ly collected data\, such as speech and wearable sensors\, with application
+ s ranging from clinical settings ("computational psychiatry") to everyday 
+ life ("augmented human").
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reproducible Research: the Case of the Human Microbiome | Susan Ho
+ lmes
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T095000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T104000
+DESCRIPTION:Invited Talk (Breiman Lecture):Reproducible Research: the Case
+  of the Human Microbiome\nSusan Holmes\nhttp://nips.cc/Conferences/2016/Sc
+ hedule?showEvent=6190\n\nModern data sets usually present multiple levels 
+ of heterogeneity\,\nsome apparent such as the necessity of combining trees
+ \, graphs\, contingency tables\nand continuous covariates\, others concern
+  latent factors and gradients.\nThe biggest challenge in the analyses of t
+ hese data comes from the necessity to \nmaintain and percolate uncertainty
+  throughout the analyses. I will present a\ncompletely reproducible workfl
+ ow  that combines the typical kernel multidimensional scaling approaches w
+ ith Bayesian nonparametrics to arrive at visualizations that present hones
+ t projection regions.This talk will include  joint work with Kris Sankaran
+ \, Julia Fukuyama\, Lan Huong Nguyen\, Ben Callahan\, Boyu Ren\, Sergio Ba
+ callado\, Stefano Favaro\, Lorenzo Trippa and the members of Dr Relman's r
+ esearch group at Stanford.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T104000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T111000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6855\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interpretable Distribution Features with Maximum Testing Power | W
+ ittawat Jitkrittum \, Zoltán Szabó \, Kacper P Chwialkowski \, Arthur Gr
+ etton
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T111000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T113000
+DESCRIPTION:Oral:Interpretable Distribution Features with Maximum Testing 
+ Power\nWittawat Jitkrittum \, Zoltán Szabó \, Kacper P Chwialkowski \, A
+ rthur Gretton\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7479\n\n
+ Two semimetrics on probability distributions are proposed\, given as the s
+ um of differences of expectations of analytic functions evaluated at spati
+ al or frequency locations (i.e\, features). The features are chosen so as 
+ to maximize the distinguishability of the distributions\, by optimizing a 
+ lower bound on test power for a statistical test using these features. The
+  result is a parsimonious and interpretable indication of how and where tw
+ o distributions differ locally. An empirical estimate of the test power cr
+ iterion converges with increasing sample size\, ensuring the quality of th
+ e returned features. In real-world benchmarks on high-dimensional text and
+  image data\, linear-time tests using the proposed semimetrics achieve com
+ parable performance to the state-of-the-art quadratic-time maximum mean di
+ screpancy test\, while returning human-interpretable features that explain
+  the test results.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showing versus doing: Teaching by demonstration | Mark K Ho \, Mic
+ hael Littman \, James MacGlashan \, Fiery Cushman \, Joseph L Austerweil
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T111000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T113000
+DESCRIPTION:Oral:Showing versus doing: Teaching by demonstration\nMark K H
+ o \, Michael Littman \, James MacGlashan \, Fiery Cushman \, Joseph L Aust
+ erweil\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=7482\n\nPeople 
+ often learn from others' demonstrations\, and classic inverse reinforcemen
+ t learning (IRL) algorithms have brought us closer to realizing this capac
+ ity in machines. In contrast\, teaching by demonstration has been less wel
+ l studied computationally. Here\, we develop a novel Bayesian model for te
+ aching by demonstration. Stark differences arise when demonstrators are in
+ tentionally teaching a task versus simply performing a task. In two experi
+ ments\, we show that human participants systematically modify their teachi
+ ng behavior consistent with the predictions of our model. Further\, we sho
+ w that even standard IRL algorithms benefit when learning from behaviors t
+ hat are intentionally pedagogical. We conclude by discussing IRL algorithm
+ s that can take advantage of intentional pedagogy.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Examples are not enough\, learn to criticize! Criticism for Interp
+ retability | Been Kim \, Oluwasanmi Koyejo \, Rajiv Khanna
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T113000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T115000
+DESCRIPTION:Oral:Examples are not enough\, learn to criticize! Criticism f
+ or Interpretability\nBeen Kim \, Oluwasanmi Koyejo \, Rajiv Khanna\nhttp:/
+ /nips.cc/Conferences/2016/Schedule?showEvent=7480\n\nExample-based explana
+ tions are widely used in the effort to improve the interpretability of hig
+ hly complex distributions. However\, prototypes alone are rarely sufficien
+ t to represent the gist of the complexity. In order for users to construct
+  better mental models and understand complex data distributions\, we also 
+ need {\\em criticism} to explain what are \\textit{not} captured by protot
+ ypes.  Motivated by the Bayesian model criticism framework\, we develop \\
+ texttt{MMD-critic} which efficiently learns prototypes and criticism\, des
+ igned to aid human interpretability. A human subject pilot study shows tha
+ t the \\texttt{MMD-critic} selects prototypes and criticism that are usefu
+ l to facilitate human understanding and reasoning. We also evaluate the pr
+ ototypes selected by \\texttt{MMD-critic} via a nearest prototype classifi
+ er\, showing competitive performance compared to baselines.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Relevant sparse codes with variational information bottleneck | Ma
+ tthew Chalk \, Olivier Marre \, Gasper Tkacik
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T113000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T115000
+DESCRIPTION:Oral:Relevant sparse codes with variational information bottle
+ neck\nMatthew Chalk \, Olivier Marre \, Gasper Tkacik\nhttp://nips.cc/Conf
+ erences/2016/Schedule?showEvent=7483\n\nIn many applications\, it is desir
+ able to extract only the relevant aspects of data. A principled way to do 
+ this is the information bottleneck (IB) method\, where one seeks a code th
+ at maximises information about  a relevance variable\, Y\, while constrain
+ ing the information encoded about the original data\, X. Unfortunately how
+ ever\, the IB method is computationally demanding when data are high-dimen
+ sional and/or non-gaussian. Here we propose an approximate variational sch
+ eme for maximising a lower bound on the IB objective\, analogous to variat
+ ional EM. Using this method\, we derive an IB algorithm to recover feature
+ s that are both relevant and sparse. Finally\, we demonstrate how kernelis
+ ed versions of the algorithm can be used to address a broad range of probl
+ ems with non-linear relation between X and Y.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dense Associative Memory for Pattern Recognition | Dmitry Krotov \
+ , John J. Hopfield
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T115000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T121000
+DESCRIPTION:Oral:Dense Associative Memory for Pattern Recognition\nDmitry 
+ Krotov \, John J. Hopfield\nhttp://nips.cc/Conferences/2016/Schedule?showE
+ vent=7484\n\nWe propose a model of associative memory having an unusual ma
+ thematical structure. Contrary to the standard case\, which works well onl
+ y in the limit when the number of stored memories is much smaller than the
+  number of neurons\, our model stores and reliably retrieves many more pat
+ terns than the number of neurons in the network.  We propose a simple dual
+ ity between this dense associative memory and neural networks commonly use
+ d in models of deep learning. On the associative memory side of this duali
+ ty\, a family of models that smoothly interpolates between two limiting ca
+ ses can be constructed.  One limit is referred to as the feature-matching 
+ mode of pattern recognition\, and the other one as the prototype regime. O
+ n the deep learning side of the duality\, this family corresponds to neura
+ l networks with one hidden layer and various activation functions\, which 
+ transmit the activities of the visible neurons to the hidden layer. This f
+ amily of activation functions includes logistics\, rectified linear units\
+ , and rectified polynomials of higher degrees. The proposed duality makes 
+ it possible to apply energy-based intuition from associative memory to ana
+ lyze computational properties of neural networks with unusual activation f
+ unctions - the higher rectified polynomials which until now have not been 
+ used for training neural networks. The utility of the dense memories is il
+ lustrated for two test cases: the logical gate XOR and the recognition of 
+ handwritten digits from the MNIST data set.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recurrent Neural Networks and Other Machines that Learn Algorithms
+  | Juergen Schmidhuber \, Sepp Hochreiter \, Alex Graves \, Rupesh K Sriva
+ stava
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T140000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T213000
+DESCRIPTION:Symposium:Recurrent Neural Networks and Other Machines that Le
+ arn Algorithms\nJuergen Schmidhuber \, Sepp Hochreiter \, Alex Graves \, R
+ upesh K Srivastava\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=626
+ 0\n\nSoon after the birth of modern computer science in the 1930s\, two fu
+ ndamental questions arose: 1. How can computers learn useful programs from
+  experience\, as opposed to being programmed by human programmers? 2. How 
+ to program parallel multiprocessor machines\, as opposed to traditional se
+ rial architectures? Both questions found natural answers in the field of R
+ ecurrent Neural Networks (RNNs)\, which are brain-inspired general purpose
+  computers that can learn parallel-sequential programs or algorithms encod
+ ed as weight matrices.Our first RNNaissance NIPS workshop dates back to 20
+ 03: http://people.idsia.ch/~juergen/rnnaissance.html . Since then\, a lot 
+ has happened. Some of the most successful applications in machine learning
+  (including deep learning) are now driven by RNNs such as Long Short-Term 
+ Memory\, e.g.\, speech recognition\, video recognition\, natural language 
+ processing\, image captioning\, time series prediction\, etc. Through the 
+ world's most valuable public companies\, billions of people have now acces
+ s to this technology through their smartphones and other devices\, e.g.\, 
+ in the form of Google Voice or on Apple's iOS. Reinforcement-learning and 
+ evolutionary RNNs are solving complex control tasks from raw video input. 
+ Many RNN-based methods learn sequential attention strategies.Here we will 
+ review the latest developments in all of these fields\, and focus not only
+  on RNNs\, but also on learning machines in which RNNs interact with exter
+ nal memory such as neural Turing machines\, memory networks\, and related 
+ memory architectures such as fast weight networks and neural stack machine
+ s. In this context we will also will discuss asymptotically optimal progra
+ m search methods and their practical relevance.Our target audience has hea
+ rd a bit about recurrent neural networks but will happy to hear again a su
+ mmary of the basics\, and then delve into the latest advanced stuff\, to s
+ ee and understand what has recently become possible. We are hoping for tho
+ usands of attendees.All talks (mostly by famous experts in the field who h
+ ave already agreed to speak) will be followed by open discussions. We will
+  also have a call for posters. Selected posters will adorn the environment
+  of the lecture hall. We will also have a panel discussion on the bright f
+ uture of RNNs\, and their pros and cons.
+LOCATION:111 + 112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Learning Symposium | Yoshua Bengio \, Yann LeCun \, Navdeep J
+ aitly \, Roger B Grosse
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T140000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T213000
+DESCRIPTION:Symposium:Deep Learning Symposium\nYoshua Bengio \, Yann LeCun
+  \, Navdeep Jaitly \, Roger B Grosse\nhttp://nips.cc/Conferences/2016/Sche
+ dule?showEvent=6257\n\nDeep Learning algorithms attempt to discover good r
+ epresentations\, at multiple levels of abstraction. Deep Learning is a top
+ ic of broad interest\, both to researchers who develop new algorithms and 
+ theories\, as well as to the rapidly growing number of practitioners who a
+ pply these algorithms to a wider range of applications\, from vision and s
+ peech processing\, to natural language understanding\, neuroscience\, heal
+ th\, etc. Major conferences in these fields often dedicate several session
+ s to this topic\, attesting the widespread interest of our community in th
+ is area of research.There has been very rapid and impressive progress in t
+ his area in recent years\, in terms of both algorithms and applications\, 
+ but many challenges remain.  This symposium aims at bringing together rese
+ archers in Deep Learning and related areas to discuss the new advances\, t
+ he challenges we face\, and to brainstorm about new solutions and directio
+ ns.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning and the Law | Adrian Weller \, Thomas D. Grant \,
+  Conrad McDonnell \, Jatinder Singh
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T140000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T213000
+DESCRIPTION:Symposium:Machine Learning and the Law\nAdrian Weller \, Thoma
+ s D. Grant \, Conrad McDonnell \, Jatinder Singh\nhttp://nips.cc/Conferenc
+ es/2016/Schedule?showEvent=6258\n\nAdvances in machine learning and artifi
+ cial intelligence mean that predictions and decisions of algorithms are al
+ ready in use in many important situations under legal or regulatory contro
+ l\, and this is likely to increase dramatically in the near future. Exampl
+ es include deciding whether to approve a bank loan\, driving an autonomous
+  car\, or even predicting whether a prison inmate is likely to offend agai
+ n if released. This symposium will explore the key themes of privacy\, lia
+ bility\, transparency and fairness specifically as they relate to the lega
+ l treatment and regulation of algorithms and data. Our primary goals are (
+ i) to inform our community about important current and ongoing legislation
+  (e.g. the EU’s GDPR https://en.wikipedia.org/wiki/GeneralDataProtection
+ _Regulation which introduces a "right to explanation")\; and (ii) to bring
+  together the legal and technical communities to help form better policy i
+ n the future.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T160000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161208T163000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6856\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T103000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T110000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6857\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T150000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T153000
+DESCRIPTION:Break:\n\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6
+ 858\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T103000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T110000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6859\n\n
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break | 
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T150000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T153000
+DESCRIPTION:Break:Coffee Break\n\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6860\n\n
+LOCATION:
+END:VEVENT
+END:VCALENDAR

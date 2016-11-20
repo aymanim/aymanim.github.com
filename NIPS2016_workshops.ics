@@ -1,0 +1,2289 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+SUMMARY:Private Multi-Party Machine Learning | Borja Balle \, Aurélien Be
+ llet \, David Evans \, Adrià Gascón
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Private Multi-Party Machine Learning\nBorja Balle \, 
+ Aurélien Bellet \, David Evans \, Adrià Gascón\nhttp://nips.cc/Conferen
+ ces/2016/Schedule?showEvent=6250\n\nThe workshop focuses on the problem of
+  privacy-preserving machine learning in scenarios where sensitive datasets
+  are distributed across multiple data owners. Such distributed scenarios o
+ ccur quite often in practice\, for example when different parties contribu
+ te different records to a dataset\, or information about each record in th
+ e dataset is held by different owners. Different communities have develope
+ d approaches to deal with this problem\, including differential privacy-li
+ ke techniques where noisy sketches are exchanged between the parties\, hom
+ omorphic encryption where operations are performed on encrypted data\, and
+  tailored approaches using techniques from the field of secure multi-party
+  computation. The workshop will serve as a forum to unify different perspe
+ ctives on this problem and explore the relative merits of each approach. T
+ he workshop will also serve as a venue for networking researchers from the
+  machine learning and secure multi-party computation communities intereste
+ d in private learning\, and foster fruitful long-term collaborations.The w
+ orkshop will have a particular emphasis in the decentralization aspect of 
+ privacy-preserving machine learning. This includes a large number of reali
+ stic scenarios where the classical setup of differential privacy with a "t
+ rusted curator" that prepares the data cannot be directly applied. The pro
+ blem of privacy-preserving computation gains relevance in this model\, and
+  effectively leveraging the tools developed by the cryptographic community
+  to develop private multi-party learning algorithms poses a remarkable cha
+ llenge. Our program will include an introductory tutorial to secure multi-
+ party computation for a machine learning audience\, and talks by world-ren
+ owned experts from the machine learning and cryptography communities who h
+ ave made high quality contributions to this problem.
+LOCATION:Room 131 + 132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonconvex Optimization for Machine Learning: Theory and Practice |
+  Hossein Mobahi \, Anima Anandkumar \, Percy S Liang \, Stefanie Jegelka \
+ , Anna E Choromanska
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Nonconvex Optimization for Machine Learning: Theory a
+ nd Practice\nHossein Mobahi \, Anima Anandkumar \, Percy S Liang \, Stefan
+ ie Jegelka \, Anna E Choromanska\nhttp://nips.cc/Conferences/2016/Schedule
+ ?showEvent=6215\n\nA large body of machine learning problems require solvi
+ ng nonconvex optimization. This includes deep learning\, Bayesian inferenc
+ e\, clustering\, and so on. The objective functions in all these instances
+  are highly non-convex\, and it is an open question if there  are provable
+ \, polynomial time algorithms for these problems under realistic assumptio
+ ns.A diverse set of approaches have been devised to solve nonconvex proble
+ ms in a variety of approaches. They range from simple local search approac
+ hes such as gradient descent and alternating minimization to more involved
+  frameworks such as simulated annealing\, continuation method\, convex hie
+ rarchies\, Bayesian optimization\, branch and bound\, and so on. Moreover\
+ , for solving special class of nonconvex problems there are efficient meth
+ ods such as quasi convex optimization\, star convex optimization\, submodu
+ lar optimization\, and matrix/tensor decomposition.There has been a burst 
+ of recent research activity in all these areas. This workshop brings resea
+ rchers from these vastly different domains and hopes to create a dialogue 
+ among them.  In addition to the theoretical frameworks\, the workshop will
+  also feature practitioners\, especially in the area of deep learning who 
+ are developing new methodologies for training large scale neural networks.
+  The result will be a cross fertilization of ideas from diverse areas and 
+ schools of thought.
+LOCATION:Area 5 + 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challenges in Machine Learning: Gaming and Education | Isabelle Gu
+ yon \, Evelyne Viegas \, Balázs Kégl \, Ben Hamner \, Sergio Escalera
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Challenges in Machine Learning: Gaming and Education\
+ nIsabelle Guyon \, Evelyne Viegas \, Balázs Kégl \, Ben Hamner \, Sergio
+  Escalera\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6217\n\nChal
+ lenges in machine learning and data science are competitions running over 
+ several weeks or months to resolve problems using provided datasets or sim
+ ulated environments. The playful nature of challenges naturally attracts s
+ tudents\, making challenge a great teaching resource. For this third editi
+ on of the CiML workshop at NIPS we want to explore more in depth the oppor
+ tunities that challenges offer as teaching tools. The workshop will give a
+  large part to discussions around several axes: (1) benefits and limitatio
+ ns of challenges to give students problem-solving skills and teach them be
+ st practices in machine learning\; (2) challenges and continuous education
+  and up-skilling in the enterprise\; (3) design issues to make challenges 
+ more effective teaching aids\; (4) curricula involving students in challen
+ ge design as a means of educating them about rigorous experimental design\
+ , reproducible research\, and project leadership.\nCiML is a forum that br
+ ings together workshop organizers\, platform providers\, and participants 
+ to discuss best practices in challenge organization and new methods and ap
+ plication opportunities to design high impact challenges. Following the su
+ ccess of last year's workshop (http://ciml.chalearn.org/)\, in which a fru
+ itful exchange led to many innovations\, we propose to reconvene and discu
+ ss new opportunities for challenges in education\, one of the hottest topi
+ cs identified in last year's discussions. We have invited prominent speake
+ rs in this field. \nWe will also reserve time to an open discussion to dig
+  into other topic including open innovation\, coopetitions\, platform inte
+ roperability\, and tool mutualisation.
+LOCATION:Room 129 + 130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advances in Approximate Bayesian Inference | Tamara Broderick \, S
+ tephan Mandt \, James McInerney \, Dustin Tran \, David Blei \, Kevin P Mu
+ rphy \, Andrew Gelman \, Michael I Jordan
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Advances in Approximate Bayesian Inference\nTamara Br
+ oderick \, Stephan Mandt \, James McInerney \, Dustin Tran \, David Blei \
+ , Kevin P Murphy \, Andrew Gelman \, Michael I Jordan\nhttp://nips.cc/Conf
+ erences/2016/Schedule?showEvent=6222\n\nBayesian analysis has seen a resur
+ gence in machine learning\, expanding its scope beyond traditional applica
+ tions. Increasingly complex models have been trained with large and stream
+ ing data sets\, and they have been applied to a diverse range of domains. 
+ Key to this resurgence has been advances in approximate Bayesian inference
+ . Variational and Monte Carlo methods are currently the mainstay technique
+ s\, where recent insights have improved their approximation quality\, prov
+ ided black box strategies for fitting many models\, and enabled scalable c
+ omputation.In this year's workshop\, we would like to continue the theme o
+ f approximate Bayesian inference with additional emphases. In particular\,
+  we encourage submissions not only advancing approximate inference but als
+ o regarding (1) unconventional inference techniques\, with the aim to brin
+ g together diverse communities\; (2) software tools for both the applied a
+ nd methodological researcher\; and (3) challenges in applications\, both i
+ n non-traditional domains and when applying these techniques to advance cu
+ rrent domains.
+LOCATION:Room 112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptive Data Analysis | Vitaly Feldman \, Aaditya Ramdas \, Aaron
+  Roth \, Adam Smith
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Adaptive Data Analysis\nVitaly Feldman \, Aaditya Ram
+ das \, Aaron Roth \, Adam Smith\nhttp://nips.cc/Conferences/2016/Schedule?
+ showEvent=6244\n\nAdaptive data analysis is the increasingly common practi
+ ce by which insights gathered from data are used to inform further analysi
+ s of the same data sets. This is common practice both in machine learning\
+ , and in scientific research\, in which data-sets are shared and re-used a
+ cross multiple studies. Unfortunately\, most of the statistical inference 
+ theory used in empirical sciences to control false discovery rates\, and i
+ n machine learning to avoid overfitting\, assumes a fixed class of hypothe
+ ses to test\, or family of functions to optimize over\, selected independe
+ ntly of the data. If the set of analyses run is itself a function of the d
+ ata\, much of this theory becomes invalid\, and indeed\, has been blamed a
+ s one of the causes of the crisis of reproducibility in empirical science.
+ Recently\, there have been several exciting proposals for how to avoid ove
+ rfitting and guarantee statistical validity even in general adaptive data 
+ analysis settings. The problem is important\, and ripe for further advance
+ s. The goal of this workshop is to bring together members of different com
+ munities (from machine learning\, statistics\, and theoretical computer sc
+ ience) interested in solving this problem\, to share recent results\, to d
+ iscuss promising directions for future research\, and to foster collaborat
+ ions.
+LOCATION:Room 122 + 123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Reinforcement Learning | David Silver \, Satinder Singh \, Pi
+ eter Abbeel
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Deep Reinforcement Learning\nDavid Silver \, Satinder
+  Singh \, Pieter Abbeel\nhttp://nips.cc/Conferences/2016/Schedule?showEven
+ t=6216\n\nAlthough the theory of reinforcement learning addresses an extre
+ mely general class of learning problems with a common mathematical formula
+ tion\, its power has been limited by the need to develop task-specific fea
+ ture representations. A paradigm shift is occurring as researchers figure 
+ out how to use deep neural networks as function approximators in reinforce
+ ment learning algorithms\; this line of work has yielded remarkable empiri
+ cal results in recent years. This workshop will bring together researchers
+  working at the intersection of deep learning and reinforcement learning\,
+  and it will help researchers with expertise in one of these fields to lea
+ rn about the other.
+LOCATION:Area 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crowdsourcing and Machine Learning | Adish Singla \, Rafael Frongi
+ llo \, Matteo Venanzi
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Crowdsourcing and Machine Learning\nAdish Singla \, R
+ afael Frongillo \, Matteo Venanzi\nhttp://nips.cc/Conferences/2016/Schedul
+ e?showEvent=6218\n\nBuilding systems that seamlessly integrate machine lea
+ rning (ML) and human intelligence can greatly push the frontier of our abi
+ lity to solve challenging real-world problems. While ML research usually f
+ ocuses on developing more efficient learning algorithms\, it is often the 
+ quality and amount of training data that predominantly govern the performa
+ nce of real-world systems. This is only amplified by the recent popularity
+  of large scale and complex learning methodologies such as Deep Learning\,
+  which can require millions to billions of training instances to perform w
+ ell. The recent rise of human computation and crowdsourcing approaches\, m
+ ade popular by task-solving platforms like Amazon Mechanical Turk and Crow
+ dFlower\, enable us to systematically collect and organize human intellige
+ nce.  Crowdsourcing research itself is interdisciplinary\, combining econo
+ mics\, game theory\, cognitive science\, and human-computer interaction\, 
+ to create robust and effective mechanisms and tools.  The goal of this wor
+ kshop is to bring crowdsourcing and ML experts together to explore how cro
+ wdsourcing can contribute to ML and vice versa. Specifically\, we will foc
+ us on the design of mechanisms for data collection and ML competitions\, a
+ nd conversely\, applications of ML to complex crowdsourcing platforms.CROW
+ DSOURCING FOR DATA COLLECTIONCrowdsourcing is one of the most popular appr
+ oaches to data collection for ML\, and therefore one of the biggest avenue
+ s through which crowdsourcing can advance the state of the art in ML.  We 
+ seek cost-efficient and fast data collection methods based on crowdsourcin
+ g\, and ask how design decisions in these methods could impact subsequent 
+ stages of ML system. Topics of interest include:- Basic annotation: What i
+ s the best way to collect and aggregate labels for unlabeled data from the
+  crowd?  How can we increase fidelity by flagging labels as uncertain give
+ n the crowd feedback?  How can we do the above in the most cost-efficient 
+ manner?- Beyond simple annotation tasks: What is the most effective way to
+  collect probabilistic data from the crowd? How can we collect data requir
+ ing global knowledge of the domain such as building Bayes net structure vi
+ a crowdsourcing?- Time-sensitive and complex tasks: How can we design crow
+ dsourcing systems to handle real-time or time-sensitive tasks\, or those r
+ equiring more complicated work dependencies?  Can we encourage collaborati
+ on on complex tasks?- Data collection for specific domains: How can ML res
+ earchers apply the crowdsourcing principles to specific domains (e.g.\, he
+ althcare) where privacy and other concerns are at play?ML RESEARCH VIA COM
+ PETITIONSThrough the Netflix challenge and now platforms like Kaggle\, we 
+ are seeing the crowdsourcing of ML research itself.  Yet the mechanisms un
+ derlying these competitions are extremely simple.  Here our focus is on th
+ e design of such competitions\; topics of interest include:- What is the m
+ ost effective way to incentivize the crowd to participate in the ML compet
+ itions?  What is the most efficient method\; rather than the typically win
+ ner-takes-all\, can we design a mechanism which makes better use of the ne
+ t research-hours devoted to the competition?- Competitions as recruiting: 
+ how would we design a competition differently if (as is often the case) th
+ e result is not a winning algorithm but instead a job offer?- Privacy issu
+ es with data sharing are one of the key barriers to holding such competiti
+ ons.  How can we design privacy-aware mechanisms which allow enough access
+  to enable a meaningful competition?- Challenges arising from the sequenti
+ al and interactive nature of competitions\, e.g.\, how can we maintain unb
+ iased leaderboards without allowing for overfitting?ML FOR CROWDSOURCING S
+ YSTEMSGeneral crowdsourcing systems such as Duolingo\, FoldIt\, and Galaxy
+  Zoo confront challenges of reliability\, efficiency\, and scalability\, f
+ or which ML can provide powerful solutions.  Many ML approaches have alrea
+ dy been applied to output aggregation\, quality control\, work flow manage
+ ment and incentive design\, but there is much more that could be done\, ei
+ ther through novel ML methods\, major redesigns of workflow or mechanisms\
+ , or on new crowdsourcing problems.  Topics here include:- Dealing with sp
+ arse\, noisy and large number of label classes\, for example\, in tagging 
+ image collection for Deep Learning based computer vision algorithms.- Opti
+ mal budget allocation and active learning in crowdsourcing.- Open theoreti
+ cal questions in crowdsourcing that can be addressed by statistics and lea
+ rning theory\, for instance\, analyzing label aggregation algorithms such 
+ as EM\, or budget allocation strategies.- Applications of ML to emerging c
+ rowd-powered marketplaces (e.g.\, Uber\, AirBnb).  How can ML improve the 
+ efficiency of these markets?
+LOCATION:Room 120 + 121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brains and Bits: Neuroscience meets Machine Learning | Alyson Flet
+ cher \, Eva L Dyer \, Jascha Sohl-Dickstein \, Joshua T Vogelstein \, Konr
+ ad Koerding \, Jakob H Macke
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Brains and Bits: Neuroscience meets Machine Learning\
+ nAlyson Fletcher \, Eva L Dyer \, Jascha Sohl-Dickstein \, Joshua T Vogels
+ tein \, Konrad Koerding \, Jakob H Macke\nhttp://nips.cc/Conferences/2016/
+ Schedule?showEvent=6247\n\nThe goal of this workshop is to bring together 
+ researchers from neuroscience\, deep learning\, machine learning\, compute
+ r science theory\, and statistics for a rich discussion about how computer
+  science and neuroscience can inform one another as these two fields rapid
+ ly move forward. We invite high quality submissions and discussion on topi
+ cs including\, but not limited to\, the following fundamental questions: a
+ ) shared approaches for analyzing biological and artificial neural systems
+ \, b) how insights and challenges from neuroscience can inspire progress i
+ n machine learning\, and c) methods for interpreting the revolutionary lar
+ ge scale datasets produced by new experimental neuroscience techniques.Exp
+ erimental methods for measuring neural activity and structure have undergo
+ ne recent revolutionary advances\, including in high-density recording arr
+ ays\, population calcium imaging\, and large-scale reconstructions of anat
+ omical circuitry. These developments promise unprecedented insights into t
+ he collective dynamics of neural populations and thereby the underpinnings
+  of brain-like computation. However\, these next-generation methods for me
+ asuring the brain’s architecture and function produce high-dimensional\,
+  large scale\, and complex datasets\, raising challenges for analysis. Wha
+ t are the machine learning and analysis approaches that will be indispensa
+ ble for analyzing these next-generation datasets? What are the computation
+ al bottlenecks and challenges that must be overcome?In parallel to experim
+ ental progress in neuroscience\, the rise of deep learning methods has sho
+ wn that hard computational problems can be solved by machine learning algo
+ rithms that are inspired by biological neural networks\, and built by casc
+ ading many nonlinear units. In contrast to the brain\, artificial neural s
+ ystems are fully observable\, so that experimental data-collection constra
+ ints are not relevant. Nevertheless\, it has proven challenging to develop
+  a theoretical understanding of how neural networks solve tasks\, and what
+  features are critical to their performance. Thus\, while deep networks di
+ ffer from biological neural networks in many ways\, they provide an intere
+ sting testing ground for evaluating strategies for understanding neural pr
+ ocessing systems. Are there synergies between analysis methods for biologi
+ cal and artificial neural systems? Has the resurgence of deep learning res
+ ulted in new hypotheses or strategies for trying to understand biological 
+ neural networks? Conversely\, can neuroscience provide inspiration for the
+  next generation of machine-learning algorithms?We welcome participants fr
+ om a range of disciplines in statistics\, applied physics\, machine learni
+ ng\, and both theoretical and experimental neuroscience\, with the goal of
+  fostering interdisciplinary insights. We hope that active discussions amo
+ ng these groups can set in motion new collaborations and facilitate future
+  breakthroughs on fundamental research problems.
+LOCATION:Room 211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imperfect Decision Makers: Admitting Real-World Rationality | Miro
+ slav Karny \, David H Wolpert \, David Rios Insua \, Tatiana V. Guy
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Imperfect Decision Makers: Admitting Real-World Ratio
+ nality\nMiroslav Karny \, David H Wolpert \, David Rios Insua \, Tatiana V
+ . Guy\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6243\n\nThe pres
+ criptive (normative) Bayesian theory of decision making under uncertainty 
+ has reached a high level of maturity. The assumption that the decision mak
+ er is rational (i.e. that they optimize expected utility\, in Savage’s f
+ ormulation) is central to this theory. However\, empirical research indica
+ tes that this central assumption is often violated by real decision-makers
+ . This limits the ability of the prescriptive Bayesian theory to provide a
+  descriptive theory of the real world. One of the reasons that have been p
+ roposed for why the assumption of rationality might be violated by real de
+ cision makers is the limited cognitive and computational resources of thos
+ e decision makers\, [1]-[5]. This workshop intends to inspect this core as
+ sumption and to consider possible ways to modify or complement it.Many of 
+ the precise issues related to this theme – some of which will be address
+ ed in the invited talks - can be formulated as questions:•    Does the c
+ oncept of rationality require Bayesian reasoning?•    Does quantum proba
+ bility theory (extending classical Kolmogorov probability) provide novel i
+ nsights into the relation between decision making and cognition?•   Do t
+ he extensions of expected utility (which is a linear function of the relev
+ ant probabilities) to nonlinear functions of probabilities enhance the fle
+ xibility of decision-making task formulating while respecting the limited 
+ cognitive resources of decision makers?•  How can good (meta-)heuristics
+ \, so successfully used by real-world decision makers\, be elicited?The li
+ st is definitely not complete and we expect that contributed talks\, poste
+ rs and informal discussions will extend it. To stimulate the informal disc
+ ussions\, the invited talks will be complemented by discussants challengin
+ g them. Altogether\, the workshop aims to bring together diverse scientifi
+ c communities\, to brainstorm possible research directions\, and to encour
+ age collaboration among researchers with complementary ideas and expertise
+ . The intended outcome is to understand and diminish the discrepancy betwe
+ en the established prescriptive theory and real-world decision making.The 
+ targeted audience is scientists and students from the diverse scientific c
+ ommunities (decision science\, cognitive science\, natural science\, artif
+ icial intelligence\, machine learning\, social science\, economics\, etc.)
+  interested in various aspects of rationality.All accepted submissions wil
+ l be published in a special issue of the Workshop and Conference Proceedin
+ gs series of the Journal of Machine Learning Research (JMRL).[1] H.A. Simo
+ n: Theories Of Decision-Making In Economics and Behavioral  Science\, The 
+ American Economic Review\, XLIX\, 253-283\, 1959[2] C.A. Sims Implications
+  of Rational Inattention\, J. of Monetary Economics\, 50\, 3\, 665 -- 690\
+ , 2003[3] A. Tversky\, D. Kahneman: Advances in Prospect Theory: Cumulativ
+ e  Representation of Uncertainty\, J. of Risk and Uncertainty\, 5\, 297-32
+ 3\, 1992[4] 2011 NIPS Workshop on Decision Making with Multiple Imperfect 
+ Decision Makers[5] 2015 NIPS Workshop on Bounded Optimality and Metareason
+ ing
+LOCATION:Room 127 + 128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Representation Learning in Artificial and Biological Neural Networ
+ ks | Leila Wehbe \, Marcel Van Gerven \, Moritz Grosse-Wentrup \, Irina Ri
+ sh \, Brian Murphy \, Georg Langs \, Guillermo Cecchi \, Anwar O Nunez-Eli
+ zalde
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Representation Learning in Artificial and Biological 
+ Neural Networks\nLeila Wehbe \, Marcel Van Gerven \, Moritz Grosse-Wentrup
+  \, Irina Rish \, Brian Murphy \, Georg Langs \, Guillermo Cecchi \, Anwar
+  O Nunez-Elizalde\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6221
+ \n\nWe propose a workshop on the interface between cognitive neuroscience 
+ and recent advances in AI fields that aim to reproduce human performance s
+ uch as natural language processing and computer vision\, and specifically 
+ on deep learning approaches to such problems.When studying the cognitive c
+ apabilities of the brain\, scientists follow a system identification appro
+ ach in which they present different stimuli to the subjects and try to mod
+ el the response that different brain areas have of that stimulus. The goal
+  is to understand the brain by trying to find the function that expresses 
+ the activity of brain areas in terms of different properties of the stimul
+ us. Experimental stimuli are becoming increasingly complex with more and m
+ ore people being interested in studying real life phenomena such as the pe
+ rception of natural images or natural sentences. There is therefore a need
+  for a rich and adequate vector representation of the properties of the st
+ imulus\, that we can obtain using advances in NLP\, computer vision or oth
+ er relevant ML disciplines.In parallel\, new ML approaches\, many of which
+  in deep learning\, are inspired to a certain extent by human behavior or 
+ biological principles. Neural networks for example were originally inspire
+ d by biological neurons. More recently\, processes such as attention are b
+ eing used which have are inspired by human behavior. However\, the large b
+ ulk of these methods are independent of findings about brain function\, an
+ d it is unclear whether it is at all beneficial for machine learning to tr
+ y to emulate brain function in order to achieve the same tasks that the br
+ ain achieves.In order to shed some light on this difficult but exciting qu
+ estion\, we plan to bring together many experts from these seemingly conve
+ rging fields to discuss these questions\, in a new highly interactive form
+ at consisting of sessions made of two short lectures from experts in both 
+ fields\, followed by a guided discussion.This workshop is a continuation o
+ f a successful workshop series: Machine Learning and Interpretation in Neu
+ roimaging (MLINI). MLINI has already had 5 iterations in which methods for
+  analyzing and interpreting neuroimaging data were discussed in depth. In 
+ keeping with previous tradition in the workshop\, we will also visit the b
+ lossoming field of machine learning applied to neuroimaging data\, and spe
+ cifically the recent trend of utilizing neural network models to analyze b
+ rain data\, which is evolving on a seemingly orthogonal plane to the use o
+ f these algorithms to represent the information content in the brain. This
+  way we will complete the loop of studying the advances of neural networks
+  in neuroscience both as a source of models for brain representations\, an
+ d as a tool for brain image analysis.To encourage contributions\, we propo
+ se both of the following:- Papers published in online proceedings- Posters
+  (only abstract submission with option to put abstract on website)Importan
+ tly\, this workshop is in conjunction with a Frontiers topic entitled:Arti
+ ficial neural networks as models of human brain functionhttp://journal.fro
+ ntiersin.org/researchtopic/4817/artificial-neural-networks-as-models-of-ne
+ ural-information-processingParticipants are strongly encouraged to submit 
+ their work to the Frontiers special topic edition.
+LOCATION:Room 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning in High Dimensions with Structure | Nikhil Rao \, Prateek
+  Jain \, Hsiang-Fu Yu \, Ming Yuan \, Francis Bach
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Learning in High Dimensions with Structure\nNikhil Ra
+ o \, Prateek Jain \, Hsiang-Fu Yu \, Ming Yuan \, Francis Bach\nhttp://nip
+ s.cc/Conferences/2016/Schedule?showEvent=6219\n\nSeveral applications nece
+ ssitate learning a very large number of parameters from small amounts of d
+ ata\, which can lead to overfitting\, statistically unreliable answers\, a
+ nd large training/prediction costs.  A common and effective method to avoi
+ d the above mentioned issues is to restrict the parameter-space using spec
+ ific structural constraints such as sparsity or low rank. However\, such s
+ imple constraints do not fully exploit the richer structure which is avail
+ able in several applications and is present in the form of correlations\, 
+ side information or higher order structure. Designing new structural const
+ raints requires close collaboration between domain experts and machine lea
+ rning practitioners. Similarly\, developing efficient and principled algor
+ ithms to learn with such constraints requires further collaborations betwe
+ en experts in diverse areas such as statistics\, optimization\, approximat
+ ion algorithms etc. This interplay has given rise to a vibrant area of "le
+ arning with structure in high dimensions". The goal of this workshop is to
+  bring together the aforementioned diverse set of people who have worked i
+ n these areas and encourage discussions with an aim to help define the cur
+ rent frontiers for the area and initiate a discussion about meaningful and
+  challenging problems that require attention.
+LOCATION:Area 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extreme Classification: Multi-class and Multi-label Learning in Ex
+ tremely Large Label Spaces | Moustapha Cisse \, Manik Varma \, Samy Bengio
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Extreme Classification: Multi-class and Multi-label L
+ earning in Extremely Large Label Spaces\nMoustapha Cisse \, Manik Varma \,
+  Samy Bengio\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6211\n\nE
+ xtreme classification\, where one needs to deal with multi-class and multi
+ -label problems involving a very large number of labels\, has opened up a 
+ new research frontier in machine learning. Many challenging applications\,
+  such as photo or video annotation\, web page categorization\, gene functi
+ on prediction\, language modeling can benefit from being formulated as sup
+ ervised learning tasks with millions\, or even billions\, of labels. Extre
+ me classification can also give a fresh perspective on core learning probl
+ ems such as ranking and recommendation by reformulating them as multi-clas
+ s/label tasks where each item to be ranked or recommended is a separate la
+ bel.Extreme classification raises a number of interesting research questio
+ ns including those related to:Large scale learning and distributed and par
+ allel trainingLog-time and log-space prediction and prediction on a test-t
+ ime budgetLabel embedding and tree-based approachesCrowd sourcing\, prefer
+ ence elicitation and other data gathering techniquesBandits\, semi-supervi
+ sed learning and other approaches for dealing with training set biases and
+  label noiseBandits with an extremely large number of armsFine-grained cla
+ ssificationZero shot learning and extensible output spacesTackling label p
+ olysemy\, synonymy and correlationsStructured output prediction and multi-
+ task learningLearning from highly imbalanced dataDealing with tail labels 
+ and learning from very few data points per labelPU learning and learning f
+ rom missing and incorrect labelsFeature extraction\, feature sharing\, laz
+ y feature evaluation\, etc.Performance evaluationStatistical analysis and 
+ generalization boundsApplications to ranking\, recommendation\, knowledge 
+ graph construction and other domainsThe workshop aims to bring together re
+ searchers interested in these areas to encourage discussion and improve up
+ on the state-of-the-art in extreme classification. In particular\, we aim 
+ to bring together researchers from the natural language processing\, compu
+ ter vision and core machine learning communities to foster interaction and
+  collaboration. Several leading researchers will present invited talks det
+ ailing the latest advances in the area. We also seek extended abstracts pr
+ esenting work in progress which will be reviewed for acceptance as spotlig
+ ht+poster or a talk. The workshop should be of interest to researchers in 
+ core supervised learning as well as application domains such as recommende
+ r systems\, computer vision\, computational advertising\, information retr
+ ieval and natural language processing. We expect a healthy participation f
+ rom both industry and academia.http://research.microsoft.com/~manik/events
+ /xc16/
+LOCATION:Room 111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Efficient Methods for Deep Neural Networks | Mohammad Rastegari \,
+  Matthieu Courbariaux
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Efficient Methods for Deep Neural Networks\nMohammad 
+ Rastegari \, Matthieu Courbariaux\nhttp://nips.cc/Conferences/2016/Schedul
+ e?showEvent=6234\n\nDeep Neural Networks have been revolutionizing several
+  application domains in artificial intelligence: Computer Vision\, Speech 
+ Recognition and Natural Language Processing. Concurrent to the recent prog
+ ress in deep learning\, significant progress has been happening in virtual
+  reality\, augmented reality\, and smart wearable devices. These advances 
+ create unprecedented opportunities for researchers to tackle fundamental c
+ hallenges in deploying deep learning systems to portable devices with limi
+ ted resources (e.g. Memory\, CPU\, Energy\, Bandwidth). Efficient methods 
+ in deep learning can have crucial impacts in using distributed systems\, e
+ mbedded devices\, and FPGA for several AI tasks. Achieving these goals cal
+ ls for ground-breaking innovations on many fronts: learning\, optimization
+ \, computer architecture\, data compression\, indexing\, and hardware desi
+ gn.This workshop is sponsored by Allen Institute for Artificial Intelligen
+ ce (AI2). We offer partial travel grant and registration for limited numbe
+ r of people participating in the workshop.The goal of this workshop is pro
+ viding a venue for researchers interested in developing efficient techniqu
+ es for deep neural networks to present new work\, exchange ideas\, and bui
+ ld connections. The workshop will feature keynotes and invited talks from 
+ prominent researchers as well as a poster session that fosters in depth di
+ scussion. Further\, in a discussion panel the experts discuss about the po
+ ssible approaches (hardware\, software\, algorithm\, ...) toward designing
+  efficient methods in deep learning.We invite submissions of short papers 
+ and extended abstracts related to the following topics in the context of e
+ fficient methods in deep learning:-Network compression-Quantized neural ne
+ tworks (e.g. Binary neural networks)-Hardware accelerator for neural netwo
+ rks-Training and inference with low-precision operations.-Real-time applic
+ ations in deep neural networks  (e.g. Object detection\, Image segmentatio
+ n\, Online language translation\, ...)-Distributed training/inference of d
+ eep neural networks-Fast optimization methods for neural networks
+LOCATION:Area 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Series Workshop | Oren Anava \, Marco Cuturi \, Azadeh Khaleg
+ hi \, Vitaly Kuznetsov \, Sasha Rakhlin
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Time Series Workshop\nOren Anava \, Marco Cuturi \, A
+ zadeh Khaleghi \, Vitaly Kuznetsov \, Sasha Rakhlin\nhttp://nips.cc/Confer
+ ences/2016/Schedule?showEvent=6229\n\nData\, in the form of time-dependent
+  sequential observations emerge in many key real-world problems\, ranging 
+ from biological data\, financial markets\, weather forecasting to audio/vi
+ deo processing. However\, despite the ubiquity of such data\, most mainstr
+ eam machine learning algorithms have been primarily developed for settings
+  in which sample points are drawn i.i.d. from some (usually unknown) fixed
+  distribution. While there exist algorithms designed to handle non-i.i.d. 
+ data\, these typically assume specific parametric form for the data-genera
+ ting distribution. Such assumptions may undermine the complex nature of mo
+ dern data which can possess long-range dependency patterns\, and for which
+  we now have the computing power to discern. On the other extreme lie on-l
+ ine learning algorithms that consider a more general framework without any
+  distributional assumptions. However\, by being purely-agnostic\, common o
+ n-line algorithms may not fully exploit the stochastic aspect of time-seri
+ es data.Our workshop will build on the success of the first NIPS Time Seri
+ es Workshop that was held at NIPS 2015.  The goal of this workshop is to b
+ ring together theoretical and applied researchers interested in the analys
+ is of time series and development of new algorithms to process sequential 
+ data. This includes algorithms for time series prediction\, classification
+ \, clustering\, anomaly and change point detection\, correlation discovery
+ \, dimensionality reduction as well as a general theory for learning and c
+ omparing stochastic processes. We invite researchers from the related area
+ s of batch and online learning\, reinforcement learning\, data analysis an
+ d statistics\, econometrics\, and many others to contribute to this worksh
+ op.We also hope that this workshop will serve as an excellent companion to
+  a tutorial on "Theory and Algorithms for Forecasting Non-Stationary Time 
+ Series" which is going to be presented at NIPS this year.This year selecte
+ d proceedings will be published in the JMLR special issue on "Time Series 
+ Analysis".
+LOCATION:Room 117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Future of Interactive Machine Learning | Kory Mathewson \, Kau
+ shik Subramanian \, Mark K Ho \, Robert Loftin \, Joseph L Austerweil \, A
+ nna Harutyunyan \, Doina Precup \, Layla El Asri \, Matthew Gombolay \, Xi
+ aojin Zhu \, Sonia Chernova \, Charles L Isbell \, Patrick M Pilarski \, W
+ eng-Keen Wong \, Manuela Veloso \, Julie A Shah \, Matthew Taylor \, Brenn
+ a Argall \, Michael Littman
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:The Future of Interactive Machine Learning\nKory Math
+ ewson \, Kaushik Subramanian \, Mark K Ho \, Robert Loftin \, Joseph L Aus
+ terweil \, Anna Harutyunyan \, Doina Precup \, Layla El Asri \, Matthew Go
+ mbolay \, Xiaojin Zhu \, Sonia Chernova \, Charles L Isbell \, Patrick M P
+ ilarski \, Weng-Keen Wong \, Manuela Veloso \, Julie A Shah \, Matthew Tay
+ lor \, Brenna Argall \, Michael Littman\nhttp://nips.cc/Conferences/2016/S
+ chedule?showEvent=6224\n\nInteractive machine learning (IML) explores how 
+ intelligent agents solve a task together\, often focusing on adaptable col
+ laboration over the course of sequential decision making tasks. Past resea
+ rch in the field of IML has investigated how autonomous agents can learn t
+ o solve problems more effectively by making use of interactions with human
+ s. Designing and engineering fully autonomous agents is a difficult and so
+ metimes intractable challenge.  As such\, there is a compelling need for I
+ ML algorithms that enable artificial and human agents to collaborate and s
+ olve independent or shared goals. The range of real-world examples of IML 
+ spans from web applications such as search engines\, recommendation system
+ s and social media personalization\, to dialog systems and embodied system
+ s such as industrial robots and household robotic assistants\, and to medi
+ cal robotics (e.g. bionic limbs\, assistive devices\, and exoskeletons). A
+ s intelligent systems become more common in industry and in everyday life\
+ , the need for these systems to interact with and learn from the people ar
+ ound them will also increase.This workshop seeks to brings together expert
+ s in the fields of IML\, reinforcement learning (RL)\, human-computer inte
+ raction (HCI)\, robotics\, cognitive psychology and the social sciences to
+  share recent advances and explore the future of IML. Some questions of pa
+ rticular interest for this workshop include: How can recent advancements i
+ n machine learning allow interactive learning to be deployed in current re
+ al world applications? How do we address the challenging problem of seamle
+ ss communication between autonomous agents and humans? How can we improve 
+ the ability to collaborate safely and successfully across a diverse set of
+  users?We hope that this workshop will produce several outcomes:- A review
+  of current algorithms and techniques for IML\, and a focused perspective 
+ on what is lacking\;- A formalization of the main challenges for deploying
+  modern interactive learning algorithms in the real world\; and- A forum f
+ or interdisciplinary researchers to discuss open problems and challenges\,
+  present new ideas on IML\, and plan for future collaborations.Topics rele
+ vant to this workshop include:Human-robot interactionCollaborative and/or 
+ shared controlSemi-supervised learning with human interventionLearning fro
+ m demonstration\, interaction and/or observationReinforcement learning wit
+ h human-in-the-loopActive learning\, Preference learningTransfer learning 
+ (human-to-machine\, machine-to-machine)Natural language processing for dia
+ log systemsComputer vision for human interaction with autonomous systemsTr
+ ansparency and feedback in machine learningComputational models of human t
+ eachingIntelligent personal assistants and dialog systemsAdaptive user int
+ erfacesBrain-computer interfaces (e.g. human-semi-autonomous system interf
+ aces)Intelligent medical robots (e.g. smart wheelchairs\, prosthetics\, ex
+ oskeletons)
+LOCATION:Hilton Diag. Mar\, Blrm. A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Deep Learning | Fu Yu \, Joseph J Lim \, Matthew D Fisher \, Qi
+ xing Huang \, Jianxiong Xiao
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:3D Deep Learning\nFu Yu \, Joseph J Lim \, Matthew D 
+ Fisher \, Qixing Huang \, Jianxiong Xiao\nhttp://nips.cc/Conferences/2016/
+ Schedule?showEvent=6225\n\nDeep learning is proven to be a powerful tool t
+ o build models for language (one-dimensional) and image (two-dimensional) 
+ understanding. Tremendous efforts have been devoted into these areas\, how
+ ever\, it is still at the early stage to apply deep learning to 3D data\, 
+ despite their great research values and broad real-world applications. In 
+ particular\, existing methods poorly serve the three-dimensional data that
+  drives a broad range of critical applications such as augmented reality\,
+  autonomous driving\, graphics\, robotics\, medical imaging\, neuroscience
+ \, and scientific simulations. These problems have drawn attention of rese
+ archers in different fields such as neuroscience\, computer vision and gra
+ phics.Different from text or images that can be naturally represented as 1
+ D or 2D arrays\, 3D data have multiple representation candidates\, such as
+  volumes\, polygonal meshes\, multi-views renderings\, depth maps\, and po
+ int clouds. Coupled with these representations are the myriad 3D learning 
+ problems\, such as object recognition\, scene layout estimation\, composit
+ ional structure parsing\, novel view synthesis\, model completion and hall
+ ucination\, etc. 3D data opens new and vast research space\, which natural
+ ly calls for interdisciplinary expertise ranging from Computer Vision\, Co
+ mputer Graphics\, to Machine Learning.The goal of this workshop is to fost
+ er interdisciplinary communication of researchers working on 3D data (Comp
+ uter Vision and Computer Graphics)\, so that more attention of broader com
+ munity can be drawn to 3D deep learning problems. Through those studies\, 
+ new ideas and discoveries are expected to emerge\, which can inspire advan
+ ces in related fields.This workshop is composed of invited talks\, oral pr
+ esentations of outstanding submissions and a poster session to showcase th
+ e state-of-the-art results in the topic. In particular\, a panel discussio
+ n among leading researchers in the field is planned\, so as to provide a c
+ ommon playground for inspiring discussions and stimulating debates.We aim 
+ to build a venue for publishing original research results in 3D deep learn
+ ing\, as well as exhibiting the latest trends and ideas. To be specific\, 
+ we are interested in the following topics using 3D deep learning methods:3
+ D object detection from depth images and videos3D scene understanding3D sp
+ atial understanding from 2D images3D shape classification and segmentation
+ 3D mapping and reconstructionLearning 3D geometrical properties and repres
+ entationsAnalysis of 3D medical and biological imaging dataWe accept two t
+ racks of submissions to the workshop on those topics: paper (6 - 9 pages) 
+ and extended abstract (4 pages). We are inviting researchers of related fi
+ elds to join the workshop program committee to review the submissions. All
+  the submissions will follow NIPS main conference paper style. The paper w
+ ill be reviewed in double-blind form from three researchers in the worksho
+ p program committee. High quality papers will be selected for oral present
+ ation. The abstracts will be reviewed by the workshop committee in single-
+ blind fashion. Accepted submissions will either be presented as posters or
+  talks at the workshop. We encourage submissions of works that has been pr
+ eviously published or is to be presented in the main conference.
+LOCATION:Room 115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Intelligence @ NIPS | Tomas Mikolov \, Baroni Marco \, Arm
+ and Joulin \, Germán Kruszewski \, Angeliki Lazaridou \, Klemen Simonic
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Machine Intelligence @ NIPS\nTomas Mikolov \, Baroni 
+ Marco \, Armand Joulin \, Germán Kruszewski \, Angeliki Lazaridou \, Klem
+ en Simonic\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6226\n\nRec
+ ent years have seen the success of machine learning systems\, in particula
+ r deep learning architectures\, on specific challenges such as image class
+ ification and playing Go. Nevertheless\, machines still fail on hallmarks 
+ of human intelligence such as the flexibility to quickly switch between a 
+ number of different tasks\, the ability to creatively combine previously a
+ cquired skills in order to perform a more complex goal\, the capacity to l
+ earn a new skill from just a few examples\, or the use of communication an
+ d interaction to extend one's knowledge in order to accomplish new goals. 
+ This workshop aims to stimulate theoretical and practical advances in the 
+ development of machines endowed with human-like general-purpose intelligen
+ ce\, focusing in particular on benchmarks to train and evaluate progress i
+ n machine intelligence. The workshop will feature invited talks by top res
+ earchers from machine learning\, AI\, cognitive science and NLP\, who will
+  discuss with the audience their ideas about what are the most pressing is
+ sues we face in developing true AI and the best methods to measure genuine
+  progress. We are moreover calling for position statements from interested
+  researchers to complement the workshop program. The workshop will also in
+ troduce the new Environment for Communication-Based AI to the research com
+ munity\, encouraging discussion on how to make it the ultimate benchmark f
+ or machine intelligence. The Environment aims at being an interactive play
+ ground where systems can only succeed if they possess the hallmarks of int
+ elligence we listed above. In September\, we will make a prototype of the 
+ Environment available\, so that researchers interested in submitting posit
+ ion statements to the workshop can experiment with it and take it into acc
+ ount in their proposals.
+LOCATION:Room 212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning for Intelligent Transportation Systems | Li Erran
+  Li \, Trevor Darrell
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Machine Learning for Intelligent Transportation Syste
+ ms\nLi Erran Li \, Trevor Darrell\nhttp://nips.cc/Conferences/2016/Schedul
+ e?showEvent=6242\n\nOur transportation systems are poised for a transforma
+ tion as we make progress on autonomous vehicles\, vehicle-to-vehicle (V2V)
+  and vehicle-to-everything (V2X) communication infrastructures\, and smart
+  road infrastructures such as smart traffic lights. There are many challen
+ ges in transforming our current transportation systems to the future visio
+ n. For example\, how do we achieve near-zero fatality? How do we optimize 
+ efficiency through intelligent traffic management and control of fleets? H
+ ow do we optimize for traffic capacity during rush hours? To meet these re
+ quirements in safety\, efficiency\, control\, and capacity\, the systems m
+ ust be automated with intelligent decision making.Machine learning will be
+  essential to enable intelligent transportation systems. Machine learning 
+ has made rapid progress in self-driving\, e.g. real-time perception and pr
+ ediction of traffic scenes\, and has started to be applied to ride-sharing
+  platforms such as Uber (e.g. demand forecasting) and crowd-sourced video 
+ scene analysis companies such as Nexar (understanding and avoiding acciden
+ ts). To address the challenges arising in our future transportation system
+  such as traffic management and safety\, we need to consider the transport
+ ation systems as a whole rather than solving problems in isolation. New ma
+ chine learning solutions are needed as transportation places specific requ
+ irements such as extremely low tolerance on uncertainty and the need to in
+ telligently coordinate self-driving cars through V2V and V2X.The goal of t
+ his workshop is to bring together researchers and practitioners from all a
+ reas of intelligent transportations systems to address core challenges wit
+ h machine learning. These challenges include\, but are not limited to: pre
+ dictive modeling of risk and accidents through telematics\, modeling\, sim
+ ulation and forecast of demand and mobility patterns in large scale urban 
+ transportation systems\, machine learning approaches for control and coord
+ ination of traffic leveraging V2V and V2X infrastructures\, efficient pede
+ strian detection\, pedestrian intent detection\, intelligent decision-maki
+ ng for self-driving cars\, scene classification\, real-time perception and
+  prediction of traffic scenes\, deep reinforcement learning from human dri
+ vers\, uncertainty propagation in deep neural networks\, efficient inferen
+ ce with deep neural networks.The workshop will include invited speakers\, 
+ panels\, presentations of accepted papers and posters. We invite papers in
+  the form of short\, long and position papers to address the core challeng
+ es mentioned above. We encourage researchers and practitioners on self-dri
+ ving cars\, transportation systems and ride-sharing platforms to participa
+ te.
+LOCATION:Room 124 + 125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning\, Inference and Control of Multi-Agent Systems | Thore Gr
+ aepel \, Marc Lanctot \, Joel Z Leibo \, Guy Lever \, Janusz Marecki \, Fr
+ ans A Oliehoek \, Karl Tuyls \, Vicky Holgate
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Learning\, Inference and Control of Multi-Agent Syste
+ ms\nThore Graepel \, Marc Lanctot \, Joel Z Leibo \, Guy Lever \, Janusz M
+ arecki \, Frans A Oliehoek \, Karl Tuyls \, Vicky Holgate\nhttp://nips.cc/
+ Conferences/2016/Schedule?showEvent=6249\n\nWe live in a multi-agent world
+  and to be successful in that world\, agents\, and in particular\, artific
+ ially intelligent agents\, will need to learn to take into account the age
+ ncy of others. They will need to compete in market places\, cooperate in t
+ eams\, communicate with others\, coordinate their plans\, and negotiate ou
+ tcomes. Examples include self-driving cars interacting in traffic\, person
+ al assistants acting on behalf of humans and negotiating with other agents
+ \, swarms of unmanned aerial vehicles\, financial trading systems\, roboti
+ c teams\, and household robots.Furthermore\, the evolution of human intell
+ igence itself presumably depended on interaction among human agents\, poss
+ ibly starting out with confrontational scavenging [1] and culminating in t
+ he evolution of culture\, societies\, and language. Learning from other ag
+ ents is a key feature of human intelligence and an important field of rese
+ arch in machine learning [2]. It is therefore conceivable that exposing le
+ arning AI agents to multi-agent situations is necessary for their developm
+ ent towards intelligence.We can also think of multi-agent systems as a des
+ ign philosophy for complex systems. We can analyse complex systems in term
+ s of agents at multiple scales. For example\, we can view the system of wo
+ rld politics as an interaction of nation state agents\, nation states as a
+ n interaction of organizations\, and further down into departments\, peopl
+ e etc. Conversely\, when designing systems we can think of agents as build
+ ing blocks or modules interacting to produce the behaviour of the system\,
+  e.g. [3].Multi-agent systems can have desirable properties such as robust
+ ness and scalability\, but their design requires careful consideration of 
+ incentive structures\, learning\, and communication. In the most extreme c
+ ase\, agents with individual views of the world\, individual actuators\, a
+ nd individual incentive structures need to coordinate to achieve a common 
+ goal. To succeed they may need a Theory of Mind that allows them to reason
+  about other agents’ intentions\, beliefs\, and behaviours [4]. When mul
+ tiple learning agents are interacting\, the learning problem from each age
+ nt’s perspective may become non-stationary\, non-Markovian\, and only pa
+ rtially observable. Studying the dynamics of learning algorithms could lea
+ d to better insight about the evolution and stability of such systems [5].
+ Problems involving competing or cooperating agents feature in recent AI br
+ eakthroughs in competitive games [6\,7]\, current ambitions of AI such as 
+ robotic football teams [8]\, and new research into emergent language and a
+ gent communication in reinforcement learning [9\,10].In summary\, multi-ag
+ ent learning will be of crucial importance to the future of computational 
+ intelligence and pose difficult and fascinating problems that need to be a
+ ddressed across disciplines. The paradigm shift from single-agent to multi
+ -agent systems will be pervasive and will require efforts across different
+  fields including machine learning\, cognitive science\, robotics\, natura
+ l computing\, and (evolutionary) game theory. In this workshop we aim to b
+ ring together researchers from these different fields to discuss the curre
+ nt state of the art\, future avenues and visions for work regarding theory
+  and practice of multi-agent learning\, inference\, and decision-making.To
+ pics we consider for inclusion in the workshop include multi-agent reinfor
+ cement learning\; deep multi-agent learning\; theory of mind\; multi-agent
+  communication\; POMDPs\, Dec-POMDPS and partially observable stochastic g
+ ames\; multi-agent robotics\, human-robot collaboration\, swarm robotics\;
+  game theory\, mechanism design\, algorithms for computing nash equilibria
+  and other solution concepts\; bioinspired approaches\, swarm intelligence
+  and collective intelligence\; co-evolution\, evolutionary dynamics and cu
+ lture\; ad hoc teamwork.[1] ‘Confrontational scavenging as a possible so
+ urce for language and cooperation’\, Derek Bickerton and Eörs Szathmár
+ y\, BMC Evolutionary Biology 2011[2] ‘Apprenticeship Learning via Invers
+ e Reinforcement Learning’\, Pieter Abbeel and Andrew Y. Ng\, ICML 2004[3
+ ] ‘The Society of Mind’\, Marvin Minsky\, 1986[4] ‘Building Machines
+  That Learn and Think Like People’\, Brenden M. Lake et al.\, CBMM Memo 
+ 2016[5] ‘Evolutionary Dynamics of Multi-Agent Learning: A Survey’\, Da
+ an Bloembergen et al.\, JAIR 2015[6] 'Mastering the game of Go with deep n
+ eural networks and tree search'\, David Silver et al.\, Nature 2016[7] 'He
+ ads-up limit hold’em poker is solved'\, Michael Bowling et al.\, Science
+  2015[8] RoboCup\, http://www.robocup.org/[9] 'Learning to Communicate wit
+ h Deep Multi-Agent Reinforcement Learning'\, Jakob N. Foerster et al.\, Ar
+ xiv 2016[10] 'Learning Multiagent Communication with Backpropagation'\, Sa
+ inbayar Sukhbaatar et al. Arxiv 2016
+LOCATION:Room 133 + 134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adversarial Training | David Lopez-Paz \, Leon Bottou \, Alec Radf
+ ord
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Adversarial Training\nDavid Lopez-Paz \, Leon Bottou 
+ \, Alec Radford\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6213\n
+ \nIn adversarial training\, a set of machines learn together by pursuing c
+ ompeting goals. For instance\, in Generative Adversarial Networks (GANs\, 
+ Goodfellow et al.\, 2014) a generator function learns to synthesize sample
+ s that best resemble some dataset\, while a discriminator function learns 
+ to distinguish between samples drawn from the dataset and samples synthesi
+ zed by the generator. GANs have emerged as a promising framework for unsup
+ ervised learning: GAN generators are able to produce images of unprecedent
+ ed visual quality\, while GAN discriminators learn features with rich sema
+ ntics that lead to state-of-the-art semi-supervised learning (Radford et a
+ l.\, 2016). From a conceptual perspective\, adversarial training is fascin
+ ating because it bypasses the need of loss functions in learning\, and ope
+ ns the door to new ways of regularizing (as well as fooling or attacking) 
+ learning machines. In this one-day workshop\, we invite scientists and pra
+ ctitioners interested in adversarial training to gather\, discuss\, and es
+ tablish new research collaborations. The workshop will feature invited tal
+ ks\, a hands-on demo\, a panel discussion\, and contributed spotlights and
+  posters.Among the research topics to be addressed by the workshop are* No
+ vel theoretical insights on adversarial training* New methods and stabilit
+ y improvements for adversarial optimization* Adversarial training as a pro
+ xy to unsupervised learning of representations* Regularization and attack 
+ schemes based on adversarial perturbations* Adversarial model evaluation* 
+ Adversarial inference models* Novel applications of adversarial trainingWa
+ nt to learn more? Get started by generating your own MNIST digits using a 
+ GAN in 100 lines of Torch: https://goo.gl/Z2leZF
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Bayesian Nonparametrics | Nick Foti \, Tamara Broderick 
+ \, Trevor Campbell \, Michael C. Hughes \, Jeffrey Miller \, Aaron Schein 
+ \, Sinead A Williamson \, Yanxun Xu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Practical Bayesian Nonparametrics\nNick Foti \, Tamar
+ a Broderick \, Trevor Campbell \, Michael C. Hughes \, Jeffrey Miller \, A
+ aron Schein \, Sinead A Williamson \, Yanxun Xu\nhttp://nips.cc/Conference
+ s/2016/Schedule?showEvent=6223\n\nIn theory\, Bayesian nonparametric (BNP)
+  methods are well suited to the large data sets that arise in the sciences
+ \, technology\, politics\, and other applied fields. By making use of infi
+ nite-dimensional mathematical structures\, BNP methods allow the complexit
+ y of a learned model to grow as the size of a data set grows\, exhibiting 
+ desirable Bayesian regularization properties for small data sets and allow
+ ing the practitioner to learn ever more from larger data sets. These prope
+ rties have resulted in the adoption of BNP methods across a diverse set of
+  application areas---including\, but not limited to\, biology\, neuroscien
+ ce\, the humanities\, social sciences\, economics\, and finance.In practic
+ e\, BNP methods present a number of computational and modeling challenges.
+  Recent work has brought a wide range of models to bear on applied problem
+ s\, going beyond the Dirichlet process and Gaussian process. Meanwhile\, a
+ dvances in accelerated inference are making these models tractable in big 
+ data problems.In this workshop\, we will explore new BNP methods for diver
+ se applied problems\, including cutting-edge models being developed by app
+ lication domain experts. We will also discuss the limitations of existing 
+ methods and discuss key problems that need to be solved. A major focus of 
+ the workshop will be to expose participants to practical software tools fo
+ r performing Bayesian nonparametric analyses. In particular\, we plan to h
+ ost hands-on tutorials to introduce workshop participants to some of the s
+ oftware packages that can be used to easily perform posterior inference fo
+ r BNP models\, e.g. Stan\, BNPy\, and BNP.jl.We expect workshop participan
+ ts to come from a variety of fields\, including but not limited to machine
+  learning\, statistics\, engineering\, political science\, and various bio
+ logical sciences. The workshop will be relevant both to BNP experts as wel
+ l as those interested in learning how to apply BNP models. There will be a
+  special emphasis on work that makes BNP methods easy-to-use in practice a
+ nd computationally efficient. Participants will leave the workshop with (i
+ ) exposure to recent advances in the field\, (ii) hands-on experience with
+  software implementing BNP methods\, and (iii) an idea of the current chal
+ lenges that need to be overcome in order to make BNP methods more widespre
+ ad in practice. These goals will be accomplished through a series of invit
+ ed and contributed talks\, a poster session\, and at least one hands-on tu
+ torial session where participants can get their hands dirty with BNP metho
+ ds.This workshop builds off of the “Bayesian Nonparametrics: The Next Ge
+ neration” workshop held at NIPS in 2015. While that workshop had a broad
+  remit\, spanning theory\, applications and computation\, this year’s wo
+ rkshop shows a fresh focus on the practical aspects of BNP methods. During
+  last year’s panel discussion\, there were many questions about computat
+ ional techniques and practical applications\, suggesting that this directi
+ on will be of great interest to the many applied machine learning research
+ ers who attend the conference.
+LOCATION:AC Barcelona Room 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interpretable Machine Learning for Complex Systems | Andrew G Wils
+ on \, Been Kim \, William Herlands
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Interpretable Machine Learning for Complex Systems\nA
+ ndrew G Wilson \, Been Kim \, William Herlands\nhttp://nips.cc/Conferences
+ /2016/Schedule?showEvent=6238\n\nComplex machine learning models\, such as
+  deep neural networks\, have recently achieved great predictive successes 
+ for visual object recognition\, speech perception\, language modelling\, a
+ nd information retrieval.  These predictive successes are enabled by autom
+ atically learning expressive features from the data.  Typically\, these le
+ arned features are a priori unknown\, difficult to engineer by hand\, and 
+ hard to interpret.  This workshop is about interpreting the structure and 
+ predictions of these complex models.Interpreting the learned features and 
+ the outputs of complex systems allows us to more fundamentally understand 
+ our data and predictions\, and to build more effective models.  For exampl
+ e\, we may build a complex model to predict long range crime activity.  Bu
+ t by interpreting the learned structure of the model\, we can gain new ins
+ ights into the processing driving crime events\, enabling us to develop mo
+ re effective public policy. Moreover\, if we learn\, for example\, that th
+ e model is making good predictions by discovering how the geometry of clus
+ ters of crime events affect future activity\, we can use this knowledge to
+  design even more successful predictive models.This 1 day workshop is focu
+ sed on interpretable methods for machine learning\, with an emphasis on th
+ e ability to learn structure which provides new fundamental insights into 
+ the data\, in addition to accurate predictions.  We will consider a wide r
+ ange of topics\, including deep learning\, kernel methods\, tensor methods
+ \, generalized additive models\, rule based models\, symbolic regression\,
+  visual analytics\, and causality.  A poster session\, coffee breaks\, and
+  a panel guided discussion will encourage interaction between attendees.  
+ We wish to carefully review and enumerate modern approaches to the challen
+ ges of interpretability\, share insights into the underlying properties of
+  popular machine learning algorithms\, and discuss future directions.
+LOCATION:AC Barcelona\, Sagrada Familia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reliable Machine Learning in the Wild | Dylan Hadfield-Menell \, A
+ drian Weller \, David Duvenaud \, Jacob Steinhardt \, Percy S Liang
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Reliable Machine Learning in the Wild\nDylan Hadfield
+ -Menell \, Adrian Weller \, David Duvenaud \, Jacob Steinhardt \, Percy S 
+ Liang\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6255\n\nWhen wil
+ l a system that has performed well in the past continue to do so in the fu
+ ture? How do we design such systems in the presence of novel and potential
+ ly adversarial input distributions? What techniques will let us safely bui
+ ld and deploy autonomous systems on a scale where human monitoring becomes
+  difficult or infeasible? Answering these questions is critical to guarant
+ eeing the safety of emerging high stakes applications of AI\, such as self
+ -driving cars and automated surgical assistants. This workshop will bring 
+ together researchers in areas such as human-robot interaction\, security\,
+  causal inference\, and multi-agent systems in order to strengthen the fie
+ ld of reliability engineering for machine learning systems. We are interes
+ ted in approaches that have the potential to provide assurances of reliabi
+ lity\, especially as systems scale in autonomy and complexity. We will foc
+ us on four aspects — robustness (to adversaries\, distributional shift\,
+  model mis-specification\, corrupted data)\; awareness (of when a change h
+ as occurred\, when the model might be mis-calibrated\, etc.)\; adaptation 
+ (to new situations or objectives)\;  and monitoring (allowing humans to me
+ aningfully track the state of the system). Together\, these will aid us in
+  designing and deploying reliable machine learning systems.
+LOCATION:Room 113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intuitive Physics | Adam Lerer \, Jiajun Wu \, Josh Tenenbaum \, E
+ mmanuel Dupoux \, Rob Fergus
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Intuitive Physics\nAdam Lerer \, Jiajun Wu \, Josh Te
+ nenbaum \, Emmanuel Dupoux \, Rob Fergus\nhttp://nips.cc/Conferences/2016/
+ Schedule?showEvent=6212\n\nDespite recent progress\, AI is still far away 
+ from achieving common sense reasoning. One area that is gathering a lot of
+  interest is that of intuitive or naive physics. It concerns the ability t
+ hat humans and\, to a certain extent\, infants and animals have to predict
+  outcomes of physical interactions involving macroscopic objects. There is
+  extensive experimental evidence that infants can predict the outcome of e
+ vents based on physical concepts such as gravity\, solidity\, object perma
+ nence and conservation of shape and number\, at an early stage of developm
+ ent\, although there is also evidence that this capacity develops through 
+ time and experience. Recent work has attempted to build neural models that
+  can make predictions about stability\, collisions\, forces and velocities
+  from images or videos\, or interactions with an environment. Such models 
+ could be both used to understand the cognitive and neural underpinning of 
+ naive physics in humans\, but also to provide with AI applications more be
+ tter inference and reasoning abilities.This workshop will bring together r
+ esearchers in machine learning\, computer vision\, robotics\, computationa
+ l neuroscience\, and cognitive development to discuss artificial systems t
+ hat capture or model intuitive physics by learning from footage of\, or in
+ teractions with a real or simulated environment. There will be invited tal
+ ks from world leaders in the fields\, presentations and poster sessions ba
+ sed on contributed papers\, and a panel discussion.Topics of discussion wi
+ ll include:- Learning models of Newtonian physics (deep networks\, structu
+ red probabilistic generative models\, physics engines)- How to combine mod
+ el-based and bottom-up approaches to intuitive physics- Application of int
+ uitive physics models to higher-level tasks such as navigation\, video pre
+ diction\, robotics\, etc.- How cognitive science and computational neurosc
+ ience literature may inform the design of artificial systems for physical 
+ prediction- Methodology for comparing models of infant learning with clini
+ cal studies- Development of new datasets or platforms for intuitive physic
+ s and visual commonsense
+LOCATION:Hilton Diag. Mar\, Blrm.  C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cognitive Computation: Integrating Neural and Symbolic Approaches 
+ | Tarek R. Besold \, Antoine Bordes \, Gregory Wayne \, Artur Garcez
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Cognitive Computation: Integrating Neural and Symboli
+ c Approaches\nTarek R. Besold \, Antoine Bordes \, Gregory Wayne \, Artur 
+ Garcez\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6208\n\nWhile e
+ arly work on knowledge representation and inference was primarily symbolic
+ \, the corresponding approaches subsequently fell out of favor\, and were 
+ largely supplanted by connectionist methods. In this workshop\, we will wo
+ rk to close the gap between the two paradigms\, and aim to formulate a new
+  unified approach that is inspired by our current understanding of human c
+ ognitive processing. This is important to help improve our understanding o
+ f Neural Information Processing and build better Machine Learning systems\
+ , including the integration of learning and reasoning in dynamic knowledge
+ -bases\, and reuse of knowledge learned in one application domain in analo
+ gous domains.The workshop brings together established leaders and promisin
+ g young scientists in the fields of neural computation\, logic and artific
+ ial intelligence\, knowledge representation\, natural language understandi
+ ng\, machine learning\, cognitive science and computational neuroscience. 
+ Invited lectures by senior researchers will be complemented with presentat
+ ions based on contributed papers reporting recent work (following an open 
+ call for papers) and a poster session\, giving ample opportunity for parti
+ cipants to interact and discuss the complementary perspectives and emergin
+ g approaches.The workshop targets a single broad theme of general interest
+  to the vast majority of the NIPS community\, namely translations between 
+ connectionist models and symbolic knowledge representation and reasoning f
+ or the purpose of achieving an effective integration of neural learning an
+ d cognitive reasoning\, called neural-symbolic computing. The study of neu
+ ral-symbolic computing is now an established topic of wider interest to NI
+ PS with topics that are relevant to almost everyone studying neural inform
+ ation processing. In the 2016 edition of the workshop\, special emphasis w
+ ill be put on language-related aspects and applications of neural-symbolic
+  integration and relevant cognitive computation paradigms.Keywords: neural
+ -symbolic computing\; language processing and reasoning\; cognitive agents
+ \; multimodal learning\; deep networks\; knowledge extraction\; symbol man
+ ipulation\; variable binding\; memory-based networks\; dynamic knowledge-b
+ ases.
+LOCATION:Hilton Diag. Mar\, Blrm. B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning for Health | Uri Shalit \, Marzyeh Ghassemi \, Ja
+ son Fries \, Rajesh Ranganath \, Theofanis Karaletsos \, David Kale \, Pet
+ er Schulam \, Madalina Fiterau
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Machine Learning for Health\nUri Shalit \, Marzyeh Gh
+ assemi \, Jason Fries \, Rajesh Ranganath \, Theofanis Karaletsos \, David
+  Kale \, Peter Schulam \, Madalina Fiterau\nhttp://nips.cc/Conferences/201
+ 6/Schedule?showEvent=6209\n\nThe last decade has seen unprecedented growth
+  in the availability and size of digital health data\, including electroni
+ c health records\, genetics\, and wearable sensors. These rich data source
+ s present opportunities to develop and apply machine learning methods to e
+ nable precision medicine. The aim of this workshop is to engender discussi
+ on between machine learning and clinical researchers about how statistical
+  learning can enhance both the science and the practice of medicine.Of par
+ ticular interest to this year’s workshop is a phrase recently coined by 
+ the British Medical Journal\, "Big Health Data"\, where the focus is on mo
+ deling and improving health outcomes across large numbers of patients with
+  diverse genetic\, phenotypic\, and environmental characteristics. The maj
+ ority of clinical informatics research has focused on narrow populations r
+ epresenting\, for example\, patients from a single institution or sharing 
+ a common disease\, and on modeling clinical factors\, such as lab test res
+ ults and treatments. Big health considers large and diverse cohorts\, ofte
+ n reaching over 100 million patients in size\, as well as environmental fa
+ ctors that are known to impact health outcomes\, including socioeconomic s
+ tatus\, health care delivery and utilization\, and pollution. Big Health D
+ ata problems pose a variety of challenges for standard statistical learnin
+ g\, many of them nontraditional. Including a patient’s race and income i
+ n statistical analysis\, for example\, evokes concerns about patient priva
+ cy. Novel approaches to differential privacy may help alleviate such conce
+ rns. Other examples include modeling biased measurements and non-random mi
+ ssingness and causal inference in the presence of latent confounders.In th
+ is workshop we will bring together clinicians\, health data experts\, and 
+ machine learning researchers working on healthcare solutions. The goal is 
+ to have a discussion to understand clinical needs and the technical challe
+ nges resulting from those needs including the development of interpretable
+  techniques which can adapt to noisy\, dynamic environments and the handli
+ ng of biases inherent in the data due to being generated during routine ca
+ re.Part of our workshop includes a clinician pitch\, a five-minute present
+ ation of open clinical problems that need data-driven solutions. These pre
+ sentations will be followed by a discussion between invited clinicians and
+  attending ML ­researchers to understand how machine learning can play a 
+ role in solving the problem presented. Finally\, the pitch plays a seconda
+ ry role of enabling new collaborations between machine learning researcher
+ s and clinicians: an important step for machine learning to have a meaning
+ ful role in healthcare. A general call for clinician pitches will be disse
+ minated to clinical researchers and major physician organizations\, includ
+ ing clinician social networks such as Doximity.We will invite submission o
+ f two­ page abstracts (not including references) for poster contributions
+  and short oral presentations describing innovative machine learning resea
+ rch on relevant clinical problems and data. Topics of interest include but
+  are not limited to models for diseases and clinical data\, temporal model
+ s\, Markov decision processes for clinical decision support\, multi­scale
+  data-­integration\, modeling with missing or biased data\, learning with
+  non-stationary data\, uncertainty and uncertainty propagation\, non ­i.i
+ .d. structure in the data\, critique of models\, causality\, model biases\
+ , transfer learning\, and incorporation of non-clinical (e.g.\, socioecono
+ mic) factors.We are seeking sponsorship to help cover the travel and regis
+ tration costs for students that arepresenting posters or short contributed
+  talks\, and for clinicians participating as speakers or presenting proble
+ m pitches. Workshop organizers have already discussed sponsorship withthe 
+ NSF\, and also plan to approach industry leaders.
+LOCATION:Room 116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:People and machines: Public views on machine learning\, and what t
+ his means for machine learning researchers | Susannah Odell \, Peter Donne
+ lly \, Jessica Montgomery
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T120000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T140000
+DESCRIPTION:Workshop:People and machines: Public views on machine learning
+ \, and what this means for machine learning researchers\nSusannah Odell \,
+  Peter Donnelly \, Jessica Montgomery\nhttp://nips.cc/Conferences/2016/Sch
+ edule?showEvent=6292\n\nThe Royal Society is currently carrying out a majo
+ r programme of work on machine learning\, to assess its potential over the
+  next 5-10 years\, barriers to realising that potential\, and the legal\, 
+ ethical\, social and scientific questions which arise as machine learning 
+ becomes more pervasive.As part of this work\, the Royal Society has carrie
+ d out a public dialogue exercise to explore public awareness of\, and atti
+ tudes towards\, machine learning and its applications. The results of this
+  work illustrate some of the key questions people have about machine learn
+ ing\; about why it is used\, for what purpose\, and with what pattern of b
+ enefits and disbenefits. It draws attention to the need to enable informed
+  public debate that engages with specific applications.In addition\, machi
+ ne learning is put to use in a range of different applications\, it refram
+ es existing social and ethical challenges\, such as those relating to priv
+ acy and stereotyping\, and also creates new challenges\, such as interpret
+ ability\, robustness and human-machine interaction. Many of these form the
+  basis of active and stimulating areas of research\, which can both move f
+ orward the field of machine learning and help address key governance issue
+ s.The UK’s experience with other emerging technologies shows that it is 
+ possible to create arrangements that enable a robust public consensus on t
+ he safe and valuable use of even the most potentially contentious technolo
+ gies. An effective dialogue process with the public can help to create the
+ se arrangements. From Twitter to Ted Talks\, machine learning researchers 
+ have a range of ways in which they can engage with the public\, and take a
+ n active role in public discussions about this technology. Yet\, much of w
+ hat the public hears about machine learning from the media focuses on acci
+ dents involving autonomous machines\, or fears about labour market changes
+  caused by direct substitution of people for machines.This lunchtime sessi
+ on will present new research on the public’s view of machine learning\, 
+ alongside a discussion of how research can help address some of the broade
+ r social challenges associated with machine learning.
+LOCATION:VIP Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neurorobotics: A Chance for New Ideas\, Algorithms and Approaches 
+ | Elmar Rueckert \, Martin Riedmiller
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T143000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161209T183000
+DESCRIPTION:Workshop:Neurorobotics: A Chance for New Ideas\, Algorithms an
+ d Approaches\nElmar Rueckert \, Martin Riedmiller\nhttp://nips.cc/Conferen
+ ces/2016/Schedule?showEvent=6233\n\nWorkshop webpage: http://www.neurorobo
+ tic.euModern robots are complex machines with many compliant actuators and
+  various types of sensors including depth and vision cameras\, tactile ele
+ ctrodes and dozens of proprioceptive sensors. The obvious challenges are t
+ o process these high dimensional input patterns\, memorize low dimensional
+  representations of them and to generate the desired motor commands to int
+ eract in dynamically changing environments. Similar challenges exist in br
+ ain machine interfaces (BMIs) where complex prostheses with perceptional f
+ eedback are controlled\, or in motor neuroscience where in addition cognit
+ ive features need to be considered. Despite this broad research overlap th
+ e developments happened mainly in parallel and were not ported or exploite
+ d in the related domains. The main bottleneck for collaborative studies ha
+ s been a lack of interaction between the core robotics\, the machine learn
+ ing and the neuroscience communities.Why is it now just the right time for
+  interactions?- Latest developments based on deep neural networks have adv
+ anced the capabilities of robotic systems by learning control policies dir
+ ectly from the high dimensional sensor readings.- Many variants of network
+ s have been recently developed including the integration of feedback throu
+ gh recurrent connections\, the projection to different feature spaces\, ma
+ y be trained at different time scales and can be modulated through additio
+ nal inputs.- These variants can be the basis for new models and concepts i
+ n motor neuroscience\, where simple feed forward structures were not suffi
+ ciently powerful.- Robotic applications demonstrated the feasibility of su
+ ch networks for real time control of complex systems\, which can be exploi
+ ted in BMIs.- Modern robots and new sensor technologies require models tha
+ t can integrate a huge amount of inputs of different dimension\, at differ
+ ent rates and with different noise levels. The neuroscience communities fa
+ ce such challenges and develop sophisticated models that can be evaluated 
+ in robotic applications used as benchmarks.- New learning rules can be tes
+ ted on real systems in challenging environments.Topics:- Convolutional Net
+ works and Real-time Robotic and Prosthetic applications- Deep Learning for
+  Robotics and Prosthetics- End-to-End Robotics / Learning- Feature Represe
+ ntations for Big Data- Movement Representations\, Movement Primitives and 
+ Muscle Synergies- Neural Network Hardware Implementation\, Neuromorphic Ha
+ rdware- Recurrent Networks and Reservoirs for Control of high dimensional 
+ systems- Reinforcement Learning and Bayesian Optimization in Neural Networ
+ ks from multiple reward sources- Sampling Methods and Spiking Networks for
+  Robotics- Theoretical Learning Concepts\, Synaptic Plasticity Rules for N
+ eural Networks
+LOCATION:VIP Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Future of Gradient-Based Machine Learning Software | Alex Wilt
+ schko \, Zachary DeVito \, Frederic Bastien \, Pascal Lamblin
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:The Future of Gradient-Based Machine Learning Softwar
+ e\nAlex Wiltschko \, Zachary DeVito \, Frederic Bastien \, Pascal Lamblin\
+ nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6245\n\nThe calculatio
+ n of gradients and other forms of derivatives is a core part of machine le
+ arning\, computer vision\, and physical simulation. But the manual creatio
+ n of derivatives is prone to error and requires a high "mental overhead" f
+ or practitioners in these fields. However\, the process of taking derivati
+ ves is actually the highly mechanical application of the chain rule and ca
+ n be computed using formal techniques such as automatic or symbolic differ
+ entiation. A family of "autodiff" approaches exist\, each with their own p
+ articular strengths and tradeoffs.In the ideal case\, automatically genera
+ ted derivatives should be competitive with manually generated ones and run
+  at near-peak performance on modern hardware\, but the most expressive sys
+ tems for autodiff which can handle arbitrary\, Turing-complete programs\, 
+ are unsuited for performance-critical applications\, such as large-scale m
+ achine learning or physical simulation. Alternatively\, the most performan
+ t systems are not designed for use outside of their designated application
+  space\, e.g. graphics or neural networks. This workshop will bring togeth
+ er developers and researchers of state-of-the-art solutions to generating 
+ derivatives automatically and discuss ways in which these solutions can be
+  evolved to be both more expressive and achieve higher performance. Topics
+  for discussion will include:- Whether it is feasible to create a single d
+ ifferentiable programming language\, or if we will always have separate so
+ lutions for different fields such as vision and ML.- What are the primitiv
+ e data types of a differentiable language? N-dimensional arrays are useful
+  for many machine learning applications\, but other domains make use of gr
+ aph types and sparse matrices.- What are the challenges in elevating an ex
+ pressive autodiff implementation from just a “prototyping language” to
+  one used directly in performance-critical industrial settings?- A shared 
+ representation of programs like LLVM IR has transformed programming langua
+ ge and compiler research. Is there any benefit to a common representation 
+ of differentiable programs that would enable shared tooling amongst autodi
+ ff libraries and implementations?
+LOCATION:Room 115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning for Education | Richard Baraniuk \, Jiquan Ngiam 
+ \, Christoph Studer \, Phillip Grimaldi \, Andrew Lan
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Machine Learning for Education\nRichard Baraniuk \, J
+ iquan Ngiam \, Christoph Studer \, Phillip Grimaldi \, Andrew Lan\nhttp://
+ nips.cc/Conferences/2016/Schedule?showEvent=6241\n\nIn recent years\, we h
+ ave seen a rise in the amount of education data available through the digi
+ tization of education. Schools are starting to use technology in classroom
+ s to create personalized learning experiences. Massive open online courses
+  (MOOCs) have attracted millions of learners and present an opportunity fo
+ r us to apply and develop machine learning methods towards improving stude
+ nt learning outcomes\, leveraging the data collected.However\, development
+  in student data analysis remains limited\, and education largely follows 
+ a one-size-fits-all approach today. We have an opportunity to have a signi
+ ficant impact in revolutionizing the way (human) learning can work.The goa
+ l of this workshop is to foster discussion and spur research between machi
+ ne learning experts and researchers in education fields that can solve fun
+ damental problems in education.For this year's workshop\, we are highlight
+ ing the following areas of interest:-- Assessments and gradingAssessments 
+ are core in adaptive learning\, formative learning\, and summative evaluat
+ ion. However\, the creation and grading of quality assessments remains a d
+ ifficult task for instructors. Machine learning methods can be applied to 
+ self-\, peer-\, auto-grading paradigms to both improve the quality of asse
+ ssments and reduce the burden on instructors and students. These methods c
+ an also leverage the multimodal nature of learner data (i.e.\, textual/pro
+ gramming/mathematical open-form responses\, demographic information\, stud
+ ent interaction in discussion forums\, video and audio recording of the cl
+ ass)\, posing challenges of how to effectively and efficiently fuse these 
+ different forms of data so that we can better understand learners.-- Conte
+ nt augmentation and understanding:Learning content is rich and multimodal 
+ (e.g.\, programming code\, video\, text\, audio). There has been a growth 
+ of online educational resources in the past years\, and we have an opportu
+ nity to leverage them further. Recent advances in natural language underst
+ anding can be applied to understand learning materials better and connect 
+ different sources together to create better learning experiences. This can
+  help learners by providing them with more relevant resources and instruct
+ ors in the creation of content.-- Personalized learning and active interve
+ ntions:Personalized learning through custom feedback and interventions can
+  make learning much more efficient\, especially when we cater to the indiv
+ idual's background\, goals\, state of understanding\, and learning context
+ . Methods such as Markov Decision Processes and Multi-armed Bandits are ap
+ plicable in these context.-- Human-interpretability:In education applicati
+ ons\, transparency and interpretability is important as it can help learne
+ rs better understand their learning state. Interpretability can provide in
+ structors with insights to better guide their activities with students. It
+  can also help education researchers better understand the foundations of 
+ human learning. This can also be especially critical where models are depl
+ oyed in processes that grade students\, as evaluation needs to demonstrate
+  a degree of fairness.This workshop will lead to new research directions i
+ n machine learning-driven educational research and also inspire the develo
+ pment of novel machine learning algorithms and theories that can extend to
+  a large number of other applications that study human data.
+LOCATION:Room 129 + 130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"What If?" Inference and Learning of Hypothetical and Counterfactu
+ al Interventions in Complex Systems | Ricardo Silva \, John Shawe-Taylor \
+ , Adith Swaminathan \, Thorsten Joachims
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:"What If?" Inference and Learning of Hypothetical and
+  Counterfactual Interventions in Complex Systems\nRicardo Silva \, John Sh
+ awe-Taylor \, Adith Swaminathan \, Thorsten Joachims\nhttp://nips.cc/Confe
+ rences/2016/Schedule?showEvent=6254\n\nOne of the promises of Big Data is 
+ its potential to answer “what if?” questions in digital\, natural and 
+ social systems. Whether we speak of genetic interactions in a cell\, passe
+ ngers commuting in railways and roads\, recommender systems matching users
+  to ads\, or understanding contagion in social networks\, such systems are
+  composed of many interacting components that suggest that learning to con
+ trol them or understanding the effect of shocks to a system is not an easy
+  task. What if some railways are closed\, what will passengers do? What if
+  we incentivize a member of a social network to propagate an idea\, how in
+ fluential can they be? What if some genes in a cell are knocked-out\, whic
+ h phenotypes can we expect?Such questions need to be addressed via a combi
+ nation of experimental and observational data\, and require a careful appr
+ oach to modelling heterogeneous datasets and structural assumptions concer
+ ning the causal relations among the components of the system. The workshop
+  is aimed at bringing together research expertise from a variety of commun
+ ities in machine learning\, statistics\, engineering\, and the social\, me
+ dical and natural sciences. It is an opportunity for methods for causal in
+ ference\, reinforcement learning and game theory to be cross-fertilized wi
+ th more traditional research in statistics and the real-world constraints 
+ found in practical applications. Ultimately\, this can lead to new researc
+ h platforms to aid the assessment of policies\, shocks and experimental de
+ sign methods in the discovery of breakthroughs in a variety of domains.
+LOCATION:Room 133 + 134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning for Spatiotemporal Forecasting | Florin Popescu \
+ , Sergio Escalera \, Xavier Baró \, Stephane Ayache \, Isabelle Guyon
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Machine Learning for Spatiotemporal Forecasting\nFlor
+ in Popescu \, Sergio Escalera \, Xavier Baró \, Stephane Ayache \, Isabel
+ le Guyon\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6253\n\nA cru
+ cial\, high impact application of learning systems is forecasting. While m
+ achine learning has already been applied to time series analysis and signa
+ l processing\, the recent big data revolution allows processing and predic
+ tion of vast data flows and forecasting of high dimensional\, spatiotempor
+ al series using massive multi-modal streams as predictors. Wider data band
+ widths allow machine learning techniques such as connectionist and deep le
+ arning methods to assist traditional forecasting methods from fields such 
+ as engineering and econometrics\, while probabilistic methods are uniquely
+  suited to address the stochastic nature of many processes requiring forec
+ asting.This workshop will bring together multi-disciplinary researchers fr
+ om signal processing\, statistics\, machine learning\, computer vision\, e
+ conomics and causality looking to widen their application or methodologica
+ l scope. It will begin by providing a forum to discuss pressing applicatio
+ n areas o forecasting: video compression and understanding\, energy and an
+ d smart grid management\, economics and finance\, environmental and health
+  policy (e.g. epidemiology)\, as well as introduce challenging new dataset
+ s. A large dataset\, created for an industry-driven data competition\, wil
+ l be presented - this dataset not only helps develop and compare new metho
+ ds for forecasting\, but also addresses deeper underlying learning theory 
+ questions: do effective learning systems truly infer underlying structure 
+ or merely output accuracy in data streams?\, is transfer learning availabl
+ e at no loss to specificity? and is semi-supervised learning is an inheren
+ t property of powerful\, accurate\, learning machines? What strategies are
+  scalable so they perform well on sparse as well as big data? What exactly
+  is a good forecasting machine? Therefore a forum is also planned to discu
+ ss such pressing issues\,- dedicated poster sessions and panels are schedu
+ led. We plan for a varied list of reknowned speakers\, presenting data sou
+ rces\, rich open-source platforms for forecasting\, prediction performance
+  evaluation metrics\, past forecasting competitions and state-of-the-art m
+ ethods.
+LOCATION:Hilton Diag. Mar\, Blrm.  B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayesian Optimization: Black-box Optimization and Beyond | Roberto
+  Calandra \, Bobak Shahriari \, Javier Gonzalez \, Frank Hutter \, Ryan P 
+ Adams
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Bayesian Optimization: Black-box Optimization and Bey
+ ond\nRoberto Calandra \, Bobak Shahriari \, Javier Gonzalez \, Frank Hutte
+ r \, Ryan P Adams\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6214
+ \n\nBayesian optimization has emerged as an exciting subfield of machine l
+ earning that is concerned with the global optimization of expensive\, nois
+ y\, black-box functions using probabilistic methods. Systems implementing 
+ Bayesian optimization techniques have been successfully used to solve diff
+ icult problems in a diverse set of applications. Many recent advances in t
+ he methodologies and theory underlying Bayesian optimization have extended
+  the framework to new applications and provided greater insights into the 
+ behaviour of these algorithms. Bayesian optimization is now increasingly b
+ eing used in industrial settings\, providing new and interesting challenge
+ s that require new algorithms and theoretical insights.\nClassically\, Bay
+ esian optimization has been used purely for expensive single-objective bla
+ ck-box optimization. However\, with the increased complexity of tasks and 
+ applications\, this paradigm is proving to be too restricted. Hence\, this
+  year’s theme for the workshop will be “black-box optimization and bey
+ ond”. Among the recent trends that push beyond BO we can briefly enumera
+ te:\n- Adapting BO to not-so-expensive evaluations.\n- “Open the black-b
+ ox” and move away from viewing the model as a way of simply fitting a re
+ sponse surface\, and towards modelling for the purpose of discovering and 
+ understanding the underlying process. For instance\, this so-called grey-b
+ ox modelling approach could be valuable in robotic applications for optimi
+ zing the controller\, while simultaneously providing insight into the mech
+ anical properties of the robotic system. \n- “Meta-learning”\, where a
+  higher level of learning is used on top of BO in order to control the opt
+ imization process and make it more efficient. Examples of such meta-learni
+ ng include learning curve prediction\, Freeze-thaw Bayesian optimization\,
+  online batch selection\, multi-task and multi-fidelity learning.\n- Multi
+ -objective optimization where not a single objective\, but multiple confli
+ cting objectives are considered (e.g.\, prediction accuracy vs training ti
+ me).\nThe target audience for this workshop consists of both industrial an
+ d academic practitioners of Bayesian optimization as well as researchers w
+ orking on theoretical and practical advances in probabilistic optimization
+ . We expect that this pairing of theoretical and applied knowledge will le
+ ad to an interesting exchange of ideas and stimulate an open discussion ab
+ out the long term goals and challenges of the Bayesian optimization commun
+ ity.\nA further goal is to encourage collaboration between the diverse set
+  of researchers involved in Bayesian optimization. This includes not only 
+ interchange between industrial and academic researchers\, but also between
+  the many different subfields of machine learning which make use of Bayesi
+ an optimization or its components. We are also reaching out to the wider o
+ ptimization and engineering communities for involvement.
+LOCATION:Room 117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Learning for Action and Interaction | Chelsea Finn \, Raia Ha
+ dsell \, David Held \, Sergey Levine \, Percy S Liang
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Deep Learning for Action and Interaction\nChelsea Fin
+ n \, Raia Hadsell \, David Held \, Sergey Levine \, Percy S Liang\nhttp://
+ nips.cc/Conferences/2016/Schedule?showEvent=6207\n\nDeep learning systems 
+ that act in and interact with an environment must reason about how actions
+  will change the world around them. The natural regime for such real-world
+  decision problems involves supervision that is weak\, delayed\, or entire
+ ly absent\, and the outputs are typically in the context of sequential dec
+ ision processes\, where each decision affects the next input. This regime 
+ poses a challenge for deep learning algorithms\, which typically excel wit
+ h: (1) large amounts of strongly supervised data and (2) a stationary dist
+ ribution of independently observed inputs. The algorithmic tools for tackl
+ ing these challenges have traditionally come from reinforcement learning\,
+  optimal control\, and planning\, and indeed the intersection of reinforce
+ ment learning and deep learning is currently an exciting and active resear
+ ch area. At the same time\, deep learning methods for interactive decision
+ -making domains have also been proposed in computer vision\, robotics\, an
+ d natural language processing\, often using different tools and algorithmi
+ c formalisms from classical reinforcement learning\, such as direct superv
+ ised learning\, imitation learning\, and model-based control. The aim of t
+ his workshop will be to bring together researchers across these disparate 
+ fields. The workshop program will focus on both the algorithmic and theore
+ tical foundations of decision making and interaction with deep learning\, 
+ and the practical challenges associated with bringing to bear deep learnin
+ g methods in interactive settings\, such as robotics\, autonomous vehicles
+ \, and interactive agents.
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Optimizing the Optimizers | Maren Mahsereci \, Alex J Davies \, Ph
+ ilipp Hennig
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Optimizing the Optimizers\nMaren Mahsereci \, Alex J 
+ Davies \, Philipp Hennig\nhttp://nips.cc/Conferences/2016/Schedule?showEve
+ nt=6237\n\nhttp://www.probabilistic-numerics.org/meetings/NIPS2016/Optimiz
+ ation problems in machine learning have aspects that make them more challe
+ nging than the traditional settings\, like stochasticity\, and parameters 
+ with side-effects (e.g.\, the batch size and structure). The field has inv
+ ented many different approaches to deal with these demands. Unfortunately 
+ - and intriguingly - this extra functionality seems to invariably necessit
+ ate the introduction of tuning parameters: step sizes\, decay rates\, cycl
+ e lengths\, batch sampling distributions\, and so on. Such parameters are 
+ not present\, or at least not as prominent\, in classic optimization metho
+ ds. But getting them right is frequently crucial\, and necessitates inconv
+ enient human “babysitting”.Recent work has increasingly tried to elimi
+ nate such fiddle factors\, typically by statistical estimation. This also 
+ includes automatic selection of external parameters like the batch-size or
+  -structure\, which have not traditionally been treated as part of the opt
+ imization task. Several different strategies have now been proposed\, but 
+ they are not always compatible with each other\, and lack a common framewo
+ rk that would foster both conceptual and algorithmic interoperability. Thi
+ s workshop aims to provide a forum for the nascent community studying auto
+ mating parameter-tuning in optimization routines.Among the questions to be
+  addressed by the workshop are:* Is the prominence of tuning parameters a 
+ fundamental feature of stochastic optimization problems? Why do classic op
+ timization methods manage to do well with virtually no free parameters?* I
+ n which precise sense can the "optimization of optimization algorithms" be
+  phrased as an inference / learning problem?* Should\, and can\, parameter
+ s be inferred at design-time (by a human)\, at compile-time (by an externa
+ l compiler with access to a meta-description of the problem) or run-time (
+ by the algorithm itself)?* What are generic ways to learn parameters of al
+ gorithms\, and inherent difficulties for doing so? Is the goal to speciali
+ ze to a particular problem\, or to generalize over many problems?In additi
+ on to the invited and already confirmed speakers\, we will also invite con
+ tributed work from the community. Topics of interest include\, but are not
+  strictly limited to\,* Parameter adaptation for optimization algorithms* 
+ Stochastic optimization methods* Optimization methods adapted for specific
+  applications* Batch selection methods* Convergence diagnostics for optimi
+ zation algorithms
+LOCATION:Area 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning Systems | Aparna Lakshmiratan \, Li Erran Li \, S
+ iddhartha Sen \, Sarah Bird \, Hussein Mehanna
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Machine Learning Systems\nAparna Lakshmiratan \, Li E
+ rran Li \, Siddhartha Sen \, Sarah Bird \, Hussein Mehanna\nhttp://nips.cc
+ /Conferences/2016/Schedule?showEvent=6248\n\nA new area is emerging at the
+  intersection of machine learning (ML) and systems design. This birth is d
+ riven by the explosive growth of diverse applications of ML in production\
+ , the continued growth in data volume\, and the complexity of large-scale 
+ learning systems.  Addressing the challenges in this intersection demands 
+ a combination of the right abstractions -- for algorithms\, data structure
+ s\, and interfaces -- as well as scalable systems capable of addressing re
+ al world learning problems.Designing systems for machine learning presents
+  new challenges and opportunities over the design of traditional data proc
+ essing systems.  For example\, what is the right abstraction for data cons
+ istency in the context of parallel\, stochastic learning algorithms?  What
+  guarantees of fault tolerance are needed during distributed learning?  Th
+ e statistical nature of machine learning offers an opportunity for more ef
+ ficient systems but requires revisiting many of the challenges addressed b
+ y the systems and database communities over the past few decades.  Machine
+  learning focused developments in distributed learning platforms\, program
+ ming languages\, data structures\, general purpose GPU programming\, and a
+  wide variety of other domains have had and will continue to have a large 
+ impact in both academia and industry.As the relationship between the machi
+ ne learning and systems communities has grown stronger\, new research in u
+ sing machine learning tools to solve classic systems challenges has also g
+ rown.  Specifically\, as we develop larger and more complex systems and ne
+ tworks for storing\, analyzing\, serving\, and interacting with data\, mac
+ hine learning offers promise for modeling system dynamics\, detecting issu
+ es\, and making intelligent\, data-driven decisions within our systems.  M
+ achine learning techniques have begun to play critical roles in scheduling
+ \, system tuning\, and network analysis. Through working with systems and 
+ databases researchers to solve systems challenges\, machine learning resea
+ rchers can both improve their own learning systems as well impact the syst
+ ems community and infrastructure at large.The goal of this workshop is to 
+ bring together experts working at the crossroads of ML\, system design and
+  software engineering to explore the challenges faced when building practi
+ cal large-scale machine learning systems. In particular\, we aim to elicit
+  new connections among these diverse fields\, identify tools\, best practi
+ ces and design principles. The workshop will cover ML and AI platforms and
+  algorithm toolkits (Caffe\, Torch\, TensorFlow\, MXNet and parameter serv
+ er\, Theano\, etc)\, as well as dive into the reality of applying ML and A
+ I in industry with challenges of data and organization scale (with invited
+  speakers from companies like Google\, Microsoft\, Facebook\, Amazon\, Net
+ flix\, Uber and Twitter).The workshop will have a mix of invited speakers 
+ and reviewed papers with talks\, posters and panel discussions to facilita
+ te the flow of new ideas as well as best practices which can benefit those
+  looking to implement large ML systems in academia or industry.Focal point
+ s for discussions and solicited submissions include but are not limited to
+ :- Systems for online and batch learning algorithms- Systems for out-of-co
+ re machine learning- Implementation studies of large-scale distributed lea
+ rning algorithms --- challenges faced and lessons learned- Database system
+ s for Big Learning --- models and algorithms implemented\, properties (fau
+ lt tolerance\, consistency\, scalability\, etc.)\, strengths and limitatio
+ ns- Programming languages for machine learning- Data driven systems --- le
+ arning for job scheduling\, configuration tuning\, straggler mitigation\, 
+ network configuration\, and security- Systems for interactive machine lear
+ ning- Systems for serving machine learning models at scale
+LOCATION:Room 116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learning with Tensors: Why Now and How? | Anima Anandkumar \, Rong
+  Ge \, Yan Liu \, Maximilian Nickel \, Qi (Rose) Yu
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Learning with Tensors: Why Now and How?\nAnima Anandk
+ umar \, Rong Ge \, Yan Liu \, Maximilian Nickel \, Qi (Rose) Yu\nhttp://ni
+ ps.cc/Conferences/2016/Schedule?showEvent=6230\n\nReal world data in many 
+ domains is multimodal and heterogeneous\, such as healthcare\, social medi
+ a\, and climate science. Tensors\, as generalizations of vectors and matri
+ ces\, provide a natural and scalable framework for handling data with inhe
+ rent structures and complex dependencies.  Recent renaissance of tensor me
+ thods in machine learning ranges from academic research on scalable algori
+ thms for tensor operations\, novel models through tensor representations\,
+  to industry solutions including Google TensorFlow and Tensor Processing U
+ nit (TPU).  In particular\, scalable tensor methods have attracted conside
+ rable amount of attention\, with successes in a series of learning tasks\,
+  such as learning latent variable models [Anandkumar et al.\, 2014\; Huang
+  et al.\, 2015\, Ge et al.\, 2015]\, relational learning [Nickle et al.\, 
+ 2011\, 2014\, 2016]\, spatio-temporal forecasting [Yu et al.\, 2014\, 2015
+ \, 2016] and training deep neural networks [Alexander et al.\, 2015].These
+  progresses trigger new directions and problems towards tensor methods in 
+ machine learning. The workshop aims to foster discussion\, discovery\, and
+  dissemination of research activities and outcomes in this area and encour
+ ages breakthroughs. We will bring together researchers in theories and app
+ lications who are interested in tensors analysis and development of tensor
+ -based algorithms. We will also invite researchers from related areas\, su
+ ch as numerical linear algebra\, high-performance computing\, deep learnin
+ g\, statistics\, data analysis\, and many others\, to contribute to this w
+ orkshop. We believe that this workshop can foster new directions\, closer 
+ collaborations and novel applications. We also expect a deeper conversatio
+ n regarding why learning with tensors at current stage is important\, wher
+ e it is useful\, what tensor computation softwares and hardwares work well
+  in practice and\, how we can progress further with interesting research d
+ irections and open problems.
+LOCATION:Area 5 + 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neurorobotics: A Chance for New Ideas\, Algorithms and Approaches 
+ (2nd day) | Elmar Rueckert \, Martin Riedmiller
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Neurorobotics: A Chance for New Ideas\, Algorithms an
+ d Approaches (2nd day)\nElmar Rueckert \, Martin Riedmiller\nhttp://nips.c
+ c/Conferences/2016/Schedule?showEvent=6233\n\nWorkshop webpage: http://www
+ .neurorobotic.euModern robots are complex machines with many compliant act
+ uators and various types of sensors including depth and vision cameras\, t
+ actile electrodes and dozens of proprioceptive sensors. The obvious challe
+ nges are to process these high dimensional input patterns\, memorize low d
+ imensional representations of them and to generate the desired motor comma
+ nds to interact in dynamically changing environments. Similar challenges e
+ xist in brain machine interfaces (BMIs) where complex prostheses with perc
+ eptional feedback are controlled\, or in motor neuroscience where in addit
+ ion cognitive features need to be considered. Despite this broad research 
+ overlap the developments happened mainly in parallel and were not ported o
+ r exploited in the related domains. The main bottleneck for collaborative 
+ studies has been a lack of interaction between the core robotics\, the mac
+ hine learning and the neuroscience communities.Why is it now just the righ
+ t time for interactions?- Latest developments based on deep neural network
+ s have advanced the capabilities of robotic systems by learning control po
+ licies directly from the high dimensional sensor readings.- Many variants 
+ of networks have been recently developed including the integration of feed
+ back through recurrent connections\, the projection to different feature s
+ paces\, may be trained at different time scales and can be modulated throu
+ gh additional inputs.- These variants can be the basis for new models and 
+ concepts in motor neuroscience\, where simple feed forward structures were
+  not sufficiently powerful.- Robotic applications demonstrated the feasibi
+ lity of such networks for real time control of complex systems\, which can
+  be exploited in BMIs.- Modern robots and new sensor technologies require 
+ models that can integrate a huge amount of inputs of different dimension\,
+  at different rates and with different noise levels. The neuroscience comm
+ unities face such challenges and develop sophisticated models that can be 
+ evaluated in robotic applications used as benchmarks.- New learning rules 
+ can be tested on real systems in challenging environments.Topics:- Convolu
+ tional Networks and Real-time Robotic and Prosthetic applications- Deep Le
+ arning for Robotics and Prosthetics- End-to-End Robotics / Learning- Featu
+ re Representations for Big Data- Movement Representations\, Movement Primi
+ tives and Muscle Synergies- Neural Network Hardware Implementation\, Neuro
+ morphic Hardware- Recurrent Networks and Reservoirs for Control of high di
+ mensional systems- Reinforcement Learning and Bayesian Optimization in Neu
+ ral Networks from multiple reward sources- Sampling Methods and Spiking Ne
+ tworks for Robotics- Theoretical Learning Concepts\, Synaptic Plasticity R
+ ules for Neural Networks
+LOCATION:VIP Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adaptive and Scalable Nonparametric Methods in Machine Learning | 
+ Aaditya Ramdas \, Bharath K. Sriperumbudur \, Arthur Gretton \, Han Liu \,
+  John Lafferty \, Samory Kpotufe \, Zoltán Szabó
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Adaptive and Scalable Nonparametric Methods in Machin
+ e Learning\nAaditya Ramdas \, Bharath K. Sriperumbudur \, Arthur Gretton \
+ , Han Liu \, John Lafferty \, Samory Kpotufe \, Zoltán Szabó\nhttp://nip
+ s.cc/Conferences/2016/Schedule?showEvent=6227\n\nLarge amounts of high-dim
+ ensional data are routinely acquired in scientific fields ranging from bio
+ logy\, genomics and health sciences to astronomy and economics due to impr
+ ovements in engineering and data acquisition techniques. Nonparametric met
+ hods allow for better modelling of complex systems underlying data generat
+ ing processes compared to traditionally used linear and parametric models.
+  From statistical point of view\, scientists have enough data to reliably 
+ fit nonparametric models. However\, from computational point of view\, non
+ parametric methods often do not scale well to big data problems.The aim of
+  this workshop is to bring together practitioners\, who are interested in 
+ developing and applying nonparametric methods in their domains\, and theor
+ eticians\, who are interested in providing sound methodology. We hope to e
+ ffectively communicate advances in development of  computational tools for
+  fitting nonparametric models and discuss challenging future directions th
+ at prevent applications of nonparametric methods to big data problems.We e
+ ncourage submissions on a variety of topics\, including but not limited to
+ :- Randomized procedures for fitting nonparametric models. For example\, s
+ ketching\, random projections\, core set selection\, etc.- Nonparametric p
+ robabilistic graphical models- Scalable nonparametric methods- Multiple ke
+ rnel learning- Random feature expansion- Novel applications of nonparametr
+ ic methods- Bayesian nonparametric methods- Nonparametric network modelsTh
+ is workshop is a fourth in a series of NIPS workshops on modern nonparamet
+ ric methods in machine learning. Previous workshops focused on time/accura
+ cy tradeoffs\, high dimensionality and dimension reduction strategies\, an
+ d automating the learning pipeline.
+LOCATION:Room 120 + 121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Continual Learning and Deep Networks | Razvan Pascanu \, Mark Ring
+  \, Tom Schaul
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Continual Learning and Deep Networks\nRazvan Pascanu 
+ \, Mark Ring \, Tom Schaul\nhttp://nips.cc/Conferences/2016/Schedule?showE
+ vent=6240\n\nHumans have the extraordinary ability to learn continually fr
+ om experience. Not only can we apply previously learned knowledge and skil
+ ls to new situations\, we can also use these as the foundation for later l
+ earning. One of the grand goals of AI is building an artificial "continual
+  learning" agent that constructs a sophisticated understanding of the worl
+ d from its own experience\, through the autonomous incremental development
+  of ever more complex skills and knowledge.Hallmarks of continual learning
+  include: interactive\, incremental\, online learning (learning occurs at 
+ every moment\, with no fixed tasks or data sets)\; hierarchy or compositio
+ nality (previous learning can become the foundation far later learning)\; 
+ "isolaminar" construction (the same algorithm is used at all stages of lea
+ rning)\; resistance to catastrophic forgetting (new learning does not dest
+ roy old learning)\; and unlimited temporal abstraction (both knowledge and
+  skills may refer to or span arbitrary periods of time).Continual learning
+  is an unsolved problem which presents particular difficulties for the dee
+ p-architecture approach that is currently the favored workhorse for many a
+ pplications. Some strides have been made recently\, and many diverse resea
+ rch groups have continual learning on their road map. Hence we believe thi
+ s is an opportune moment for a workshop focusing on this theme. The goals 
+ would be to define the different facets of the continual-learning problem\
+ , to tease out the relationships between different relevant fields (such a
+ s reinforcement learning\, deep learning\, lifelong learning\, transfer le
+ arning\, developmental learning\, computational neuroscience\, etc.) and t
+ o propose and explore promising new research directions.
+LOCATION:Area 7 + 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neural Abstract Machines &amp\; Program Induction | Matko Bošnjak
+  \, Nando de Freitas \, Tejas D Kulkarni \, Arvind Neelakantan \, Scott E 
+ Reed \, Sebastian Riedel \, Tim Rocktäschel
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Neural Abstract Machines &amp\; Program Induction\nMa
+ tko Bošnjak \, Nando de Freitas \, Tejas D Kulkarni \, Arvind Neelakantan
+  \, Scott E Reed \, Sebastian Riedel \, Tim Rocktäschel\nhttp://nips.cc/C
+ onferences/2016/Schedule?showEvent=6220\n\nMachine intelligence capable of
+  learning complex procedural behavior\, inducing (latent) programs\, and r
+ easoning with these programs is a key to solving artificial intelligence. 
+ The problems of learning procedural behavior and program induction have be
+ en studied from different perspectives in many computer science fields suc
+ h as program synthesis [1]\, probabilistic programming [2]\, inductive log
+ ic programming [3]\, reinforcement learning [4]\, and recently in deep lea
+ rning. However\, despite the common goal\, there seems to be little commun
+ ication and collaboration between the different fields focused on this pro
+ blem.Recently\, there have been a lot of success stories in the deep learn
+ ing community related to learning neural networks capable of using trainab
+ le memory abstractions. This has led to the development of neural networks
+  with differentiable data structures such as Neural Turing Machines [5]\, 
+ Memory Networks [6]\, Neural Stacks [7\, 8]\, and Hierarchical Attentive M
+ emory [11]\, among others. Simultaneously\, neural program induction model
+ s like Neural Program Interpreters [9] and Neural Programmer [10] have cre
+ ated a lot of excitement in the field\, promising induction of algorithmic
+  behavior\, and enabling inclusion of programming languages in the process
+ es of execution and induction\, while staying end-to-end trainable. Traina
+ ble program induction models have the potential to make a substantial impa
+ ct in many problems involving long-term memory\, reasoning\, and procedura
+ l execution\, such as question answering\, dialog\, and robotics.The aim o
+ f the NAMPI workshop is to bring researchers and practitioners from both a
+ cademia and industry\, in the areas of deep learning\, program synthesis\,
+  probabilistic programming\, inductive programming and reinforcement learn
+ ing\, together to exchange ideas on the future of program induction with a
+  special focus on neural network models and abstract machines. Through thi
+ s workshop we look to identify common challenges\, exchange ideas among an
+ d lessons learned from the different fields\, as well as establish a (set 
+ of) standard evaluation benchmark(s) for approaches that learn with abstra
+ ction and/or reason with induced programs.Areas of interest for discussion
+  and submissions include\, but are not limited to (in alphabetical order):
+ - Applications- Compositionality in Representation Learning- Differentiabl
+ e Memory- Differentiable Data Structures- Function and (sub-)Program Compo
+ sitionality- Inductive Logic Programming- Knowledge Representation in Neur
+ al Abstract Structures- Large-scale Program Induction- Meta-Learning and S
+ elf-improving- Neural Abstract Machines- Program Induction: Datasets\, Tas
+ ks\, and Evaluation- Program Synthesis- Probabilistic Programming- Reinfor
+ cement Learning for Program Induction- Semantic ParsingReferences[1] Manna
+ \, Zohar\, and Richard Waldinger. "A deductive approach to program synthes
+ is." ACM Transactions on Programming Languages and Systems (TOPLAS) 2.1 (1
+ 980): 90-121.[2] McCallum\, Andrew\, Karl Schultz\, and Sameer Singh. "Fac
+ torie: Probabilistic programming via imperatively defined factor graphs." 
+ Advances in Neural Information Processing Systems. (2009)[3] Muggleton\, S
+ tephen\, and Luc De Raedt. "Inductive logic programming: Theory and method
+ s." The Journal of Logic Programming 19 (1994): 629-679.[4] Sutton\, Richa
+ rd S.\, and Andrew G. Barto. Reinforcement learning: An introduction. Vol.
+  1. No. 1. Cambridge: MIT press\, (1998)[5] Graves\, Alex\, Greg Wayne\, a
+ nd Ivo Danihelka. "Neural turing machines."arXiv preprint arXiv:1410.5401 
+ (2014).[6] Weston\, Jason\, Sumit Chopra\, and Antoine Bordes. "Memory net
+ works." International Conference on Learning Representations (2014).[7] Gr
+ efenstette\, Edward\, et al. "Learning to transduce with unbounded memory.
+ "Advances in Neural Information Processing Systems. (2015)[8] Joulin\, Arm
+ and\, and Tomas Mikolov. "Inferring algorithmic patterns with stack-augmen
+ ted recurrent nets." Advances in Neural Information Processing Systems. (2
+ 015)[9] Reed\, Scott\, and Nando de Freitas. "Neural programmer-interprete
+ rs." International Conference on Learning Representations (2016).[10] Neel
+ akantan\, Arvind\, Quoc V. Le\, and Ilya Sutskever. "Neural programmer: In
+ ducing latent programs with gradient descent." International Conference on
+  Learning Representations (2016).[11] Andrychowicz\, Marcin\, and Karol Ku
+ rach. "Learning Efficient Algorithms with Hierarchical Attentive Memory." 
+ arXiv preprint arXiv:1602.03218 (2016).Additional comment: we would like o
+ ur workshop to be recorded for later online viewing if there is enough fun
+ ding for this.
+LOCATION:Room 113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towards an Artificial Intelligence for Data Science | Charles Sutt
+ on \, James Geddes \, Zoubin Ghahramani \, Padhraic Smyth \, Chris William
+ s
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Towards an Artificial Intelligence for Data Science\n
+ Charles Sutton \, James Geddes \, Zoubin Ghahramani \, Padhraic Smyth \, C
+ hris Williams\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6232\n\n
+ Machine learning methods have applied beyond their origins in artificial i
+ ntelligence to a wide variety of data analysis problems in fields such as 
+ science\, health care\, technology\, and commerce. Previous research in ma
+ chine learning\, perhaps motivated by its roots in AI\, has primarily aime
+ d at fully-automated approaches for prediction problems. But predictive an
+ alytics is only one step in the larger pipeline of data science\, which in
+ cludes data wrangling\, data cleaning\, exploratory visualization\, data i
+ ntegration\, model criticism and revision\, and presentation of results to
+  domain experts.An emerging strand of work aims to address all of these ch
+ allenges in one stroke is by automating a greater portion of the full data
+  science pipeline. This workshop will bring together experts in machine le
+ arning\, data mining\, databases and statistics to discuss the challenges 
+ that arise in the full end-to-end process of collecting data\, analysing d
+ ata\, and making decisions and building new methods that support\, whether
+  in an automated or semi-automated way\, more of the full process of analy
+ sing real data.Considering the full process of data science raises interes
+ ting questions for discussion\, such as: What aspects of data analysis mig
+ ht potentially be automated and what aspects seem more difficult? Statisti
+ cal model building often emphasizes interpretability and human understandi
+ ng\, while machine learning often emphasizes predictive modeling --- are M
+ L methods truly suitable for supporting the full data analysis pipeline? D
+ o recent advances in ML offer help here? Finally\, are there low hanging f
+ ruit\, i.e.\, how much time is wasted on routine tasks in scientific data 
+ analysis that could be automated?Specific topics of interest include: data
+  cleaning\, exploratory data analysis\, semi-supervised learning\, active 
+ learning\, interactive machine learning\, model criticism\, automated and 
+ semi-automated model construction\, usable machine learning\, interpretabl
+ e prediction methods and automatic methods to explain predictions. We are 
+ especially interested in contributions that take a broader perspective\, i
+ .e.\, that aim toward supporting the process of data science more holistic
+ ally.
+LOCATION:Room 114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brains and Bits: Neuroscience meets Machine Learning (2nd day) | A
+ lyson Fletcher \, Eva L Dyer \, Jascha Sohl-Dickstein \, Joshua T Vogelste
+ in \, Konrad Koerding \, Jakob H Macke
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Brains and Bits: Neuroscience meets Machine Learning 
+ (2nd day)\nAlyson Fletcher \, Eva L Dyer \, Jascha Sohl-Dickstein \, Joshu
+ a T Vogelstein \, Konrad Koerding \, Jakob H Macke\nhttp://nips.cc/Confere
+ nces/2016/Schedule?showEvent=6247\n\nThe goal of this workshop is to bring
+  together researchers from neuroscience\, deep learning\, machine learning
+ \, computer science theory\, and statistics for a rich discussion about ho
+ w computer science and neuroscience can inform one another as these two fi
+ elds rapidly move forward. We invite high quality submissions and discussi
+ on on topics including\, but not limited to\, the following fundamental qu
+ estions: a) shared approaches for analyzing biological and artificial neur
+ al systems\, b) how insights and challenges from neuroscience can inspire 
+ progress in machine learning\, and c) methods for interpreting the revolut
+ ionary large scale datasets produced by new experimental neuroscience tech
+ niques.Experimental methods for measuring neural activity and structure ha
+ ve undergone recent revolutionary advances\, including in high-density rec
+ ording arrays\, population calcium imaging\, and large-scale reconstructio
+ ns of anatomical circuitry. These developments promise unprecedented insig
+ hts into the collective dynamics of neural populations and thereby the und
+ erpinnings of brain-like computation. However\, these next-generation meth
+ ods for measuring the brain’s architecture and function produce high-dim
+ ensional\, large scale\, and complex datasets\, raising challenges for ana
+ lysis. What are the machine learning and analysis approaches that will be 
+ indispensable for analyzing these next-generation datasets? What are the c
+ omputational bottlenecks and challenges that must be overcome?In parallel 
+ to experimental progress in neuroscience\, the rise of deep learning metho
+ ds has shown that hard computational problems can be solved by machine lea
+ rning algorithms that are inspired by biological neural networks\, and bui
+ lt by cascading many nonlinear units. In contrast to the brain\, artificia
+ l neural systems are fully observable\, so that experimental data-collecti
+ on constraints are not relevant. Nevertheless\, it has proven challenging 
+ to develop a theoretical understanding of how neural networks solve tasks\
+ , and what features are critical to their performance. Thus\, while deep n
+ etworks differ from biological neural networks in many ways\, they provide
+  an interesting testing ground for evaluating strategies for understanding
+  neural processing systems. Are there synergies between analysis methods f
+ or biological and artificial neural systems? Has the resurgence of deep le
+ arning resulted in new hypotheses or strategies for trying to understand b
+ iological neural networks? Conversely\, can neuroscience provide inspirati
+ on for the next generation of machine-learning algorithms?We welcome parti
+ cipants from a range of disciplines in statistics\, applied physics\, mach
+ ine learning\, and both theoretical and experimental neuroscience\, with t
+ he goal of fostering interdisciplinary insights. We hope that active discu
+ ssions among these groups can set in motion new collaborations and facilit
+ ate future breakthroughs on fundamental research problems.
+LOCATION:Room 211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connectomics II: Opportunities and Challenges for Machine Learning
+  | Viren Jain \, Srinivas C Turaga
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Connectomics II: Opportunities and Challenges for Mac
+ hine Learning\nViren Jain \, Srinivas C Turaga\nhttp://nips.cc/Conferences
+ /2016/Schedule?showEvent=6228\n\nThe "wiring diagram" of essentially all n
+ ervous systems remains unknown due to the extreme difficulty of measuring 
+ detailed patterns of synaptic connectivity of entire neural circuits. At t
+ his point\, the major bottleneck is in the analysis of tera or peta-voxel 
+ 3d electron microscopy image data in which neuronal processes need to be t
+ raced and synapses localized in order for connectivity information to be i
+ nferred. This presents an opportunity for machine learning and machine per
+ ception to have a fundamental impact on advances in neurobiology.  However
+ \, it also presents a major challenge\, as existing machine learning metho
+ ds fall short of solving the problem.The goal of this workshop is to bring
+  together researchers in machine learning and neuroscience to discuss prog
+ ress and remaining challenges in this exciting and rapidly growing field. 
+ We aim to attract machine learning and computer vision specialists interes
+ ted in learning about a new problem\, as well as computational neuroscient
+ ists at NIPS who may be interested in modeling connectivity data. We will 
+ discuss the release of public datasets and competitions that may facilitat
+ e further activity in this area. We expect the workshop to result in a sig
+ nificant increase in the scope of ideas and people engaged in this field.
+LOCATION:Room 131 + 132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPT 2016: Optimization for Machine Learning | Suvrit Sra \, Franci
+ s Bach \, Sashank J. Reddi \, Niao He
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:OPT 2016: Optimization for Machine Learning\nSuvrit S
+ ra \, Francis Bach \, Sashank J. Reddi \, Niao He\nhttp://nips.cc/Conferen
+ ces/2016/Schedule?showEvent=6239\n\nAs the ninth in its series\, OPT 2016 
+ builds on remarkable precedent established by the highly successful series
+  of workshops: OPT 2008--OPT 2015\, which have been instrumental in bridgi
+ ng the OPT and ML communities closer together.The previous OPT workshops e
+ njoyed packed to overpacked attendance. This huge interest is no surprise:
+  optimization is  the 2nd largest topic at NIPS and is indeed foundational
+  for the wider ML community.Looking back over the past decade\, a strong t
+ rend is apparent: The intersection of OPT and ML has grown monotonically t
+ o  the point that now several cutting-edge advances in optimization arise 
+ from the ML community. The distinctive feature of optimization within ML i
+ s its departure from textbook approaches\, in particular\, by having a dif
+ ferent set of goals driven by “big-data\,” where both models and pract
+ ical implementation are crucial.This intimate relation between OPT and ML 
+ is the core theme of our workshop. We wish to use OPT2016 as a platform to
+  foster discussion\, discovery\, and dissemination of the state-of-the-art
+  in optimization as relevant to machine learning. And even beyond that\, a
+ s a platform to identify new directions and challenges that will drive fut
+ ure research.How OPT differs from other related workshops:Compared to the 
+ other optimization focused workshops that we are aware of\, the distinguis
+ hing features of OPT are: (a) it provides a unique bridge between the ML c
+ ommunity and the wider optimization community\; (b) it encourages theoreti
+ cal work on an equal footing with practical efficiency\; and (c) it caters
+  to a wide body of NIPS attendees\, experts and beginners alike (some OPT 
+ talks are always of a more “tutorial” nature).Extended abstractThe OPT
+  workshops have previously covered a variety of topics\, such as framework
+ s for convex programs (D. Bertsekas)\, the intersection of ML and optimiza
+ tion\, classification (S. Wright)\, stochastic gradient and its tradeoffs 
+ (L. Bottou\, N. Srebro)\, structured sparsity (Vandenberghe)\, randomized 
+ methods for convex optimization (A. Nemirovski)\, complexity theory of con
+ vex optimization (Y. Nesterov)\, distributed optimization (S. Boyd)\, asyn
+ chronous stochastic gradient (B. Recht)\, algebraic techniques (P. Parrilo
+ )\, nonconvex optimization (A. Lewis)\, sums-of-squares techniques (J. Las
+ serre)\, deep learning tricks (Y. Bengio)\, stochastic convex optimization
+  (G. Lan)\, new views on interior point (E. Hazan)\, among others.Several 
+ ideas propounded in OPT have by now become important research topics in ML
+  and optimization --- especially in the field of randomized algorithms\, s
+ tochastic gradient and variance reduced stochastic gradient methods.  An e
+ dited book "Optimization for Machine Learning" (S. Sra\, S. Nowozin\, and 
+ S. Wright\; MIT Press\, 2011) grew out of the first three OPT workshops\, 
+ and contains high-quality contributions from many of the speakers and atte
+ ndees\, and there have been sustained requests for the next edition of suc
+ h a volume.Much of the recent focus has been on large-scale first-order co
+ nvex optimization algorithms for machine learning\, both from a theoretica
+ l and methodological point of view. Covered topics included stochastic gra
+ dient algorithms\, (accelerated) proximal algorithms\, decomposition and c
+ oordinate descent algorithms\, parallel and distributed optimization. Theo
+ retical and practical advances in these methods remain a topic of core int
+ erest to the workshop. Recent years have also seen interesting advances in
+  non-convex optimization such as a growing body of results on alternating 
+ minimization\, tensor factorization etc.We also do not wish to ignore the 
+ not particularly large scale setting\, where one does have time to wield s
+ ubstantial computational resources. In this setting\, high-accuracy soluti
+ ons and deep understanding of the lessons contained in the data are needed
+ . Examples valuable to MLers may be exploration of genetic and environment
+ al data to identify risk factors for disease\; or problems dealing with se
+ tups where the amount of observed data is not huge\, but the mathematical 
+ model is complex. Consequently\, we encourage optimization methods on mani
+ folds\, ML problems with differential geometric antecedents\, those using 
+ advanced algebraic techniques\, and computational topology\, for instance.
+ At this point\, we would like to emphasize again that OPT2016 is one of th
+ e few optimization+ML workshops that lies at the intersection of theory an
+ d practice: both actual efficiency of algorithms in practice as well as th
+ eir theoretical analysis are given equal value.
+LOCATION:Room 112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Large Scale Computer Vision Systems | Manohar Paluri \, Lorenzo To
+ rresani \, Gal Chechik \, Dario Garcia \, Du Tran
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Large Scale Computer Vision Systems\nManohar Paluri \
+ , Lorenzo Torresani \, Gal Chechik \, Dario Garcia \, Du Tran\nhttp://nips
+ .cc/Conferences/2016/Schedule?showEvent=6252\n\nComputer Vision is a matur
+ e field with long history of academic research\, but recent advances in de
+ ep learning provided machine learning models with new capabilities to unde
+ rstand visual content. There have been tremendous improvements on problems
+  like classification\, detection\, segmentation\, which are basic proxies 
+ for the ability of a model to understand the visual content. These are acc
+ ompanied by a steep rise of Computer Vision adoption in industry at scale\
+ , and by more complex tasks such as Image Captioning and Visual Q&amp\;A. 
+ These go well beyond the classical problems and open the doors to a whole 
+ new world of possibilities. As industrial applications mature\, the challe
+ nges slowly shift towards challenges in data\, in scale\, and in moving fr
+ om purely visual data to multi-modal data.The unprecedented adoption of Co
+ mputer Vision to numerous real world applications processing billions of "
+ live" media content daily\, raises a new set of challenges\, including:1. 
+        Efficient Data Collection (Smart sampling\, weak annotations\, ...)
+ 2.        Evaluating performance in the wild (long tails\, embarrassing mi
+ stakes\, calibration)3.        Incremental learning: Evolve systems increm
+ entally in complex environments (new data\, new categories\, federated arc
+ hitectures ...)4.        Handling tradeoffs: Computation vs Accuracy vs Su
+ pervision5.        Outputs are various types (Binary predictions\, embeddi
+ ngs etc.)6.        Machine learning feedback loops7.        Minimizing tec
+ hnical debt as system matures8.        On-device vs On-cloud vs Split9.   
+      Multi-modal content understandingWe will bring together researchers a
+ nd practitioners who are interested to address this new set of challenges 
+ and provide a venue to share how industry and academia approach these prob
+ lems. We will invite prominent speakers from academia and industry to give
+  their perspectives on these challenges. In addition\, we will have 5 minu
+ te spotlights for selected papers submitted to the workshop and a poster s
+ ession for all selected submissions. The topics of submissions should be r
+ elated to the above mentioned list of challenges. We will end the session 
+ with a panel discussion including the speakers on the future of large scal
+ e vision and its applications in the wild.In the second part we will looke
+  at how specifically this applies to video understanding. Video understand
+ ing aims at developing computer methods that can interpret videos at diffe
+ rent semantic levels. Applications include video categorization\, event de
+ tection\, semantic segmentation\, description\, summarization\, tagging\, 
+ content-­based retrieval\, surveillance\, and many more. Although in the 
+ last two decades the field of video analytics has witnessed significant pr
+ ogress\, most problems in this area still remain largely unsolved. In rece
+ nt years video understanding has become an even more critical and timely p
+ roblem to address because of the tremendous growth of videos on the Intern
+ et\, most of which do not contain tags or descriptions and thus necessitat
+ e automatic analysis to become searchable or browsable. At the same time t
+ he rise of online video repositories represents an opportunity for the cre
+ ation of new pivotal large­-scale datasets for research in this area. Giv
+ en the recent breakthroughs achieved by deep learning in other big data do
+ mains\, we believe that video understanding may very well be on the verge 
+ of a technical revolution that will spur significant advances in this area
+ .In order to foster further progress by the research community\, we propos
+ e to organize a one-­day workshop to discuss emerging innovations and ide
+ as about the problems and challenges related to video understanding. The w
+ orkshop will consist of a series of invited talks from researchers in this
+  area. In addition\, we will publicly announce and present a new large­-s
+ cale benchmark for video comprehension [1] that has the potential to becom
+ e an instrumental resource for future research in this field. Compared to 
+ existing video datasets\, our proposed benchmark has much bigger scale and
+  it casts video understanding in the novel form of multiple choice tests t
+ hat assess the ability of the algorithm to comprehend the semantics of the
+  video.This workshop will be the first of a series of annual meetings that
+  we will organize to stimulate steady progress in this area. In each subse
+ quent edition of this workshop\, we will host an annual challenge on our c
+ ontinuously expanding video comprehension benchmark in order to motivate s
+ tudents and researchers to push the envelope on this problem. We hope to b
+ ring together researchers with common interests in video analysis to share
+ \, learn\, and make good progress toward better video understanding method
+ s.[1] D. Tran\, M. Paluri\, and L. Torresani\, “ViCom: Benchmark and Met
+ hods for Video Comprehension\,” CoRR\, abs/1606.07373\, July 2016\,http:
+ //arxiv.org/abs/1606.07373
+LOCATION:Room 111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning in Computational Biology | Gerald Quon \, Sara Mo
+ stafavi \, James Y Zou \, Barbara Engelhardt \, Oliver Stegle \, Nicolo Fu
+ si
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Machine Learning in Computational Biology\nGerald Quo
+ n \, Sara Mostafavi \, James Y Zou \, Barbara Engelhardt \, Oliver Stegle 
+ \, Nicolo Fusi\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6236\n\
+ nThe field of computational biology has seen dramatic growth over the past
+  few years. A wide range of high-throughput technologies developed in the 
+ last decade now enable us to measure parts of a biological system at vario
+ us resolutions—at the genome\, epigenome\, transcriptome\, and proteome 
+ levels. These technologies are now being used to collect data for an ever-
+ increasingly diverse set of problems\, ranging from classical problems suc
+ h as predicting differentially regulated genes between time points and pre
+ dicting subcellular localization of RNA and proteins\, to models that expl
+ ore complex mechanistic hypotheses bridging the gap between genetics and d
+ isease\, population genetics and transcriptional regulation. Fully realizi
+ ng the scientific and clinical potential of these data requires developing
+  novel supervised and unsupervised learning methods that are scalable\, ca
+ n accommodate heterogeneity\, are robust to systematic noise and confoundi
+ ng factors\, and provide mechanistic insights.The goals of this workshop a
+ re to i) present emerging problems and innovative machine learning techniq
+ ues in computational biology\, and ii) generate discussion on how to best 
+ model the intricacies of biological data and synthesize and interpret resu
+ lts in light of the current work in the field. We will invite several lead
+ ers at the intersection of computational biology and machine learning who 
+ will present current research problems in computational biology and lead t
+ hese discussions based on their own research and experiences. We will also
+  have the usual rigorous screening of contributed talks on novel learning 
+ approaches in computational biology. We encourage contributions describing
+  either progress on new bioinformatics problems or work on established pro
+ blems using methods that are substantially different from established alte
+ rnatives. Deep learning\, kernel methods\, graphical models\, feature sele
+ ction\, non-parametric models and other techniques applied to relevant bio
+ informatics problems would all be appropriate for the workshop. We will al
+ so encourage contributions to address new challenges in analyzing data gen
+ erated from gene editing\, single cell genomics and other novel technologi
+ es. The targeted audience are people with interest in machine learning and
+  applications to relevant problems from the life sciences\, including NIPS
+  participants without any existing research link to computational biology.
+  Many of the talks will be of interest to the broad machine learning commu
+ nity.
+LOCATION:Room 212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's Discuss: Learning Methods for Dialogue | Hal Daume III \, Pa
+ ul Mineiro \, Amanda Stent \, Jason E Weston
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Let's Discuss: Learning Methods for Dialogue\nHal Dau
+ me III \, Paul Mineiro \, Amanda Stent \, Jason E Weston\nhttp://nips.cc/C
+ onferences/2016/Schedule?showEvent=6251\n\nHumans conversing naturally wit
+ h machines is a staple of science fiction. Building agents capable of mutu
+ ally coordinating their states and actions via communication\, in conjunct
+ ion with human agents\, would be one of the Average engineering feats of h
+ uman history. In addition to the tremendous economic potential of this tec
+ hnology\, the ability to converse appears intimately related to the overal
+ l goal of AI.Although dialogue has been an active area within the linguist
+ ics and NLP communities for decades\, the wave of optimism in the machine 
+ learning community has inspired increased interest from researchers\, comp
+ anies\, and foundations.  The NLP community has enthusiastically embraced 
+ and innovated neural information processing systems\, resulting in substan
+ tial relevant activity published outside of NIPS.  A forum for increased i
+ nteraction (dialogue!) with these communities at NIPS will accelerate crea
+ tivity and progress.We plan to focus on the following issues:1. How to be 
+ data-drivena. What are tractable and useful intermediate tasks on the path
+  to truly conversant machines?  How can we leverage existing benchmark tas
+ ks and competitions?  What design criteria would we like to see for the ne
+ xt set of benchmark tasks and competitions?b. How do we assess performance
+ ? What can and cannot be done with offline evaluation on fixed data sets? 
+  How can we facilitate development of these offline evaluation tasks in th
+ e public domain?  What is the role of online evaluation as a benchmark\, a
+ nd how would we make it accessible to the general community?  Is there a r
+ ole for simulated environments\, or tasks where machines communicate solel
+ y with each other?2. How to build applicationsa. What unexpected problem a
+ spects arise in situated systems?  human-hybrid systems? systems learning 
+ from adversarial inputs?b. Can we divide and conquer?  Do we need to a irr
+ educible end-to-end system\, or can we define modules with abstractions th
+ at do not leak?c. How do we ease the burden on the human designer of speci
+ fying or bootstrapping the system?3. Architectural and algorithmic innovat
+ iona. What are the associated requisite capabilities for learning architec
+ tures\, and where are the deficiencies in our current architectures?  How 
+ can we leverage recent advances in reasoning\, attention\, and memory arch
+ itectures? How can we beneficially incorporate linguistic knowledge into o
+ ur architectures?b. How far can we get with current optimization technique
+ s?  To learn requisite competencies\, do we need advances in discrete opti
+ mization? curriculum learning? (inverse) reinforcement learning?
+LOCATION:Hilton Diag. Mar\, Blrm. C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constructive Machine Learning | Fabrizio Costa \, Thomas Gärtner 
+ \, Andrea Passerini \, Francois Pachet
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Constructive Machine Learning\nFabrizio Costa \, Thom
+ as Gärtner \, Andrea Passerini \, Francois Pachet\nhttp://nips.cc/Confere
+ nces/2016/Schedule?showEvent=6231\n\nIn many real-world applications\, mac
+ hine learning algorithms are employed as a tool in a ''constructive proces
+ s''. These processes are similar to the general knowledge-discovery proces
+ s but have a more specific goal: the construction of one-or-more domain el
+ ements with particular properties. In this workshop we want to bring toget
+ her domain experts employing machine learning tools in constructive proces
+ ses and machine learners investigating novel approaches or theories concer
+ ning constructive processes as a whole. Interesting applications include b
+ ut are not limited to: image synthesis\, drug and protein design\, computa
+ tional cooking\, generation of art (paintings\, music\, poetry). Interesti
+ ng approaches include but are not limited to: deep generative learning\, a
+ ctive approaches to structured output learning\, transfer or multi-task le
+ arning of generative models\, active search or online optimization over re
+ lational domains\, and learning with constraints.Many of the applications 
+ of constructive machine learning\, including the ones mentioned above\, ar
+ e primarily considered in their respective application domain research are
+ a but are hardly present at machine learning conferences. By bringing toge
+ ther domain experts and machine  learners working on constructive ML\, we 
+ hope to bridge this gap between the communities.
+LOCATION:Room 127 + 128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End-to-end Learning for Speech and Audio Processing | John Hershey
+  \, Philemon Brakel
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:End-to-end Learning for Speech and Audio Processing\n
+ John Hershey \, Philemon Brakel\nhttp://nips.cc/Conferences/2016/Schedule?
+ showEvent=6235\n\nThis workshop focuses on recent advances to end-to-end m
+ ethods for speech and more general audio processing.   Deep learning has t
+ ransformed the state of the art in speech recognition\, and audio analysis
+  in general.  In recent developments\, new deep learning architectures hav
+ e made it possible to integrate the entire inference process into an end-t
+ o-end system.  This involves solving problems of an algorithmic nature\, s
+ uch as search over time alignments between different domains\, and  dynami
+ c tracking of changing input conditions.  Topics include automatic speech 
+ recognition systems (ASR) and other audio procssing systems that subsume f
+ ront-end adaptive microphone array processing and source separation as wel
+ l as back-end constructs such as phonetic context dependency\, dynamic tim
+ e alignment\, or phoneme to grapheme modeling.  Other end-to-end audio app
+ lications include speaker diarization\, source separation\, and music tran
+ scription.  A variety of architectures have been proposed for such systems
+ \, ranging from shift-invariant convolutional pooling to connectionist tem
+ poral classification (CTC) and attention based mechanisms\, or other novel
+  dynamic components.   However there has been little comparison yet in the
+  literature of the relative merits of the different approaches.   This wor
+ kshop delves into questions about how different approaches handle various 
+ trade-offs in terms of modularity and integration\, in terms of representa
+ tion and generalization.   This is an exciting new area and we expect sign
+ ificant interest from the machine learning and speech and audio processing
+  communities.
+LOCATION:Hilton Diag. Mar\, Blrm. A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computing with Spikes | Sander M Bohte \, Thomas Nowotny \, Cristi
+ na Savin \, Davide Zambrano
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Computing with Spikes\nSander M Bohte \, Thomas Nowot
+ ny \, Cristina Savin \, Davide Zambrano\nhttp://nips.cc/Conferences/2016/S
+ chedule?showEvent=6246\n\nDespite remarkable computational success\, artif
+ icial neural networks ignore the spiking nature of neural communication th
+ at is fundamental for biological neuronal networks. Understanding how spik
+ ing neurons process information and learn remains an essential challenge. 
+ It concerns not only neuroscientists studying brain function\, but also ne
+ uromorphic engineers developing low-power computing architectures\, or mac
+ hine learning researchers devising new biologically-inspired learning algo
+ rithms. Unfortunately\, despite a joint interest in spike-based computatio
+ n\, the interactions between these subfields remains limited. The workshop
+  aims to bring them together and to foster the exchange between them by fo
+ cusing on recent developments in efficient neural coding and spiking neuro
+ ns' computation. The discussion will center around critical questions in t
+ he field\, such as "what are the underlying paradigms?" "what are the fund
+ amental constraints?"\, and "what are the measures for progress?”\, that
+  benefit from varied perspectives. The workshop will combine invited talks
+  reviewing the state-of-the-art and short contributed presentations\; it w
+ ill conclude with a panel discussion.
+LOCATION:Room 122 + 123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayesian Deep Learning | Yarin Gal \, Christos Louizos \, Zoubin G
+ hahramani \, Kevin P Murphy \, Max Welling
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T080000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161210T183000
+DESCRIPTION:Workshop:Bayesian Deep Learning\nYarin Gal \, Christos Louizos
+  \, Zoubin Ghahramani \, Kevin P Murphy \, Max Welling\nhttp://nips.cc/Con
+ ferences/2016/Schedule?showEvent=6210\n\nWhile deep learning has been revo
+ lutionary for machine learning\, most modern deep learning models cannot r
+ epresent their uncertainty nor take advantage of the well studied tools of
+  probability theory. This has started to change following recent developme
+ nts of tools and techniques combining Bayesian approaches with deep learni
+ ng. The intersection of the two fields has received great interest from th
+ e community over the past few years\, with the introduction of new deep le
+ arning models that take advantage of Bayesian techniques\, as well as Baye
+ sian models that incorporate deep learning elements.In fact\, the use of B
+ ayesian techniques in deep learning can be traced back to the 1990s'\, in 
+ seminal works by Radford Neal\, David MacKay\, and Dayan et al.. These gav
+ e us tools to reason about deep models confidence\, and achieved state-of-
+ the-art performance on many tasks. However earlier tools did not adapt whe
+ n new needs arose (such as scalability to big data)\, and were consequentl
+ y forgotten. Such ideas are now being revisited in light of new advances i
+ n the field\, yielding many exciting new results.This workshop will study 
+ the advantages and disadvantages of such ideas\, and will be a platform to
+  host the recent flourish of ideas using Bayesian approaches in deep learn
+ ing and using deep learning tools in Bayesian modelling. The program will 
+ include a mix of invited talks\, contributed talks\, and contributed poste
+ rs. Also\, the historic context of key developments in the field will be e
+ xplained in an invited talk\, followed by a tribute talk to David MacKay's
+  work in the field. Future directions for the field will be debated in a p
+ anel discussion.
+LOCATION:Area 1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,278 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+BEGIN:VEVENT
+SUMMARY:Deep Reinforcement Learning Through Policy Optimization | Pieter A
+ bbeel \, John Schulman
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T083000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T103000
+DESCRIPTION:Tutorial:Deep Reinforcement Learning Through Policy Optimizati
+ on\nPieter Abbeel \, John Schulman\nhttp://nips.cc/Conferences/2016/Schedu
+ le?showEvent=6198\n\nDeep Reinforcement Learning (Deep RL) has seen severa
+ l breakthroughs in recent years.  In this tutorial we will focus on recent
+  advances in Deep RL through policy gradient methods and actor critic meth
+ ods.  These methods have shown significant success in a wide range of doma
+ ins\, including continuous-action domains such as manipulation\, locomotio
+ n\, and flight.  They have also achieved the state of the art in discrete 
+ action domains such as Atari.\nFundamentally\, there are two types of grad
+ ient calculations: likelihood ratio gradients (aka score function gradient
+ s) and path derivative gradients (aka perturbation analysis gradients).  W
+ e will teach policy gradient methods of each type\, connect with Actor-Cri
+ tic methods (which learn both a value function and a policy)\, and cover a
+  generalized view of the computation of gradients of expectations through 
+ Stochastic Computation Graphs.Learning Objectives:The objective is to prov
+ ide attendees with a good understanding of foundations as well as recent a
+ dvances in policy gradient methods and actor critic methods.  Approaches t
+ hat will be taught: Likelihood Ratio Policy Gradient (REINFORCE)\, Natural
+  Policy Gradient\, Trust Region Policy Optimization (TRPO)\, Generalized A
+ dvantage Estimation (GAE)\, Asynchronous Advantage Actor Critic (A3C)\, Pa
+ th Derivative Policy Gradients\, (Deep) Deterministic Policy Gradient (DDP
+ G)\, Stochastic Value Gradients (SVG)\, Guided Policy Search (GPS).  As we
+ ll as a generalized view of the computation of gradients of expectations t
+ hrough Stochastic Computation Graphs.Target Audience:\nMachine learning re
+ searchers.  RL background not assumed\, but some prior familiarity with th
+ e basic concepts could be helpful.  Good resource: Sutton and Barto Chapte
+ rs 3 &amp\; 4\n(http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html).
+LOCATION:Rooms 211 + 212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Variational Inference: Foundations and Modern Methods | David Blei
+  \, Shakir Mohamed \, Rajesh Ranganath
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T083000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T103000
+DESCRIPTION:Tutorial:Variational Inference: Foundations and Modern Methods
+ \nDavid Blei \, Shakir Mohamed \, Rajesh Ranganath\nhttp://nips.cc/Confere
+ nces/2016/Schedule?showEvent=6199\n\nOne of the core problems of modern st
+ atistics and machine learning is to\napproximate difficult-to-compute prob
+ ability distributions. This problem is\nespecially important in probabilis
+ tic modeling\, which frames all inference\nabout unknown quantities as a c
+ alculation about a conditional distribution.\nIn this tutorial we review a
+ nd discuss variational inference (VI)\, a method\na that approximates prob
+ ability distributions through optimization. VI has\nbeen used in myriad ap
+ plications in machine learning and tends to be faster\nthan more tradition
+ al methods\, such as Markov chain Monte Carlo\nsampling. Brought into mach
+ ine learning in the 1990s\, recent advances and  easier\nimplementation ha
+ ve renewed interest and application of this class of\nmethods. This tutori
+ al aims to provide both an introduction to VI with a\nmodern view of the f
+ ield\, and an overview of the role that probabilistic\ninference plays in 
+ many of the central areas of machine learning.The tutorial has three parts
+ . First\, we provide a broad review of\nvariational inference from several
+  perspectives. This part serves as an\nintroduction (or review) of its cen
+ tral concepts. Second\, we develop and\nconnect some of the pivotal tools 
+ for VI that have been developed in the\nlast few years\, tools like Monte 
+ Carlo gradient estimation\, black box\nvariational inference\, stochastic 
+ approximation\, and variational\nauto-encoders. These methods have lead to
+  a resurgence of research and\napplications of VI. Finally\, we discuss so
+ me of the unsolved problems in VI\nand point to promising research directi
+ ons.Learning objectives\;Gain a well-grounded understanding of modern adva
+ nces in variational\ninference.Understand how to implement basic versions 
+ for a wide class of models.Understand connections and different names used
+  in other related\nresearch areas.Understand important problems in variati
+ onal inference research.Target audience\;Machine learning researchers acro
+ ss all level of experience from first\nyear grad students to other more ex
+ perienced researchersTargeted at those who want to understand recent advan
+ ces in\nvariational inferenceBasic understanding of probability is suffici
+ ent
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crowdsourcing: Beyond Label Generation | Jennifer Wortman Vaughan
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T083000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T103000
+DESCRIPTION:Tutorial:Crowdsourcing: Beyond Label Generation\nJennifer Wort
+ man Vaughan\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6205\n\nTh
+ is tutorial will showcase some of the most innovative uses of\ncrowdsourci
+ ng that have emerged in the past few years. While some have\nclear and imm
+ ediate benefits to machine learning\, we will also discuss\nexamples in wh
+ ich crowdsourcing has allowed researchers to answer\nexciting questions in
+  psychology\, economics\, and other fields.We will discuss best practices 
+ for crowdsourcing (such as how and why\nto maintain a positive relationshi
+ p with crowdworkers) and available\ncrowdsourcing tools. We will survey re
+ cent research examining\nthe effect of incentives on crowdworker performan
+ ce. Time permitting\,\nwe will also touch on recent ethnographic research 
+ studying the\ncommunity of crowdworkers and/or delve into the ethical impl
+ ications\nof crowdsourcing.Despite the inclusion of best practices and too
+ ls\, this tutorial\nshould not be viewed as a prescriptive guide for apply
+ ing existing\ntechniques. The goals of the tutorial are to inspire you to 
+ find novel\nways of using crowdsourcing in your own research and to provid
+ e you\nwith the resources you need to avoid common pitfalls when you do.Ta
+ rget audience:\nThis tutorial is open to anyone who wants to learn\nmore a
+ bout cutting edge research in crowdsourcing. No assumptions will\nbe made 
+ about the audience's familiarity with either crowdsourcing or\nspecific ma
+ chine learning techniques. Anyone who is curious is welcome\nto attend!As 
+ the tutorial approaches\, more information will be available on the\ntutor
+ ial website: http://www.jennwv.com/projects/crowdtutorial.html
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theory and Algorithms for Forecasting Non-Stationary Time Series |
+  Vitaly Kuznetsov \, Mehryar Mohri
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T130000
+DESCRIPTION:Tutorial:Theory and Algorithms for Forecasting Non-Stationary 
+ Time Series\nVitaly Kuznetsov \, Mehryar Mohri\nhttp://nips.cc/Conferences
+ /2016/Schedule?showEvent=6206\n\nTime series appear in a variety of key re
+ al-world applications such as signal processing\, including audio and vide
+ o processing\; the analysis of natural phenomena such as local weather\, g
+ lobal temperature\, and earthquakes\; the study of economic variables such
+  as stock values\, sales amounts\, energy demand\; and many other areas. B
+ ut\, while time series forecasting is critical for many applications\, it 
+ has received little attention in the ML community in\nrecent years\, proba
+ bly due to a lack of familiarity with time series and the fact that standa
+ rd i.i.d. learning concepts and tools are not readily applicable in that s
+ cenario.This tutorial precisely addresses these and many other related que
+ stions. It provides theoretical and algorithmic tools for research related
+  to time series and for designing new solutions. We first present a concis
+ e introduction to time series\, including basic concepts\, common challeng
+ es and standard models. Next\, we discuss important statistical learning t
+ ools and results developed in recent years and show how they are useful fo
+ r deriving guarantees and designing algorithms both in stationary and non-
+ stationary scenarios. Finally\, we show how the online learning framework 
+ can be leveraged to derive\nalgorithms that tackle important and notorious
+ ly difficult problems including model selection and ensemble methods.Learn
+ ing objectives:\na. familiarization with basic time series concepts\nb. in
+ troduction to statistical learning theory and algorithms for\nstationary a
+ nd non-stationary time series\nc. introduction to model selection and ense
+ mble methods for time series via\nonline learningTarget audience:\nThis tu
+ torial is targeted for a very general ML audience and should be\naccessibl
+ e to most machine learning researchers and practitioners. We will\nintrodu
+ ce all the necessary tools from scratch and of course make slides\nand oth
+ er detailed tutorial documents available.
+LOCATION:Rooms 211 + 212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuts and Bolts of Building AI systems using Deep Learning | Andrew
+  Y Ng
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T130000
+DESCRIPTION:Tutorial:Nuts and Bolts of Building AI systems using Deep Lear
+ ning\nAndrew Y Ng\nhttp://nips.cc/Conferences/2016/Schedule?showEvent=6203
+ \n\nHow do you get deep learning to work in your business\, product\, or s
+ cientific study? The rise of highly scalable deep learning techniques is c
+ hanging how you can best approach AI problems. This includes how you defin
+ e your train/dev/test split\, how you organize your data\, how you should 
+ think through your search among promising model architectures\, and even h
+ ow you might develop new AI-enabled products. In this tutorial\, you’ll 
+ learn about the emerging best practices in this nascent area. You’ll com
+ e away able to better organize your and your team’s work when developing
+  deep learning applications.
+LOCATION:Area 1 + 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natural Language Processing for Computational Social Science | Cri
+ stian Danescu-Niculescu-Mizil \, Lillian J Lee
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T110000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T130000
+DESCRIPTION:Tutorial:Natural Language Processing for Computational Social 
+ Science\nCristian Danescu-Niculescu-Mizil \, Lillian J Lee\nhttp://nips.cc
+ /Conferences/2016/Schedule?showEvent=6201\n\nMore and more of life is now 
+ manifested online\, and many of the digital\ntraces that are left by human
+  activity are increasingly recorded in\nnatural-language format. This tuto
+ rial will examine the opportunities for\nnatural language processing (NLP)
+  to contribute to computational social\nscience\, facilitating our underst
+ anding of how humans interact with others\nat both grand and intimate scal
+ es.Learning Objectives:Influence and persuasion: Can language choices affe
+ ct whether a political\nad is successful\, a social-media post gets more r
+ e-shares\, or a\nget-out-the-vote campaign will work?Language as a reflect
+ ion of social processes: can we detect status differences\, \nor more broa
+ dly\, the roles people take in online communities?   How does\nlanguage de
+ fine collective identity\, or signal imminent departure from a community?G
+ roup success: can language cues help us predict whether a group will\ncohe
+ re or fracture?  Or whether a betrayal is forthcoming? Or whether a team\n
+ will succeed at its task?Target Audience:Unrestricted
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ML Foundations and Methods for Precision Medicine and Healthcare |
+  Suchi Saria \, Peter Schulam
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T143000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T163000
+DESCRIPTION:Tutorial:ML Foundations and Methods for Precision Medicine and
+  Healthcare\nSuchi Saria \, Peter Schulam\nhttp://nips.cc/Conferences/2016
+ /Schedule?showEvent=6204\n\nElectronic health records and high throughput 
+ measurement technologies are changing the practice of healthcare to become
+  more algorithmic and data-driven. This offers an exciting opportunity for
+  machine learning to impact healthcare.The aim of this tutorial is to intr
+ oduce you to the most important challenges and techniques for developing 
+ “personalized decision-making” tools in medicine. We will also cover e
+ xample data sources and describe ongoing national initiatives that provide
+  a way for you to get involved.Target audience:\nThe majority of this tuto
+ rial will be targeted at an audience with basic machine learning knowledge
+ . \nNo background in medicine or health care is needed. We will make our s
+ lides and any relevant \ndocuments accessible after the talk.Learning obje
+ ctives:\n- Become familiar with important (computational) problems in prec
+ ision medicine and individualized health care \n- Get introduced to state-
+ of-the-art approaches \n- Hear about relevant datasets (and potential fund
+ ing sources).
+LOCATION:Area 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Large-Scale Optimization: Beyond Stochastic Gradient Descent and C
+ onvexity | Suvrit Sra \, Francis Bach
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T143000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T163000
+DESCRIPTION:Tutorial:Large-Scale Optimization: Beyond Stochastic Gradient 
+ Descent and Convexity\nSuvrit Sra \, Francis Bach\nhttp://nips.cc/Conferen
+ ces/2016/Schedule?showEvent=6200\n\nStochastic optimization lies at the he
+ art of machine learning\, and its cornerstone is stochastic gradient desce
+ nt (SGD)\, a staple introduced over 60 years ago! Recent years have\, howe
+ ver\, brought an exciting new development: variance reduction (VR) for sto
+ chastic methods. These VR methods excel in settings where more than one pa
+ ss through the training data is allowed\, achieving convergence faster tha
+ n SGD\, in theory as well as practice. These speedups underline the huge s
+ urge of interest in VR methods\; by now a large body of work has emerged\,
+  while new results appear regularly! This tutorial brings to the wider mac
+ hine learning audience the key principles behind VR methods\, by positioni
+ ng them vis-à-vis SGD. Moreover\, the tutorial takes a step beyond convex
+ ity and covers research-edge results for non-convex problems too\, while o
+ utlining key points and as yet open challenges.Learning Objectives:– Int
+ roduce fast stochastic methods to the wider ML audience to go beyond a 60-
+ year-old algorithm (SGD)\n    – Provide a guiding light through this fas
+ t moving area\, to unify\, and simplify its presentation\, outline common 
+ pitfalls\, and   to demystify its capabilities\n    – Raise awareness ab
+ out open challenges in the area\, and thereby spur future researchTarget A
+ udience\;– Graduate students (masters as well as PhD stream)– ML resea
+ rchers in academia and industry who are not experts in stochastic optimiza
+ tion– Practitioners who want to widen their repertoire of tools
+LOCATION:Rooms 211 + 212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generative Adversarial Networks | Ian Goodfellow
+DTSTART;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T143000
+DTEND;TZID=Europe/Madrid;VALUE=DATE-TIME:20161205T163000
+DESCRIPTION:Tutorial:Generative Adversarial Networks\nIan Goodfellow\nhttp
+ ://nips.cc/Conferences/2016/Schedule?showEvent=6202\n\nGenerative adversar
+ ial networks (GANs) are a recently introduced class of generative models\,
+  designed to produce realistic samples. This tutorial is intended to be ac
+ cessible to an audience who has no experience with GANs\, and should prepa
+ re the audience to make original research contributions applying GANs or i
+ mproving the core GAN algorithms. GANs are universal approximators of prob
+ ability distributions. Such models generally have an intractable log-likel
+ ihood gradient\, and require approximations such as Markov chain Monte Car
+ lo or variational lower bounds to make learning feasible. GANs avoid using
+  either of these classes of approximations. The learning process consists 
+ of a game between two adversaries: a generator network that attempts to pr
+ oduce realistic samples\, and a discriminator network that attempts to ide
+ ntify whether samples originated from the training data or from the genera
+ tive model. At the Nash equilibrium of this game\, the generator network r
+ eproduces the data distribution exactly\, and the discriminator network ca
+ nnot distinguish samples from the model from training data. Both networks 
+ can be trained using stochastic gradient descent with exact gradients comp
+ uted by maximum likelihood.Topics include:\n- An introduction to the basic
+ s of GANs.\n- A review of work applying GANs to large image generation.\n-
+  Extending the GAN framework to approximate maximum likelihood\, rather th
+ an minimizing the Jensen-Shannon divergence.\n- Improved model architectur
+ es that yield better learning in GANs.\n- Semi-supervised learning with GA
+ Ns.\n- Research frontiers\, including guaranteeing convergence of the GAN 
+ game.\n- Other applications of adversarial learning\, such as domain adapt
+ ation and privacy.Learning objectives:\n- To explain the fundamentals of h
+ ow GANs work to someone who has not heard of them previously \n- To bring 
+ the audience up to date on image generation applications of GANs\n- To pre
+ pare the audience to make original contributions to generative modeling re
+ searchTarget audience:\nThe target audience is people who are interested i
+ n generative modeling. Both people who do not have prior knowledge of GANs
+  and people who do should find something worthwhile\, but the first part o
+ f the tutorial will be less interesting to people who have prior knowledge
+  of GANs.
+LOCATION:Area 1 + 2
+END:VEVENT
+END:VCALENDAR
